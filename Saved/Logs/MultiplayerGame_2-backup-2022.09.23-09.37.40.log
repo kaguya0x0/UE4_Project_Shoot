@@ -1,0 +1,2001 @@
+﻿Log file open, 09/23/22 17:35:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MultiplayerGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.551999
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.51
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogSteamShared: Warning: SteamAPI failed to initialize, conditions not met.
+LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+LogOnline: STEAM: [AppId: 0] Client API initialized 0
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: Warning: STEAM: Steam API failed to initialize!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-0
+LogInit: Engine Version: 4.27.2-0+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug  1 2022 17:36:50
+LogInit: Compiled with Visual C++: 19.29.30141.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  /Game/MultiplayerGame/Maps/MainMenu -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=C:/game/资料/MultiplayerGame/Saved/Config/Windows/PIEGameUserSettings1.ini -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -featureleveles31 -faketouches -MultiprocessSaveConfig -windowed -ResX=1280 -ResY=720
+LogInit: Base Directory: C:/game/ue4/UnrealEngine/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.09.23-09.35.45:251][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Engine.ini]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Engine.ini]
+[2022.09.23-09.35.45:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Engine.ini]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Engine.ini]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.09.23-09.35.45:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Engine.ini]
+[2022.09.23-09.35.45:252][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Engine.ini]
+[2022.09.23-09.35.45:300][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:300][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.23-09.35.45:300][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.23-09.35.45:300][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:300][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.09.23-09.35.45:300][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:300][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.09.23-09.35.45:300][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.09.23-09.35.45:300][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.09.23-09.35.45:300][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.09.23-09.35.45:300][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.23-09.35.45:300][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.09.23-09.35.45:300][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.09.23-09.35.45:300][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.23-09.35.45:301][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.09.23-09.35.45:302][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.23-09.35.45:303][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.09.23-09.35.45:303][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.09.23-09.35.45:303][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.09.23-09.35.45:303][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.09.23-09.35.45:303][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.09.23-09.35.45:303][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.09.23-09.35.45:303][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.09.23-09.35.45:303][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.09.23-09.35.45:303][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.09.23-09.35.45:303][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.23-09.35.45:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.09.23-09.35.45:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.09.23-09.35.45:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.09.23-09.35.45:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.09.23-09.35.45:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.09.23-09.35.45:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.09.23-09.35.45:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.09.23-09.35.45:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.09.23-09.35.45:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.09.23-09.35.45:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.09.23-09.35.45:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.09.23-09.35.45:304][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.09.23-09.35.45:304][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:305][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.23-09.35.45:305][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.23-09.35.45:305][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:305][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.09.23-09.35.45:305][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.09.23-09.35.45:305][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.09.23-09.35.45:305][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.23-09.35.45:305][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.09.23-09.35.45:306][  0]LogHAL: Display: Platform has ~ 8 GB [8456753152 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.23-09.35.45:306][  0]LogInit: Going up to parent DeviceProfile []
+[2022.09.23-09.35.45:306][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.23-09.35.45:306][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:306][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.23-09.35.45:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.09.23-09.35.45:308][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.09.23-09.35.45:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.09.23-09.35.45:310][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Engine.ini]
+[2022.09.23-09.35.45:310][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/game/资料/MultiplayerGame/Saved/Config/Windows/Editor.ini]
+[2022.09.23-09.35.45:311][  0]LogInit: Computer: DESKTOP-3JAMKKS
+[2022.09.23-09.35.45:311][  0]LogInit: User: 40426
+[2022.09.23-09.35.45:311][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.09.23-09.35.45:311][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.23-09.35.45:311][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.09.23-09.35.45:311][  0]LogMemory: Platform Memory Stats for Windows
+[2022.09.23-09.35.45:311][  0]LogMemory: Process Physical Memory: 139.02 MB used, 139.02 MB peak
+[2022.09.23-09.35.45:311][  0]LogMemory: Process Virtual Memory: 121.74 MB used, 121.74 MB peak
+[2022.09.23-09.35.45:311][  0]LogMemory: Physical Memory: 6816.96 MB used,  1248.02 MB free, 8064.99 MB total
+[2022.09.23-09.35.45:311][  0]LogMemory: Virtual Memory: 134215376.00 MB used,  2349.53 MB free, 134217728.00 MB total
+[2022.09.23-09.35.45:954][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.23-09.35.46:113][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.09.23-09.35.46:114][  0]LogInit: Using OS detected language (zh-CN).
+[2022.09.23-09.35.46:114][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.09.23-09.35.46:127][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2022.09.23-09.35.46:624][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2022.09.23-09.35.46:625][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2022.09.23-09.35.46:626][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2022.09.23-09.35.46:626][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2022.09.23-09.35.46:626][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2022.09.23-09.35.46:626][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2022.09.23-09.35.46:627][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2022.09.23-09.35.46:627][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2022.09.23-09.35.46:627][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/zh/OnlineSubsystemSteam.locres' could not be opened for reading!
+[2022.09.23-09.35.46:627][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2022.09.23-09.35.46:628][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2022.09.23-09.35.46:628][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2022.09.23-09.35.46:945][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.09.23-09.35.47:001][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.23-09.35.47:001][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.23-09.35.47:035][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.09.23-09.35.47:103][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.23-09.35.47:103][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.09.23-09.35.47:103][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.09.23-09.35.47:103][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.23-09.35.47:310][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2022.09.23-09.35.47:310][  0]LogD3D11RHI:       6052/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.09.23-09.35.47:353][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2022.09.23-09.35.47:353][  0]LogD3D11RHI:       128/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.09.23-09.35.47:356][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.09.23-09.35.47:356][  0]LogD3D11RHI:       0/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.23-09.35.47:356][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.09.23-09.35.47:356][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060
+[2022.09.23-09.35.47:356][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.09.23-09.35.47:356][  0]LogD3D11RHI:     DeviceId    : 1c20
+[2022.09.23-09.35.47:356][  0]LogD3D11RHI:     SubSysId    : 7701028
+[2022.09.23-09.35.47:356][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.09.23-09.35.47:356][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.09.23-09.35.47:356][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.23-09.35.47:356][  0]LogD3D11RHI:     SharedSystemMemory : 4228376576 bytes
+[2022.09.23-09.35.47:356][  0]LogD3D11RHI:     AdapterLuid : 0 132025
+[2022.09.23-09.35.47:369][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.23-09.35.47:369][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.23-09.35.47:369][  0]LogWindows: EnumDisplayDevices:
+[2022.09.23-09.35.47:369][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2022.09.23-09.35.47:370][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2022.09.23-09.35.47:370][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2022.09.23-09.35.47:371][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2022.09.23-09.35.47:371][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2022.09.23-09.35.47:371][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2022.09.23-09.35.47:372][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2022.09.23-09.35.47:372][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI:   Driver Version: 466.18 (internal:27.21.14.6618, unified:466.18)
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI:      Driver Date: 4-18-2021
+[2022.09.23-09.35.47:372][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI:     DeviceId    : 1c20
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI:     SubSysId    : 7701028
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI:     SharedSystemMemory : 4228376576 bytes
+[2022.09.23-09.35.47:372][  0]LogD3D11RHI:     AdapterLuid : 0 132025
+[2022.09.23-09.35.47:486][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.09.23-09.35.47:486][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.23-09.35.47:486][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.09.23-09.35.47:521][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.09.23-09.35.47:638][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.09.23-09.35.48:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.09.23-09.35.48:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.23-09.35.48:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.23-09.35.48:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.23-09.35.48:100][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.09.23-09.35.48:111][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.23-09.35.48:157][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.09.23-09.35.48:209][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.23-09.35.48:209][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../资料/MultiplayerGame/Intermediate/Shaders/WorkingDirectory/8376/).
+[2022.09.23-09.35.48:209][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/40426/AppData/Local/Temp/UnrealShaderWorkingDir/B38196D042B067BE84F2688D5F291C5C/'.
+[2022.09.23-09.35.48:210][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.23-09.35.48:210][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.09.23-09.35.48:210][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.09.23-09.35.49:097][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.09.23-09.35.49:281][  0]LogDerivedDataCache: Loaded boot cache 0.18s 94MB ../../../../../资料/MultiplayerGame/DerivedDataCache/Boot.ddc.
+[2022.09.23-09.35.49:281][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../资料/MultiplayerGame/DerivedDataCache/Boot.ddc
+[2022.09.23-09.35.49:282][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../资料/MultiplayerGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.23-09.35.49:282][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.09.23-09.35.49:282][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.23-09.35.49:282][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2022.09.23-09.35.49:299][  0]LogDerivedDataCache: Speed tests for ../../../Engine/DerivedDataCache took 0.02 seconds
+[2022.09.23-09.35.49:299][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=479.15MBs, RandomWriteSpeed=62.80MBs. Assigned SpeedClass 'Local'
+[2022.09.23-09.35.49:301][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2022.09.23-09.35.49:301][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.23-09.35.49:301][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.09.23-09.35.49:337][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.23-09.35.49:338][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.23-09.35.49:557][  0]LogInit: Using OS detected language (zh-CN).
+[2022.09.23-09.35.49:557][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.09.23-09.35.49:557][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2022.09.23-09.35.49:557][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2022.09.23-09.35.49:559][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.09.23-09.35.49:560][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.09.23-09.35.49:589][  0]LogAssetRegistry: FAssetRegistry took 0.0201 seconds to start up
+[2022.09.23-09.35.50:009][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2022.09.23-09.35.50:009][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.002663 seconds
+[2022.09.23-09.35.50:141][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.23-09.35.50:142][  0]LogInit: Active device profile: [00000253007EEC00][00000253791ACD00 49] Windows
+[2022.09.23-09.35.50:142][  0]LogInit: Profiles: [00000253007EEC00][00000253791ACD00 49] Windows, [00000253007A5600][0000025378DD8E80 49] WindowsNoEditor, [00000253007ED600][0000025373A85000 49] WindowsServer, [00000253007A6600][0000025373A89180 49] WindowsClient, [00000253007EE500][0000025373A8D300 49] IOS, [00000253007A5300][0000025373A91480 49] iPadAir, [00000253007EDC00][0000025373A95600 49] iPadAir2, [0000025300753600][0000025373A9D8C0 49] IPadPro, [0000025300753700][0000025373A99900 49] iPadAir3, [00000253007ECA00][0000025373AA1A80 49] iPadAir4, [0000025300751B00][0000025373AA5C00 49] iPadMini2, [00000253007EF700][0000025373AA8200 49] iPadMini3, [0000025300753C00][0000025373AAC380 49] iPadMini4, [00000253007EEA00][0000025373AB0500 49] iPadMini5, [0000025300796F00][0000025373AB87C0 49] iPhone6, [0000025300797000][0000025373AB4800 49] iPodTouch6, [0000025300750B00][000002537F53AA40 49] iPhone7, [0000025300750900][0000025378DD4A80 49] iPodTouch7, [0000025300795A00][000002537F53EBC0 49] iPhone5S, [0000025300752A00][000002537F546D40 49] iPhone6Plus, [0000025300794A00][000002537F54AEC0 49] iPhone6S, [0000025300750A00][000002537F54F040 49] iPhone6SPlus, [0000025300795500][000002537F5531C0 49] iPhone7Plus, [0000025300752D00][000002537F557340 49] iPhoneSE, [0000025300796500][000002537F55B4C0 49] iPhone8, [0000025300751D00][000002537F55F640 49] iPhone8Plus, [0000025300796400][000002537F5637C0 49] iPhoneX, [0000025300750600][000002537F567940 49] iPhoneXS, [0000025300796300][000002537F56BAC0 49] iPhoneXSMax, [0000025300751F00][000002537F56E0C0 49] iPhoneXR, [0000025300797500][000002537F572240 49] iPhone11, [0000025300752F00][000002537F5763C0 49] iPhone11Pro, [0000025300795400][000002537F57A540 49] iPhone11ProMax, [0000025300752B00][000002537F57E6C0 49] iPhoneSE2, [0000025300796B00][000002537F582840 49] iPhone12Mini, [0000025300751200][000002537F5869C0 49] iPhone12, [0000025300794800][000002537F542B00 49] iPhone12Pro, [0000025300753800][000002537F58AC40 49] iPhone12ProMax, [0000025300797E00][000002537F58ED80 49] iPadPro105, [0000025300753300][000002537F592EC0 49] iPadPro129, [0000025300794900][000002537F59B040 49] iPadPro97, [0000025300752200][000002537F59F1C0 49] iPadPro2_129, [0000025300796600][000002537F5A3340 49] iPad5, [0000025300750100][000002537F5A74C0 49] iPad6, [0000025300794C00][000002537F5AB640 49] iPad7, [0000025300752000][000002537F5AF7C0 49] iPad8, [0000025300797400][000002537F5B3940 49] iPadPro11, [0000025300753A00][000002537F5B7AC0 49] iPadPro2_11, [0000025300794B00][000002537F5BA0C0 49] iPadPro3_129, [0000025300752500][000002537F5BE240 49] iPadPro4_129, [00000253007A7D00][000002537F5C23C0 49] AppleTV, [000002537F649000][000002537F5C6540 49] AppleTV4K, [00000253007A7900][000002537F5CA6C0 49] TVOS, [000002537F649900][000002537F5CE840 49] Mac, [00000253007A5F00][000002537F5D29C0 49] MacClient, [000002537F648A00][000002537F5D6B40 49] MacNoEditor, [00000253007A6400][000002537F596C80 49] MacServer, [000002537F649200][000002537F5DADC0 49] Linux, [00000253007A4600][000002537F5DEF00 49] LinuxAArch64, [000002537F649A00][000002537F5E3040 49] LinuxNoEditor, [00000253007A7300][000002537F5EB1C0 49] LinuxAArch64NoEditor, [000002537F648E00][0000025300801340 49] LinuxClient, [00000253007A5C00][00000253008054C0 49] LinuxAArch64Client, [000002537F649600][0000025300809640 49] LinuxServer, [00000253007A4500][000002530080D7C0 49] LinuxAArch64Server, [000002537F649800][0000025300811940 49] Android, [00000253007A5000][0000025300815AC0 49] Android_Low, [000002537F649100][00000253008180C0 49] Android_Mid, [00000253007A5100][000002530081C240 49] Android_High, [000002537F648300][00000253008203C0 49] Android_Default, [0000025300751500][0000025300824540 49] Android_Adreno4xx, [0000025300797100][00000253008286C0 49] Android_Adreno5xx_Low, [0000025300753100][000002530082C840 49] Android_Adreno5xx, [0000025300795900][00000253008309C0 49] Android_Adreno6xx, [0000025300751000][0000025300834B40 49] Android_Adreno6xx_Vulkan, [0000025300795300][0000025300838CC0 49] Android_Mali_T6xx, [0000025300752E00][000002530083CE40 49] Android_Mali_T7xx, [0000025300796E00][000002537F5E6F80 49] Android_Mali_T8xx, [0000025300752800][00000253008410C0 49] Android_Mali_G71, [0000025300795000][0000025300845200 49] Android_Mali_G72, [0000025300750F00][000002530084D380 49] Android_Mali_G72_Vulkan, [0000025300795100][0000025300851500 49] Android_Mali_G76, [0000025300753B00][0000025300855680 49] Android_Mali_G76_Vulkan, [0000025300795200][0000025300859800 49] Android_Mali_G77, [0000025300751600][000002530085D980 49] Android_Mali_G77_Vulkan, [0000025300794700][0000025300861B00 49] Android_Mali_G78, [0000025300751100][0000025300864100 49] Android_Mali_G78_Vulkan, [0000025300797700][0000025300868280 49] Android_Mali_G710, [0000025300750400][000002530086C400 49] Android_Mali_G710_Vulkan, [0000025300794F00][0000025300870580 49] Android_Vulkan_SM5, [0000025300750300][0000025300874700 49] Android_PowerVR_G6xxx, [0000025300794600][0000025300878880 49] Android_PowerVR_GT7xxx, [0000025300750500][000002530087CA00 49] Android_PowerVR_GE8xxx, [0000025300794E00][0000025300880B80 49] Android_PowerVR_GM9xxx, [0000025300751300][0000025300884D00 49] Android_PowerVR_GM9xxx_Vulkan, [000002537F648400][0000025300888E80 49] Android_TegraK1, [0000025300751800][000002530088D000 49] Android_Unknown_Vulkan, [00000253007EDB00][0000025300849140 49] Lumin, [00000253007A6F00][0000025300891280 49] Lumin_Desktop, [00000253007ED200][00000253008953C0 49] HoloLens, 
+[2022.09.23-09.35.50:225][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.23-09.35.50:225][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.23-09.35.50:225][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.23-09.35.50:225][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.23-09.35.50:225][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.23-09.35.50:374][  0]LogNetVersion: MultiplayerGame 1.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1559321483)
+[2022.09.23-09.35.50:500][  0]LogMaterial: Display: Missing cached shadermap for M_ChromeBall in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 411D7BFCF981969D6F5E959E851AE6D85498F087), compiling. 
+[2022.09.23-09.35.50:791][  0]LogShaderCompilers: Display: Submitted 64 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.50:820][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2022.09.23-09.35.50:820][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2022.09.23-09.35.50:820][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2022.09.23-09.35.50:820][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2022.09.23-09.35.50:820][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 24
+[2022.09.23-09.35.50:820][  0]LogShaderCompilers: Display: Started 50 'Local' shader compile jobs with 'Low' priority
+[2022.09.23-09.35.50:820][  0]LogMaterial: Display: Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: FEE0D9598D35D7805EBB0C3909030492D7463FEE), compiling. 
+[2022.09.23-09.35.50:876][  0]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.50:901][  0]LogTexture: Warning: VolumeTexture /Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.T_VolumeNoiseErosion32 cannot be created, rhi does not support format DXT1.
+[2022.09.23-09.35.50:902][  0]LogTexture: Warning: VolumeTexture /Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.T_VolumeNoiseShape64 cannot be created, rhi does not support format DXT1.
+[2022.09.23-09.35.50:906][  0]LogMaterial: Display: Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 48AD591D280EE4B1DFA5ADE8BA11340CA7F131CF), compiling. 
+[2022.09.23-09.35.50:929][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.50:955][  0]LogMaterial: Display: Missing cached shadermap for BaseFlattenMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 0E44C3A6BC8434BB44C1A358081C21ACEB5DAB2B), compiling. 
+[2022.09.23-09.35.51:066][  0]LogShaderCompilers: Display: Submitted 56 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:191][  0]LogMaterial: Display: Missing cached shadermap for Xray in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 0CCF54E0B36E167AC2BB68C0D73140804E66F287), compiling. 
+[2022.09.23-09.35.51:233][  0]LogShaderCompilers: Display: Submitted 17 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:235][  0]LogMaterial: Display: Missing cached shadermap for Main in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: F233F6BF0B9FB5EED0C0E050BD87CFBAA119935F), compiling. 
+[2022.09.23-09.35.51:245][  0]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:252][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 087FA36A32D5A17F52C716850D04F451825F0D6B), compiling. 
+[2022.09.23-09.35.51:261][  0]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:262][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: E631D431647AA1658450F9FC8FCBA0ED88D88E4F), compiling. 
+[2022.09.23-09.35.51:275][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:278][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 446347283B2E8C1771086E980F59DE510FA73CF7), compiling. 
+[2022.09.23-09.35.51:296][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:298][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 4CA995D7D7C3E8A58FAB761B4FFB4F600C78168B), compiling. 
+[2022.09.23-09.35.51:307][  0]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:311][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 14023BC552A01C22292381E6FBA7AA640A00D325), compiling. 
+[2022.09.23-09.35.51:346][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:349][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked_OneSided in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: C34BDAF90795B58A1C961D0A932F613A4E899D62), compiling. 
+[2022.09.23-09.35.51:370][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:376][  0]LogMaterial: Display: Missing cached shadermap for Widget3DCameraPassThrough_Opaque_OneSided in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: B9886122CEAE65D53453EFFC78C8514C303BD80F), compiling. 
+[2022.09.23-09.35.51:390][  0]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:399][  0]LogMaterial: Display: Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 8A858361C7995339EA2FC93A381F0A92638F3A21), compiling. 
+[2022.09.23-09.35.51:410][  0]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:411][  0]LogMaterial: Display: Missing cached shadermap for TransformGizmoMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 77E9CDFA7F0C677B3EE6B0450671CFA1E4A80258), compiling. 
+[2022.09.23-09.35.51:423][  0]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:453][  0]LogMaterial: Display: Missing cached shadermap for CineMat in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 125FB78ACBE35DCE1BEEA6623335CF41C30A31FA), compiling. 
+[2022.09.23-09.35.51:532][  0]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:551][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleOpaque in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 623C7A7FD881D31422B90E543753F3147F62B36D), compiling. 
+[2022.09.23-09.35.51:588][  0]LogShaderCompilers: Display: Submitted 17 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:605][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 4352A21F596CE124DD8D22AE709F35A29FCB54A9), compiling. 
+[2022.09.23-09.35.51:615][  0]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:775][  0]LogMaterial: Display: Missing cached shadermap for SkySphereMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 0CD5F94B3CDBBFCD0318E1D8587F6C7D15BEB789), compiling. 
+[2022.09.23-09.35.51:790][  0]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:797][  0]LogMaterial: Display: Missing cached shadermap for FloorPlaneMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: E91614D6A85CEDA5076B2E71AF80C0CF4858D2A5), compiling. 
+[2022.09.23-09.35.51:897][  0]LogShaderCompilers: Display: Submitted 47 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.51:899][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.09.23-09.35.52:124][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmo_Mat in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 521AFBF897B359D388AD236E6790A02AAFC801FF), compiling. 
+[2022.09.23-09.35.52:150][  0]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.52:160][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmoHeight_Mat in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 27F96617D30361335C9A220F5F5B8A7F43C3087C), compiling. 
+[2022.09.23-09.35.52:250][  0]LogShaderCompilers: Display: Submitted 57 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.52:259][  0]LogMaterial: Display: Missing cached shadermap for SplineEditorMeshMat in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 111D21999C5FF816ACB895596065D238C1E00085), compiling. 
+[2022.09.23-09.35.52:289][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.52:311][  0]LogMaterial: Display: Missing cached shadermap for PokeAHoleMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: D778CF52CA4D7AD80E05CC94898F023CF5BBBDDF), compiling. 
+[2022.09.23-09.35.52:326][  0]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.52:326][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.09.23-09.35.52:498][  0]LogMoviePlayer: Initializing movie player
+[2022.09.23-09.35.52:666][  0]LogMaterial: Display: Missing cached shadermap for DefaultSpriteMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 62C136EC147F542AF57FED8A6009CF46C498CBFF), compiling. 
+[2022.09.23-09.35.52:726][  0]LogShaderCompilers: Display: Submitted 39 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.52:789][  0]LogPython: Using Python 3.7.7
+[2022.09.23-09.35.54:305][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 8F5D0D894A18B3F26E78BDB1636C9E63 | Instance: 343792214BDE7D2C4B0710B7CDA20188 (DESKTOP-3JAMKKS-8376).
+[2022.09.23-09.35.54:335][  0]LogCollectionManager: Loaded 0 collections in 0.002175 seconds
+[2022.09.23-09.35.54:460][  0]LogFileCache: Scanning file cache for directory 'C:/game/资料/MultiplayerGame/Saved/Collections/' took 0.11s
+[2022.09.23-09.35.54:460][  0]LogFileCache: Scanning file cache for directory 'C:/game/资料/MultiplayerGame/Content/Developers/40426/Collections/' took 0.00s
+[2022.09.23-09.35.54:460][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.09.23-09.35.54:583][  0]LogFileCache: Scanning file cache for directory 'C:/game/资料/MultiplayerGame/Content/Collections/' took 0.01s
+[2022.09.23-09.35.54:583][  0]LogMaterial: Display: Missing cached shadermap for DefaultMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 8B86A02B7A8CDCAFF22697562350B6F349DF95FF), compiling. 
+[2022.09.23-09.35.55:128][  0]LogShaderCompilers: Display: Submitted 260 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.55:130][  0]LogMaterial: Display: Missing cached shadermap for M_Emissive_Color in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 5C881BE4F3C3D2FAA136AD5619A1F3D422C867C9), compiling. 
+[2022.09.23-09.35.55:142][  0]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.55:149][  0]LogMaterial: Display: Missing cached shadermap for VertexColorMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 2F5325A2776B067E268280D070A2D18D48FC5498), compiling. 
+[2022.09.23-09.35.55:351][  0]LogShaderCompilers: Display: Submitted 95 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.55:359][  0]LogMaterial: Display: Missing cached shadermap for WireframeMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 7DE8BBFBF0C02A7990B86ACF310CCCCEF7629542), compiling. Is special engine material.
+[2022.09.23-09.35.56:441][  0]LogShaderCompilers: Display: Submitted 288 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.56:787][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.23-09.35.56:824][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.23-09.35.56:924][  0]SourceControl: Source control is disabled
+[2022.09.23-09.35.56:924][  0]SourceControl: Source control is disabled
+[2022.09.23-09.35.56:926][  0]SourceControl: Source control is disabled
+[2022.09.23-09.35.56:933][  0]LogUProjectInfo: Found projects:
+[2022.09.23-09.35.57:101][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.23-09.35.57:135][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.23-09.35.57:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.23-09.35.57:152][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.23-09.35.57:242][  0]LogMaterial: Display: Missing cached shadermap for OculusMR_ChromaKey in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 5356510652BE66D3102250365C2C909FF127AC63), compiling. 
+[2022.09.23-09.35.57:257][  0]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.57:259][  0]LogMaterial: Display: Missing cached shadermap for OculusMR_OpaqueColoredMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 88264F71A75BD86C9D7217ABD9C8F2131C2551E2), compiling. 
+[2022.09.23-09.35.57:268][  0]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.57:269][  0]LogOcInput: OculusInput pre-init called
+[2022.09.23-09.35.57:287][  0]LogUObjectArray: 22129 objects as part of root set at end of initial load.
+[2022.09.23-09.35.57:288][  0]LogUObjectAllocator: 5987536 out of 0 bytes used by permanent object pool.
+[2022.09.23-09.35.57:288][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.23-09.35.57:357][  0]LogMaterial: Display: Missing cached shadermap for HighResScreenshot in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 7F7DD3D647FF1F2DA3DAEE543F85036FFE072097), compiling. 
+[2022.09.23-09.35.57:375][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.57:378][  0]LogMaterial: Display: Missing cached shadermap for HighResScreenshotMask in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 229B82D815D62DEAE009A1199B61114B9CA0E724), compiling. 
+[2022.09.23-09.35.57:392][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.57:397][  0]LogMaterial: Display: Missing cached shadermap for HighResScreenshotCaptureRegion in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: A5C406DE51755EB200E2D0DB88AB4A10FA75F938), compiling. 
+[2022.09.23-09.35.57:409][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.57:477][  0]LogEngine: Initializing Engine...
+[2022.09.23-09.35.57:481][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.09.23-09.35.57:482][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.23-09.35.57:482][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.09.23-09.35.57:489][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.23-09.35.57:501][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationLitMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: C780FED87902D7EA83F49A060370619CB51F245F), compiling. Is special engine material.
+[2022.09.23-09.35.59:436][  0]LogShaderCompilers: Display: Submitted 699 shader compile jobs with 'Low' priority
+[2022.09.23-09.35.59:445][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 686BC835A2D3834B406A580F2FCA5EDF2EE10BBE), compiling. Is special engine material.
+[2022.09.23-09.36.00:102][  0]LogShaderCompilers: Display: Submitted 246 shader compile jobs with 'Low' priority
+[2022.09.23-09.36.00:110][  0]LogMaterial: Display: Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: C9FA8D0DE01E189FFE9743C5D71B9058272B8348), compiling. Is special engine material.
+[2022.09.23-09.36.01:201][  0]LogShaderCompilers: Display: Submitted 699 shader compile jobs with 'Low' priority
+[2022.09.23-09.36.01:207][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 6E85929478BC7F8716292D93D521FBC773EB7CAA), compiling. Is special engine material.
+[2022.09.23-09.36.02:501][  0]LogShaderCompilers: Display: Submitted 699 shader compile jobs with 'Low' priority
+[2022.09.23-09.36.02:508][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_ES3_1, Default, ES3_1 (DDC key hash: 7380971470394EE0B4AD8AB3344450A01AC12B5B), compiling. Is special engine material.
+[2022.09.23-09.36.02:814][  0]LogShaderCompilers: Display: Submitted 246 shader compile jobs with 'Low' priority
+[2022.09.23-09.36.08:604][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.23-09.36.08:604][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.23-09.36.08:608][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.23-09.36.08:609][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.23-09.36.08:610][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.23-09.36.08:610][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.23-09.36.08:611][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.23-09.36.08:611][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.23-09.36.08:611][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.23-09.36.08:611][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.23-09.36.08:611][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.23-09.36.08:611][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.23-09.36.08:611][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.23-09.36.08:611][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.23-09.36.08:612][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.23-09.36.08:612][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.23-09.36.08:612][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.23-09.36.08:612][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.23-09.36.08:670][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.23-09.36.08:670][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.09.23-09.36.08:670][  0]LogAudioMixer: Display: 2: FrontCenter
+[2022.09.23-09.36.08:670][  0]LogAudioMixer: Display: 3: LowFrequency
+[2022.09.23-09.36.08:670][  0]LogAudioMixer: Display: 4: BackLeft
+[2022.09.23-09.36.08:670][  0]LogAudioMixer: Display: 5: BackRight
+[2022.09.23-09.36.08:670][  0]LogAudioMixer: Display: 6: SideLeft
+[2022.09.23-09.36.08:670][  0]LogAudioMixer: Display: 7: SideRight
+[2022.09.23-09.36.08:874][  0]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.09.23-09.36.08:884][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.23-09.36.08:889][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.23-09.36.08:889][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.23-09.36.08:901][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.23-09.36.08:902][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.23-09.36.08:902][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.09.23-09.36.08:904][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.23-09.36.08:904][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.23-09.36.08:904][  0]LogInit: FAudioDevice initialized.
+[2022.09.23-09.36.08:927][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.23-09.36.09:057][  0]LogInit: Texture streaming: Enabled
+[2022.09.23-09.36.09:862][  0]LogSkeletalMesh: Display: [AssetLog] C:\game\资料\MultiplayerGame\Content\SciFiWeapDark\Weapons\Darkness_Pistol.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.09.23-09.36.09:980][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.23-09.36.09:985][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-09.36.09:987][  0]LogInit: Display: Game Engine Initialized.
+[2022.09.23-09.36.09:988][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.09.23-09.36.10:738][  0]LogInit: Display: Starting Game.
+[2022.09.23-09.36.10:739][  0]LogNet: Browse: /Game/MultiplayerGame/Maps/MainMenu?Name=Player
+[2022.09.23-09.36.10:739][  0]LogLoad: LoadMap: /Game/MultiplayerGame/Maps/MainMenu?Name=Player
+[2022.09.23-09.36.10:739][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.09.23-09.36.10:759][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.23-09.36.10:759][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.23-09.36.10:799][  0]LogAudio: Display: Waited 36.947601 ms for audio thread.
+[2022.09.23-09.36.10:808][  0]LogAudio: Display: Waited 46.852100 ms for audio thread.
+[2022.09.23-09.36.16:255][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.23-09.36.16:281][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.09.23-09.36.16:647][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.09.23-09.36.16:669][  0]LogAIModule: Creating AISystem for world MainMenu
+[2022.09.23-09.36.16:670][  0]LogLoad: Game class is 'BP_MainMenuGameMode_C'
+[2022.09.23-09.36.16:674][  0]LogWorld: Bringing World /Game/MultiplayerGame/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2022.09.23-17.36.16
+[2022.09.23-09.36.16:674][  0]LogWorld: Bringing up level for play took: 0.001362
+[2022.09.23-09.36.16:676][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.09.23-09.36.16:686][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.23-09.36.16:686][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.23-09.36.16:686][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.23-09.36.16:690][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.09.23-09.36.16:690][  0]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.09.23-09.36.16:690][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.09.23-09.36.16:693][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.23-09.36.16:693][  0]LogLoad: Took 5.954524 seconds to LoadMap(/Game/MultiplayerGame/Maps/MainMenu)
+[2022.09.23-09.36.16:786][  0]LogSlate: Took 0.000581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.23-09.36.16:872][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.09.23-09.36.16:872][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.23-09.36.16:872][  0]LogLoad: (Engine Initialization) Total time: 35.14 seconds
+[2022.09.23-09.36.16:872][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.23-09.36.16:890][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.23-09.36.16:905][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.23-09.36.16:941][  1]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.23-09.36.21:527][305]LogAudio: Display: Waited 39.666298 ms for audio thread.
+[2022.09.23-09.36.21:533][305]LogAudio: Display: Waited 45.566601 ms for audio thread.
+[2022.09.23-09.36.21:571][306]LogAudio: Display: Waited 35.359798 ms for audio thread.
+[2022.09.23-09.36.21:576][306]LogAudio: Display: Waited 41.010998 ms for audio thread.
+[2022.09.23-09.36.21:819][324]LogAudio: Display: Waited 35.568199 ms for audio thread.
+[2022.09.23-09.36.21:851][324]LogAudio: Display: Waited 67.338402 ms for audio thread.
+[2022.09.23-09.36.21:932][327]LogAudio: Display: Waited 36.153099 ms for audio thread.
+[2022.09.23-09.36.21:968][327]LogAudio: Display: Waited 72.078598 ms for audio thread.
+[2022.09.23-09.36.21:983][327]LogAudio: Display: Waited 87.225403 ms for audio thread.
+[2022.09.23-09.36.22:031][329]LogAudio: Display: Waited 35.606800 ms for audio thread.
+[2022.09.23-09.36.22:068][329]LogAudio: Display: Waited 73.499100 ms for audio thread.
+[2022.09.23-09.36.22:078][329]LogAudio: Display: Waited 83.899300 ms for audio thread.
+[2022.09.23-09.36.22:124][330]LogAudio: Display: Waited 37.748501 ms for audio thread.
+[2022.09.23-09.36.22:154][330]LogAudio: Display: Waited 68.076607 ms for audio thread.
+[2022.09.23-09.36.22:210][332]LogAudio: Display: Waited 38.845798 ms for audio thread.
+[2022.09.23-09.36.22:256][332]LogAudio: Display: Waited 84.687798 ms for audio thread.
+[2022.09.23-09.36.22:283][332]LogAudio: Display: Waited 113.172501 ms for audio thread.
+[2022.09.23-09.36.22:338][334]LogAudio: Display: Waited 35.616100 ms for audio thread.
+[2022.09.23-09.36.22:374][334]LogAudio: Display: Waited 71.417900 ms for audio thread.
+[2022.09.23-09.36.22:411][334]LogAudio: Display: Waited 108.801201 ms for audio thread.
+[2022.09.23-09.36.22:447][334]LogAudio: Display: Waited 144.589310 ms for audio thread.
+[2022.09.23-09.36.22:470][334]LogAudio: Display: Waited 167.099991 ms for audio thread.
+[2022.09.23-09.36.22:633][342]LogAudio: Display: Waited 35.426601 ms for audio thread.
+[2022.09.23-09.36.22:639][342]LogAudio: Display: Waited 41.282700 ms for audio thread.
+[2022.09.23-09.36.23:075][371]LogAudio: Display: Waited 43.913101 ms for audio thread.
+[2022.09.23-09.36.23:076][371]LogAudio: Display: Waited 44.473301 ms for audio thread.
+[2022.09.23-09.36.23:439][405]LogAudio: Display: Waited 35.884201 ms for audio thread.
+[2022.09.23-09.36.23:476][405]LogAudio: Display: Waited 73.684502 ms for audio thread.
+[2022.09.23-09.36.23:512][405]LogAudio: Display: Waited 109.088104 ms for audio thread.
+[2022.09.23-09.36.23:548][405]LogAudio: Display: Waited 145.741302 ms for audio thread.
+[2022.09.23-09.36.23:585][405]LogAudio: Display: Waited 181.832993 ms for audio thread.
+[2022.09.23-09.36.23:621][405]LogAudio: Display: Waited 217.421799 ms for audio thread.
+[2022.09.23-09.36.23:666][405]LogAudio: Display: Waited 263.070099 ms for audio thread.
+[2022.09.23-09.36.23:703][405]LogAudio: Display: Waited 300.295593 ms for audio thread.
+[2022.09.23-09.36.23:740][405]LogAudio: Display: Waited 336.771088 ms for audio thread.
+[2022.09.23-09.36.23:775][405]LogAudio: Display: Waited 372.350525 ms for audio thread.
+[2022.09.23-09.36.23:811][405]LogAudio: Display: Waited 407.951294 ms for audio thread.
+[2022.09.23-09.36.23:847][405]LogAudio: Display: Waited 443.910675 ms for audio thread.
+[2022.09.23-09.36.23:886][405]LogAudio: Display: Waited 483.269104 ms for audio thread.
+[2022.09.23-09.36.23:922][405]LogAudio: Display: Waited 518.673157 ms for audio thread.
+[2022.09.23-09.36.23:959][405]LogAudio: Display: Waited 555.979614 ms for audio thread.
+[2022.09.23-09.36.23:995][405]LogAudio: Display: Waited 591.709351 ms for audio thread.
+[2022.09.23-09.36.24:031][405]LogAudio: Display: Waited 627.634827 ms for audio thread.
+[2022.09.23-09.36.24:067][405]LogAudio: Display: Waited 663.514893 ms for audio thread.
+[2022.09.23-09.36.24:105][405]LogAudio: Display: Waited 702.823669 ms for audio thread.
+[2022.09.23-09.36.24:154][405]LogAudio: Display: Waited 751.029602 ms for audio thread.
+[2022.09.23-09.36.24:190][405]LogAudio: Display: Waited 787.270447 ms for audio thread.
+[2022.09.23-09.36.24:226][405]LogAudio: Display: Waited 823.131226 ms for audio thread.
+[2022.09.23-09.36.24:264][405]LogAudio: Display: Waited 861.626709 ms for audio thread.
+[2022.09.23-09.36.24:299][405]LogAudio: Display: Waited 896.188049 ms for audio thread.
+[2022.09.23-09.36.24:335][405]LogAudio: Display: Waited 932.008118 ms for audio thread.
+[2022.09.23-09.36.24:371][405]LogAudio: Display: Waited 968.218689 ms for audio thread.
+[2022.09.23-09.36.24:406][405]LogAudio: Display: Waited 1003.198730 ms for audio thread.
+[2022.09.23-09.36.24:441][405]LogAudio: Display: Waited 1038.046509 ms for audio thread.
+[2022.09.23-09.36.24:477][405]LogAudio: Display: Waited 1073.945557 ms for audio thread.
+[2022.09.23-09.36.24:514][405]LogAudio: Display: Waited 1111.204712 ms for audio thread.
+[2022.09.23-09.36.24:550][405]LogAudio: Display: Waited 1146.754517 ms for audio thread.
+[2022.09.23-09.36.24:586][405]LogAudio: Display: Waited 1182.341919 ms for audio thread.
+[2022.09.23-09.36.24:627][405]LogAudio: Display: Waited 1224.214722 ms for audio thread.
+[2022.09.23-09.36.24:670][405]LogAudio: Display: Waited 1267.179565 ms for audio thread.
+[2022.09.23-09.36.24:706][405]LogAudio: Display: Waited 1302.402344 ms for audio thread.
+[2022.09.23-09.36.24:742][405]LogAudio: Display: Waited 1338.766235 ms for audio thread.
+[2022.09.23-09.36.24:777][405]LogAudio: Display: Waited 1373.926147 ms for audio thread.
+[2022.09.23-09.36.24:813][405]LogAudio: Display: Waited 1410.368774 ms for audio thread.
+[2022.09.23-09.36.24:850][405]LogAudio: Display: Waited 1446.494385 ms for audio thread.
+[2022.09.23-09.36.24:888][405]LogAudio: Display: Waited 1483.673584 ms for audio thread.
+[2022.09.23-09.36.24:923][405]LogAudio: Display: Waited 1520.241699 ms for audio thread.
+[2022.09.23-09.36.24:960][405]LogAudio: Display: Waited 1556.845581 ms for audio thread.
+[2022.09.23-09.36.24:996][405]LogAudio: Display: Waited 1593.394897 ms for audio thread.
+[2022.09.23-09.36.25:033][405]LogAudio: Display: Waited 1629.621704 ms for audio thread.
+[2022.09.23-09.36.25:069][405]LogAudio: Display: Waited 1665.556519 ms for audio thread.
+[2022.09.23-09.36.25:105][405]LogAudio: Display: Waited 1702.054932 ms for audio thread.
+[2022.09.23-09.36.25:142][405]LogAudio: Display: Waited 1739.075195 ms for audio thread.
+[2022.09.23-09.36.25:178][405]LogAudio: Display: Waited 1774.716675 ms for audio thread.
+[2022.09.23-09.36.25:214][405]LogAudio: Display: Waited 1810.861572 ms for audio thread.
+[2022.09.23-09.36.25:250][405]LogAudio: Display: Waited 1846.708984 ms for audio thread.
+[2022.09.23-09.36.25:287][405]LogAudio: Display: Waited 1883.728394 ms for audio thread.
+[2022.09.23-09.36.25:327][405]LogAudio: Display: Waited 1923.899048 ms for audio thread.
+[2022.09.23-09.36.25:367][405]LogAudio: Display: Waited 1964.702759 ms for audio thread.
+[2022.09.23-09.36.25:407][405]LogAudio: Display: Waited 2003.820190 ms for audio thread.
+[2022.09.23-09.36.25:444][405]LogAudio: Display: Waited 2040.555298 ms for audio thread.
+[2022.09.23-09.36.25:484][405]LogAudio: Display: Waited 2079.882324 ms for audio thread.
+[2022.09.23-09.36.25:522][405]LogAudio: Display: Waited 2118.502930 ms for audio thread.
+[2022.09.23-09.36.25:559][405]LogAudio: Display: Waited 2155.345703 ms for audio thread.
+[2022.09.23-09.36.25:596][405]LogAudio: Display: Waited 2192.117188 ms for audio thread.
+[2022.09.23-09.36.25:632][405]LogAudio: Display: Waited 2228.720947 ms for audio thread.
+[2022.09.23-09.36.25:673][405]LogAudio: Display: Waited 2269.968506 ms for audio thread.
+[2022.09.23-09.36.25:709][405]LogAudio: Display: Waited 2305.671143 ms for audio thread.
+[2022.09.23-09.36.25:745][405]LogAudio: Display: Waited 2342.104492 ms for audio thread.
+[2022.09.23-09.36.25:785][405]LogAudio: Display: Waited 2381.548584 ms for audio thread.
+[2022.09.23-09.36.25:821][405]LogAudio: Display: Waited 2417.330811 ms for audio thread.
+[2022.09.23-09.36.25:860][405]LogAudio: Display: Waited 2456.186279 ms for audio thread.
+[2022.09.23-09.36.25:896][405]LogAudio: Display: Waited 2492.752930 ms for audio thread.
+[2022.09.23-09.36.25:932][405]LogAudio: Display: Waited 2528.892578 ms for audio thread.
+[2022.09.23-09.36.25:969][405]LogAudio: Display: Waited 2566.082275 ms for audio thread.
+[2022.09.23-09.36.26:008][405]LogAudio: Display: Waited 2605.436035 ms for audio thread.
+[2022.09.23-09.36.26:044][405]LogAudio: Display: Waited 2641.511963 ms for audio thread.
+[2022.09.23-09.36.26:081][405]LogAudio: Display: Waited 2677.467285 ms for audio thread.
+[2022.09.23-09.36.26:117][405]LogAudio: Display: Waited 2713.715088 ms for audio thread.
+[2022.09.23-09.36.26:154][405]LogAudio: Display: Waited 2751.413574 ms for audio thread.
+[2022.09.23-09.36.26:203][405]LogAudio: Display: Waited 2799.443115 ms for audio thread.
+[2022.09.23-09.36.26:245][405]LogAudio: Display: Waited 2841.322754 ms for audio thread.
+[2022.09.23-09.36.26:283][405]LogAudio: Display: Waited 2879.450439 ms for audio thread.
+[2022.09.23-09.36.26:318][405]LogAudio: Display: Waited 2915.162109 ms for audio thread.
+[2022.09.23-09.36.26:363][405]LogAudio: Display: Waited 2960.283447 ms for audio thread.
+[2022.09.23-09.36.26:400][405]LogAudio: Display: Waited 2996.392090 ms for audio thread.
+[2022.09.23-09.36.26:436][405]LogAudio: Display: Waited 3032.678955 ms for audio thread.
+[2022.09.23-09.36.26:472][405]LogAudio: Display: Waited 3068.269043 ms for audio thread.
+[2022.09.23-09.36.26:507][405]LogAudio: Display: Waited 3104.670166 ms for audio thread.
+[2022.09.23-09.36.26:545][405]LogAudio: Display: Waited 3142.274902 ms for audio thread.
+[2022.09.23-09.36.26:588][405]LogAudio: Display: Waited 3185.367188 ms for audio thread.
+[2022.09.23-09.36.26:631][405]LogAudio: Display: Waited 3227.847900 ms for audio thread.
+[2022.09.23-09.36.26:669][405]LogAudio: Display: Waited 3265.779541 ms for audio thread.
+[2022.09.23-09.36.26:704][405]LogAudio: Display: Waited 3301.239990 ms for audio thread.
+[2022.09.23-09.36.26:740][405]LogAudio: Display: Waited 3337.009033 ms for audio thread.
+[2022.09.23-09.36.26:777][405]LogAudio: Display: Waited 3373.485107 ms for audio thread.
+[2022.09.23-09.36.26:812][405]LogAudio: Display: Waited 3408.907227 ms for audio thread.
+[2022.09.23-09.36.26:832][405]LogAudio: Display: Waited 3429.632080 ms for audio thread.
+[2022.09.23-09.36.26:896][408]LogAudio: Display: Waited 39.642700 ms for audio thread.
+[2022.09.23-09.36.26:938][408]LogAudio: Display: Waited 82.148903 ms for audio thread.
+[2022.09.23-09.36.26:977][408]LogAudio: Display: Waited 120.712105 ms for audio thread.
+[2022.09.23-09.36.27:019][408]LogAudio: Display: Waited 162.695709 ms for audio thread.
+[2022.09.23-09.36.27:056][408]LogAudio: Display: Waited 200.623001 ms for audio thread.
+[2022.09.23-09.36.27:098][408]LogAudio: Display: Waited 241.779190 ms for audio thread.
+[2022.09.23-09.36.27:138][408]LogAudio: Display: Waited 282.133484 ms for audio thread.
+[2022.09.23-09.36.27:183][408]LogAudio: Display: Waited 326.860596 ms for audio thread.
+[2022.09.23-09.36.27:219][408]LogAudio: Display: Waited 362.682617 ms for audio thread.
+[2022.09.23-09.36.27:257][408]LogAudio: Display: Waited 400.923096 ms for audio thread.
+[2022.09.23-09.36.27:297][408]LogAudio: Display: Waited 440.384583 ms for audio thread.
+[2022.09.23-09.36.27:333][408]LogAudio: Display: Waited 477.371979 ms for audio thread.
+[2022.09.23-09.36.27:370][408]LogAudio: Display: Waited 513.021606 ms for audio thread.
+[2022.09.23-09.36.27:406][408]LogAudio: Display: Waited 549.989014 ms for audio thread.
+[2022.09.23-09.36.27:442][408]LogAudio: Display: Waited 586.220703 ms for audio thread.
+[2022.09.23-09.36.27:478][408]LogAudio: Display: Waited 621.725647 ms for audio thread.
+[2022.09.23-09.36.27:514][408]LogAudio: Display: Waited 658.162781 ms for audio thread.
+[2022.09.23-09.36.27:551][408]LogAudio: Display: Waited 694.582275 ms for audio thread.
+[2022.09.23-09.36.27:589][408]LogAudio: Display: Waited 732.838928 ms for audio thread.
+[2022.09.23-09.36.27:626][408]LogAudio: Display: Waited 769.349487 ms for audio thread.
+[2022.09.23-09.36.27:654][408]LogAudio: Display: Waited 797.539429 ms for audio thread.
+[2022.09.23-09.36.29:287][606]LogAudio: Display: Waited 75.557098 ms for audio thread.
+[2022.09.23-09.36.29:325][606]LogAudio: Display: Waited 113.838097 ms for audio thread.
+[2022.09.23-09.36.29:361][606]LogAudio: Display: Waited 149.364609 ms for audio thread.
+[2022.09.23-09.36.29:396][606]LogAudio: Display: Waited 184.406998 ms for audio thread.
+[2022.09.23-09.36.29:432][606]LogAudio: Display: Waited 220.359695 ms for audio thread.
+[2022.09.23-09.36.29:468][606]LogAudio: Display: Waited 255.854691 ms for audio thread.
+[2022.09.23-09.36.29:503][606]LogAudio: Display: Waited 291.804779 ms for audio thread.
+[2022.09.23-09.36.29:539][606]LogAudio: Display: Waited 327.663910 ms for audio thread.
+[2022.09.23-09.36.29:579][606]LogAudio: Display: Waited 367.825195 ms for audio thread.
+[2022.09.23-09.36.29:627][606]LogAudio: Display: Waited 416.086487 ms for audio thread.
+[2022.09.23-09.36.29:668][606]LogAudio: Display: Waited 456.971283 ms for audio thread.
+[2022.09.23-09.36.29:704][606]LogAudio: Display: Waited 493.086304 ms for audio thread.
+[2022.09.23-09.36.29:751][606]LogAudio: Display: Waited 539.823425 ms for audio thread.
+[2022.09.23-09.36.29:793][606]LogAudio: Display: Waited 581.479614 ms for audio thread.
+[2022.09.23-09.36.29:829][606]LogAudio: Display: Waited 617.956604 ms for audio thread.
+[2022.09.23-09.36.29:867][606]LogAudio: Display: Waited 655.132202 ms for audio thread.
+[2022.09.23-09.36.29:902][606]LogAudio: Display: Waited 690.716492 ms for audio thread.
+[2022.09.23-09.36.29:940][606]LogAudio: Display: Waited 727.476196 ms for audio thread.
+[2022.09.23-09.36.29:977][606]LogAudio: Display: Waited 766.233398 ms for audio thread.
+[2022.09.23-09.36.30:015][606]LogAudio: Display: Waited 803.810486 ms for audio thread.
+[2022.09.23-09.36.30:051][606]LogAudio: Display: Waited 839.324280 ms for audio thread.
+[2022.09.23-09.36.30:087][606]LogAudio: Display: Waited 875.327087 ms for audio thread.
+[2022.09.23-09.36.30:127][606]LogAudio: Display: Waited 915.258728 ms for audio thread.
+[2022.09.23-09.36.30:162][606]LogAudio: Display: Waited 951.076782 ms for audio thread.
+[2022.09.23-09.36.30:204][606]LogAudio: Display: Waited 988.633301 ms for audio thread.
+[2022.09.23-09.36.30:242][606]LogAudio: Display: Waited 1030.739624 ms for audio thread.
+[2022.09.23-09.36.30:277][606]LogAudio: Display: Waited 1065.335571 ms for audio thread.
+[2022.09.23-09.36.30:316][606]LogAudio: Display: Waited 1104.375488 ms for audio thread.
+[2022.09.23-09.36.30:359][606]LogAudio: Display: Waited 1147.215210 ms for audio thread.
+[2022.09.23-09.36.30:394][606]LogAudio: Display: Waited 1183.331299 ms for audio thread.
+[2022.09.23-09.36.30:438][606]LogAudio: Display: Waited 1226.223999 ms for audio thread.
+[2022.09.23-09.36.30:477][606]LogAudio: Display: Waited 1265.483521 ms for audio thread.
+[2022.09.23-09.36.30:512][606]LogAudio: Display: Waited 1300.916138 ms for audio thread.
+[2022.09.23-09.36.30:548][606]LogAudio: Display: Waited 1337.155640 ms for audio thread.
+[2022.09.23-09.36.30:587][606]LogAudio: Display: Waited 1375.514526 ms for audio thread.
+[2022.09.23-09.36.30:626][606]LogAudio: Display: Waited 1415.226074 ms for audio thread.
+[2022.09.23-09.36.30:664][606]LogAudio: Display: Waited 1453.537231 ms for audio thread.
+[2022.09.23-09.36.30:701][606]LogAudio: Display: Waited 1489.323853 ms for audio thread.
+[2022.09.23-09.36.30:737][606]LogAudio: Display: Waited 1525.195068 ms for audio thread.
+[2022.09.23-09.36.30:777][606]LogAudio: Display: Waited 1565.174072 ms for audio thread.
+[2022.09.23-09.36.30:813][606]LogAudio: Display: Waited 1600.996826 ms for audio thread.
+[2022.09.23-09.36.30:859][606]LogAudio: Display: Waited 1647.506958 ms for audio thread.
+[2022.09.23-09.36.30:896][606]LogAudio: Display: Waited 1683.863281 ms for audio thread.
+[2022.09.23-09.36.30:932][606]LogAudio: Display: Waited 1720.003784 ms for audio thread.
+[2022.09.23-09.36.30:969][606]LogAudio: Display: Waited 1757.387085 ms for audio thread.
+[2022.09.23-09.36.31:009][606]LogAudio: Display: Waited 1797.103271 ms for audio thread.
+[2022.09.23-09.36.31:045][606]LogAudio: Display: Waited 1833.151245 ms for audio thread.
+[2022.09.23-09.36.31:085][606]LogAudio: Display: Waited 1873.369873 ms for audio thread.
+[2022.09.23-09.36.31:134][606]LogAudio: Display: Waited 1922.733887 ms for audio thread.
+[2022.09.23-09.36.31:176][606]LogAudio: Display: Waited 1964.684570 ms for audio thread.
+[2022.09.23-09.36.31:212][606]LogAudio: Display: Waited 2000.289673 ms for audio thread.
+[2022.09.23-09.36.31:257][606]LogAudio: Display: Waited 2045.234253 ms for audio thread.
+[2022.09.23-09.36.31:298][606]LogAudio: Display: Waited 2086.085449 ms for audio thread.
+[2022.09.23-09.36.31:334][606]LogAudio: Display: Waited 2122.836914 ms for audio thread.
+[2022.09.23-09.36.31:371][606]LogAudio: Display: Waited 2158.863525 ms for audio thread.
+[2022.09.23-09.36.31:407][606]LogAudio: Display: Waited 2195.750977 ms for audio thread.
+[2022.09.23-09.36.31:445][606]LogAudio: Display: Waited 2233.685303 ms for audio thread.
+[2022.09.23-09.36.31:482][606]LogAudio: Display: Waited 2270.308594 ms for audio thread.
+[2022.09.23-09.36.31:518][606]LogAudio: Display: Waited 2306.498535 ms for audio thread.
+[2022.09.23-09.36.31:555][606]LogAudio: Display: Waited 2343.599121 ms for audio thread.
+[2022.09.23-09.36.31:594][606]LogAudio: Display: Waited 2381.686035 ms for audio thread.
+[2022.09.23-09.36.31:631][606]LogAudio: Display: Waited 2419.141357 ms for audio thread.
+[2022.09.23-09.36.31:667][606]LogAudio: Display: Waited 2455.347168 ms for audio thread.
+[2022.09.23-09.36.31:703][606]LogAudio: Display: Waited 2491.460693 ms for audio thread.
+[2022.09.23-09.36.31:740][606]LogAudio: Display: Waited 2527.771484 ms for audio thread.
+[2022.09.23-09.36.31:778][606]LogAudio: Display: Waited 2566.554443 ms for audio thread.
+[2022.09.23-09.36.31:814][606]LogAudio: Display: Waited 2602.655273 ms for audio thread.
+[2022.09.23-09.36.31:854][606]LogAudio: Display: Waited 2643.213135 ms for audio thread.
+[2022.09.23-09.36.31:894][606]LogAudio: Display: Waited 2682.641357 ms for audio thread.
+[2022.09.23-09.36.31:933][606]LogAudio: Display: Waited 2720.490723 ms for audio thread.
+[2022.09.23-09.36.31:969][606]LogAudio: Display: Waited 2757.791992 ms for audio thread.
+[2022.09.23-09.36.32:004][606]LogAudio: Display: Waited 2792.499756 ms for audio thread.
+[2022.09.23-09.36.32:041][606]LogAudio: Display: Waited 2829.577637 ms for audio thread.
+[2022.09.23-09.36.32:077][606]LogAudio: Display: Waited 2865.491211 ms for audio thread.
+[2022.09.23-09.36.32:113][606]LogAudio: Display: Waited 2901.479004 ms for audio thread.
+[2022.09.23-09.36.32:158][606]LogAudio: Display: Waited 2946.471680 ms for audio thread.
+[2022.09.23-09.36.32:193][606]LogAudio: Display: Waited 2982.180664 ms for audio thread.
+[2022.09.23-09.36.32:231][606]LogAudio: Display: Waited 3019.013428 ms for audio thread.
+[2022.09.23-09.36.32:267][606]LogAudio: Display: Waited 3055.906738 ms for audio thread.
+[2022.09.23-09.36.32:304][606]LogAudio: Display: Waited 3092.057617 ms for audio thread.
+[2022.09.23-09.36.32:341][606]LogAudio: Display: Waited 3129.212891 ms for audio thread.
+[2022.09.23-09.36.32:379][606]LogAudio: Display: Waited 3167.816162 ms for audio thread.
+[2022.09.23-09.36.32:417][606]LogAudio: Display: Waited 3205.245850 ms for audio thread.
+[2022.09.23-09.36.32:452][606]LogAudio: Display: Waited 3239.911133 ms for audio thread.
+[2022.09.23-09.36.32:487][606]LogAudio: Display: Waited 3275.101562 ms for audio thread.
+[2022.09.23-09.36.32:524][606]LogAudio: Display: Waited 3312.811768 ms for audio thread.
+[2022.09.23-09.36.32:564][606]LogAudio: Display: Waited 3352.708740 ms for audio thread.
+[2022.09.23-09.36.32:601][606]LogAudio: Display: Waited 3388.876221 ms for audio thread.
+[2022.09.23-09.36.32:637][606]LogAudio: Display: Waited 3425.345703 ms for audio thread.
+[2022.09.23-09.36.32:676][606]LogAudio: Display: Waited 3464.570557 ms for audio thread.
+[2022.09.23-09.36.32:714][606]LogAudio: Display: Waited 3502.123047 ms for audio thread.
+[2022.09.23-09.36.32:750][606]LogAudio: Display: Waited 3538.372559 ms for audio thread.
+[2022.09.23-09.36.32:787][606]LogAudio: Display: Waited 3575.306152 ms for audio thread.
+[2022.09.23-09.36.32:825][606]LogAudio: Display: Waited 3612.854248 ms for audio thread.
+[2022.09.23-09.36.32:861][606]LogAudio: Display: Waited 3649.723633 ms for audio thread.
+[2022.09.23-09.36.32:897][606]LogAudio: Display: Waited 3685.602051 ms for audio thread.
+[2022.09.23-09.36.32:934][606]LogAudio: Display: Waited 3722.877197 ms for audio thread.
+[2022.09.23-09.36.32:971][606]LogAudio: Display: Waited 3759.368408 ms for audio thread.
+[2022.09.23-09.36.33:007][606]LogAudio: Display: Waited 3795.649170 ms for audio thread.
+[2022.09.23-09.36.33:045][606]LogAudio: Display: Waited 3833.604736 ms for audio thread.
+[2022.09.23-09.36.33:083][606]LogAudio: Display: Waited 3871.422363 ms for audio thread.
+[2022.09.23-09.36.33:122][606]LogAudio: Display: Waited 3910.394775 ms for audio thread.
+[2022.09.23-09.36.33:157][606]LogAudio: Display: Waited 3945.436768 ms for audio thread.
+[2022.09.23-09.36.33:193][606]LogAudio: Display: Waited 3981.327393 ms for audio thread.
+[2022.09.23-09.36.33:229][606]LogAudio: Display: Waited 4017.207520 ms for audio thread.
+[2022.09.23-09.36.33:265][606]LogAudio: Display: Waited 4053.098633 ms for audio thread.
+[2022.09.23-09.36.33:301][606]LogAudio: Display: Waited 4088.981201 ms for audio thread.
+[2022.09.23-09.36.33:337][606]LogAudio: Display: Waited 4125.012207 ms for audio thread.
+[2022.09.23-09.36.33:341][606]LogAudio: Display: Waited 4129.624512 ms for audio thread.
+[2022.09.23-09.36.34:175][846]LogAudio: Display: Waited 35.734299 ms for audio thread.
+[2022.09.23-09.36.34:211][846]LogAudio: Display: Waited 71.927895 ms for audio thread.
+[2022.09.23-09.36.34:247][846]LogAudio: Display: Waited 107.846001 ms for audio thread.
+[2022.09.23-09.36.34:282][846]LogAudio: Display: Waited 143.382294 ms for audio thread.
+[2022.09.23-09.36.34:317][846]LogAudio: Display: Waited 178.102814 ms for audio thread.
+[2022.09.23-09.36.34:353][846]LogAudio: Display: Waited 214.068405 ms for audio thread.
+[2022.09.23-09.36.34:389][846]LogAudio: Display: Waited 250.040710 ms for audio thread.
+[2022.09.23-09.36.34:435][846]LogAudio: Display: Waited 296.466125 ms for audio thread.
+[2022.09.23-09.36.34:471][846]LogAudio: Display: Waited 331.670715 ms for audio thread.
+[2022.09.23-09.36.34:507][846]LogAudio: Display: Waited 367.859802 ms for audio thread.
+[2022.09.23-09.36.34:545][846]LogAudio: Display: Waited 405.578491 ms for audio thread.
+[2022.09.23-09.36.34:581][846]LogAudio: Display: Waited 441.616608 ms for audio thread.
+[2022.09.23-09.36.34:617][846]LogAudio: Display: Waited 477.296814 ms for audio thread.
+[2022.09.23-09.36.34:660][846]LogAudio: Display: Waited 521.846130 ms for audio thread.
+[2022.09.23-09.36.34:705][846]LogAudio: Display: Waited 565.873352 ms for audio thread.
+[2022.09.23-09.36.34:741][846]LogAudio: Display: Waited 601.381165 ms for audio thread.
+[2022.09.23-09.36.34:776][846]LogAudio: Display: Waited 637.327087 ms for audio thread.
+[2022.09.23-09.36.34:812][846]LogAudio: Display: Waited 673.069397 ms for audio thread.
+[2022.09.23-09.36.34:848][846]LogAudio: Display: Waited 708.818176 ms for audio thread.
+[2022.09.23-09.36.34:885][846]LogAudio: Display: Waited 746.281799 ms for audio thread.
+[2022.09.23-09.36.34:926][846]LogAudio: Display: Waited 786.726440 ms for audio thread.
+[2022.09.23-09.36.34:965][846]LogAudio: Display: Waited 825.732727 ms for audio thread.
+[2022.09.23-09.36.35:001][846]LogAudio: Display: Waited 861.645569 ms for audio thread.
+[2022.09.23-09.36.35:039][846]LogAudio: Display: Waited 899.501709 ms for audio thread.
+[2022.09.23-09.36.35:075][846]LogAudio: Display: Waited 936.244507 ms for audio thread.
+[2022.09.23-09.36.35:111][846]LogAudio: Display: Waited 971.995605 ms for audio thread.
+[2022.09.23-09.36.35:152][846]LogAudio: Display: Waited 1013.477661 ms for audio thread.
+[2022.09.23-09.36.35:196][846]LogAudio: Display: Waited 1056.732666 ms for audio thread.
+[2022.09.23-09.36.35:239][846]LogAudio: Display: Waited 1099.906250 ms for audio thread.
+[2022.09.23-09.36.35:277][846]LogAudio: Display: Waited 1138.352173 ms for audio thread.
+[2022.09.23-09.36.35:318][846]LogAudio: Display: Waited 1179.923218 ms for audio thread.
+[2022.09.23-09.36.35:357][846]LogAudio: Display: Waited 1218.042236 ms for audio thread.
+[2022.09.23-09.36.35:395][846]LogAudio: Display: Waited 1255.570068 ms for audio thread.
+[2022.09.23-09.36.35:435][846]LogAudio: Display: Waited 1295.541382 ms for audio thread.
+[2022.09.23-09.36.35:476][846]LogAudio: Display: Waited 1337.427490 ms for audio thread.
+[2022.09.23-09.36.35:512][846]LogAudio: Display: Waited 1373.353271 ms for audio thread.
+[2022.09.23-09.36.35:548][846]LogAudio: Display: Waited 1409.539185 ms for audio thread.
+[2022.09.23-09.36.35:587][846]LogAudio: Display: Waited 1448.118530 ms for audio thread.
+[2022.09.23-09.36.35:622][846]LogAudio: Display: Waited 1483.185181 ms for audio thread.
+[2022.09.23-09.36.35:659][846]LogAudio: Display: Waited 1520.544678 ms for audio thread.
+[2022.09.23-09.36.35:698][846]LogAudio: Display: Waited 1559.138794 ms for audio thread.
+[2022.09.23-09.36.35:735][846]LogAudio: Display: Waited 1596.078125 ms for audio thread.
+[2022.09.23-09.36.35:778][846]LogAudio: Display: Waited 1639.539062 ms for audio thread.
+[2022.09.23-09.36.35:816][846]LogAudio: Display: Waited 1676.327026 ms for audio thread.
+[2022.09.23-09.36.35:852][846]LogAudio: Display: Waited 1713.148071 ms for audio thread.
+[2022.09.23-09.36.35:888][846]LogAudio: Display: Waited 1748.906616 ms for audio thread.
+[2022.09.23-09.36.35:926][846]LogAudio: Display: Waited 1786.772217 ms for audio thread.
+[2022.09.23-09.36.35:968][846]LogAudio: Display: Waited 1829.225708 ms for audio thread.
+[2022.09.23-09.36.36:010][846]LogAudio: Display: Waited 1870.831177 ms for audio thread.
+[2022.09.23-09.36.36:054][846]LogAudio: Display: Waited 1915.012573 ms for audio thread.
+[2022.09.23-09.36.36:089][846]LogAudio: Display: Waited 1950.176514 ms for audio thread.
+[2022.09.23-09.36.36:129][846]LogAudio: Display: Waited 1989.297241 ms for audio thread.
+[2022.09.23-09.36.36:164][846]LogAudio: Display: Waited 2025.214233 ms for audio thread.
+[2022.09.23-09.36.36:208][846]LogAudio: Display: Waited 2069.541992 ms for audio thread.
+[2022.09.23-09.36.36:245][846]LogAudio: Display: Waited 2106.386475 ms for audio thread.
+[2022.09.23-09.36.36:281][846]LogAudio: Display: Waited 2141.905518 ms for audio thread.
+[2022.09.23-09.36.36:317][846]LogAudio: Display: Waited 2178.155518 ms for audio thread.
+[2022.09.23-09.36.36:356][846]LogAudio: Display: Waited 2217.318359 ms for audio thread.
+[2022.09.23-09.36.36:397][846]LogAudio: Display: Waited 2258.282227 ms for audio thread.
+[2022.09.23-09.36.36:434][846]LogAudio: Display: Waited 2295.256836 ms for audio thread.
+[2022.09.23-09.36.36:474][846]LogAudio: Display: Waited 2334.679688 ms for audio thread.
+[2022.09.23-09.36.36:510][846]LogAudio: Display: Waited 2370.623047 ms for audio thread.
+[2022.09.23-09.36.36:552][846]LogAudio: Display: Waited 2413.634277 ms for audio thread.
+[2022.09.23-09.36.36:595][846]LogAudio: Display: Waited 2456.282715 ms for audio thread.
+[2022.09.23-09.36.36:631][846]LogAudio: Display: Waited 2492.307617 ms for audio thread.
+[2022.09.23-09.36.36:668][846]LogAudio: Display: Waited 2528.822021 ms for audio thread.
+[2022.09.23-09.36.36:715][846]LogAudio: Display: Waited 2576.498779 ms for audio thread.
+[2022.09.23-09.36.36:754][846]LogAudio: Display: Waited 2615.279541 ms for audio thread.
+[2022.09.23-09.36.36:790][846]LogAudio: Display: Waited 2650.549561 ms for audio thread.
+[2022.09.23-09.36.36:830][846]LogAudio: Display: Waited 2690.715332 ms for audio thread.
+[2022.09.23-09.36.36:868][846]LogAudio: Display: Waited 2728.454346 ms for audio thread.
+[2022.09.23-09.36.36:903][846]LogAudio: Display: Waited 2764.185547 ms for audio thread.
+[2022.09.23-09.36.36:939][846]LogAudio: Display: Waited 2800.091309 ms for audio thread.
+[2022.09.23-09.36.36:975][846]LogAudio: Display: Waited 2836.050537 ms for audio thread.
+[2022.09.23-09.36.37:011][846]LogAudio: Display: Waited 2871.895020 ms for audio thread.
+[2022.09.23-09.36.37:048][846]LogAudio: Display: Waited 2908.869385 ms for audio thread.
+[2022.09.23-09.36.37:084][846]LogAudio: Display: Waited 2944.788574 ms for audio thread.
+[2022.09.23-09.36.37:120][846]LogAudio: Display: Waited 2980.786865 ms for audio thread.
+[2022.09.23-09.36.37:155][846]LogAudio: Display: Waited 3016.138672 ms for audio thread.
+[2022.09.23-09.36.37:191][846]LogAudio: Display: Waited 3052.047852 ms for audio thread.
+[2022.09.23-09.36.37:228][846]LogAudio: Display: Waited 3089.055420 ms for audio thread.
+[2022.09.23-09.36.37:264][846]LogAudio: Display: Waited 3125.359863 ms for audio thread.
+[2022.09.23-09.36.37:300][846]LogAudio: Display: Waited 3161.579102 ms for audio thread.
+[2022.09.23-09.36.37:345][846]LogAudio: Display: Waited 3205.968506 ms for audio thread.
+[2022.09.23-09.36.37:381][846]LogAudio: Display: Waited 3241.819336 ms for audio thread.
+[2022.09.23-09.36.37:417][846]LogAudio: Display: Waited 3278.193359 ms for audio thread.
+[2022.09.23-09.36.37:453][846]LogAudio: Display: Waited 3314.124023 ms for audio thread.
+[2022.09.23-09.36.37:488][846]LogAudio: Display: Waited 3348.369873 ms for audio thread.
+[2022.09.23-09.36.37:524][846]LogAudio: Display: Waited 3384.263184 ms for audio thread.
+[2022.09.23-09.36.37:559][846]LogAudio: Display: Waited 3420.618896 ms for audio thread.
+[2022.09.23-09.36.37:595][846]LogAudio: Display: Waited 3455.655518 ms for audio thread.
+[2022.09.23-09.36.37:631][846]LogAudio: Display: Waited 3492.202637 ms for audio thread.
+[2022.09.23-09.36.37:667][846]LogAudio: Display: Waited 3528.469238 ms for audio thread.
+[2022.09.23-09.36.37:702][846]LogAudio: Display: Waited 3563.802490 ms for audio thread.
+[2022.09.23-09.36.37:738][846]LogAudio: Display: Waited 3599.392578 ms for audio thread.
+[2022.09.23-09.36.37:775][846]LogAudio: Display: Waited 3635.833008 ms for audio thread.
+[2022.09.23-09.36.37:814][846]LogAudio: Display: Waited 3675.555420 ms for audio thread.
+[2022.09.23-09.36.37:855][846]LogAudio: Display: Waited 3715.878174 ms for audio thread.
+[2022.09.23-09.36.37:912][846]LogAudio: Display: Waited 3773.520020 ms for audio thread.
+[2022.09.23-09.36.37:950][846]LogAudio: Display: Waited 3810.830811 ms for audio thread.
+[2022.09.23-09.36.37:987][846]LogAudio: Display: Waited 3848.432129 ms for audio thread.
+[2022.09.23-09.36.38:034][846]LogAudio: Display: Waited 3895.038574 ms for audio thread.
+[2022.09.23-09.36.38:076][846]LogAudio: Display: Waited 3937.274658 ms for audio thread.
+[2022.09.23-09.36.38:117][846]LogAudio: Display: Waited 3977.903076 ms for audio thread.
+[2022.09.23-09.36.38:153][846]LogAudio: Display: Waited 4013.428223 ms for audio thread.
+[2022.09.23-09.36.38:193][846]LogAudio: Display: Waited 4053.803467 ms for audio thread.
+[2022.09.23-09.36.38:230][846]LogAudio: Display: Waited 4090.235352 ms for audio thread.
+[2022.09.23-09.36.38:266][846]LogAudio: Display: Waited 4126.710449 ms for audio thread.
+[2022.09.23-09.36.38:304][846]LogAudio: Display: Waited 4164.299316 ms for audio thread.
+[2022.09.23-09.36.38:343][846]LogAudio: Display: Waited 4203.930664 ms for audio thread.
+[2022.09.23-09.36.38:379][846]LogAudio: Display: Waited 4240.516113 ms for audio thread.
+[2022.09.23-09.36.38:415][846]LogAudio: Display: Waited 4275.767090 ms for audio thread.
+[2022.09.23-09.36.38:429][846]LogAudio: Display: Waited 4289.906250 ms for audio thread.
+[2022.09.23-09.36.38:572][851]LogAudio: Display: Waited 70.401993 ms for audio thread.
+[2022.09.23-09.36.38:581][851]LogAudio: Display: Waited 79.929398 ms for audio thread.
+[2022.09.23-09.36.38:702][858]LogAudio: Display: Waited 36.563999 ms for audio thread.
+[2022.09.23-09.36.38:738][858]LogAudio: Display: Waited 72.910896 ms for audio thread.
+[2022.09.23-09.36.38:764][858]LogAudio: Display: Waited 98.503502 ms for audio thread.
+[2022.09.23-09.36.39:181][891]LogAudio: Display: Waited 35.709000 ms for audio thread.
+[2022.09.23-09.36.39:186][891]LogAudio: Display: Waited 40.621700 ms for audio thread.
+[2022.09.23-09.36.40:035][960]LogAudio: Display: Waited 72.460197 ms for audio thread.
+[2022.09.23-09.36.40:045][960]LogAudio: Display: Waited 82.401001 ms for audio thread.
+[2022.09.23-09.36.40:526][999]LogAudio: Display: Waited 36.540001 ms for audio thread.
+[2022.09.23-09.36.40:528][999]LogAudio: Display: Waited 38.140697 ms for audio thread.
+[2022.09.23-09.36.40:708][  4]LogAudio: Display: Waited 36.557598 ms for audio thread.
+[2022.09.23-09.36.40:745][  4]LogAudio: Display: Waited 73.170403 ms for audio thread.
+[2022.09.23-09.36.40:769][  4]LogAudio: Display: Waited 97.824501 ms for audio thread.
+[2022.09.23-09.36.40:939][ 13]LogAudio: Display: Waited 35.502098 ms for audio thread.
+[2022.09.23-09.36.40:953][ 13]LogAudio: Display: Waited 49.509602 ms for audio thread.
+[2022.09.23-09.36.41:120][ 26]LogAudio: Display: Waited 35.746803 ms for audio thread.
+[2022.09.23-09.36.41:138][ 26]LogAudio: Display: Waited 54.404602 ms for audio thread.
+[2022.09.23-09.36.41:879][106]LogAudio: Display: Waited 43.077099 ms for audio thread.
+[2022.09.23-09.36.41:899][106]LogAudio: Display: Waited 62.687904 ms for audio thread.
+[2022.09.23-09.36.44:310][290]LogAudio: Display: Waited 41.085400 ms for audio thread.
+[2022.09.23-09.36.44:314][290]LogAudio: Display: Waited 44.889900 ms for audio thread.
+[2022.09.23-09.36.44:355][291]LogAudio: Display: Waited 36.211502 ms for audio thread.
+[2022.09.23-09.36.44:378][291]LogAudio: Display: Waited 58.898201 ms for audio thread.
+[2022.09.23-09.36.44:425][292]LogAudio: Display: Waited 35.895199 ms for audio thread.
+[2022.09.23-09.36.44:480][292]LogAudio: Display: Waited 90.207298 ms for audio thread.
+[2022.09.23-09.36.44:522][292]LogAudio: Display: Waited 132.648605 ms for audio thread.
+[2022.09.23-09.36.44:563][292]LogAudio: Display: Waited 173.836899 ms for audio thread.
+[2022.09.23-09.36.44:598][292]LogAudio: Display: Waited 208.421310 ms for audio thread.
+[2022.09.23-09.36.44:687][293]LogAudio: Display: Waited 84.100800 ms for audio thread.
+[2022.09.23-09.36.44:730][293]LogAudio: Display: Waited 127.177193 ms for audio thread.
+[2022.09.23-09.36.44:770][293]LogAudio: Display: Waited 167.460800 ms for audio thread.
+[2022.09.23-09.36.44:825][293]LogAudio: Display: Waited 222.728104 ms for audio thread.
+[2022.09.23-09.36.44:866][293]LogAudio: Display: Waited 263.352295 ms for audio thread.
+[2022.09.23-09.36.44:916][293]LogAudio: Display: Waited 313.785614 ms for audio thread.
+[2022.09.23-09.36.44:953][293]LogAudio: Display: Waited 350.761292 ms for audio thread.
+[2022.09.23-09.36.44:977][293]LogAudio: Display: Waited 374.240784 ms for audio thread.
+[2022.09.23-09.36.45:299][309]LogAudio: Display: Waited 35.230499 ms for audio thread.
+[2022.09.23-09.36.45:346][311]LogAudio: Display: Waited 36.471001 ms for audio thread.
+[2022.09.23-09.36.45:381][311]LogAudio: Display: Waited 71.838203 ms for audio thread.
+[2022.09.23-09.36.45:401][311]LogAudio: Display: Waited 91.469200 ms for audio thread.
+[2022.09.23-09.36.45:477][314]LogAudio: Display: Waited 37.822899 ms for audio thread.
+[2022.09.23-09.36.45:479][314]LogAudio: Display: Waited 40.376598 ms for audio thread.
+[2022.09.23-09.36.45:672][323]LogAudio: Display: Waited 35.647499 ms for audio thread.
+[2022.09.23-09.36.45:708][323]LogAudio: Display: Waited 71.504700 ms for audio thread.
+[2022.09.23-09.36.45:746][323]LogAudio: Display: Waited 109.189697 ms for audio thread.
+[2022.09.23-09.36.45:757][323]LogAudio: Display: Waited 120.619904 ms for audio thread.
+[2022.09.23-09.36.45:813][325]LogAudio: Display: Waited 36.374699 ms for audio thread.
+[2022.09.23-09.36.45:826][325]LogAudio: Display: Waited 49.207798 ms for audio thread.
+[2022.09.23-09.36.47:967][485]LogAudio: Display: Waited 70.774200 ms for audio thread.
+[2022.09.23-09.36.48:006][485]LogAudio: Display: Waited 110.190506 ms for audio thread.
+[2022.09.23-09.36.48:045][485]LogAudio: Display: Waited 149.855698 ms for audio thread.
+[2022.09.23-09.36.48:082][485]LogAudio: Display: Waited 185.974701 ms for audio thread.
+[2022.09.23-09.36.48:118][485]LogAudio: Display: Waited 222.133698 ms for audio thread.
+[2022.09.23-09.36.48:153][485]LogAudio: Display: Waited 257.192902 ms for audio thread.
+[2022.09.23-09.36.48:189][485]LogAudio: Display: Waited 293.194794 ms for audio thread.
+[2022.09.23-09.36.48:227][485]LogAudio: Display: Waited 331.079590 ms for audio thread.
+[2022.09.23-09.36.48:263][485]LogAudio: Display: Waited 367.156097 ms for audio thread.
+[2022.09.23-09.36.48:299][485]LogAudio: Display: Waited 402.845398 ms for audio thread.
+[2022.09.23-09.36.48:335][485]LogAudio: Display: Waited 439.243713 ms for audio thread.
+[2022.09.23-09.36.48:371][485]LogAudio: Display: Waited 474.731598 ms for audio thread.
+[2022.09.23-09.36.48:407][485]LogAudio: Display: Waited 510.802338 ms for audio thread.
+[2022.09.23-09.36.48:448][485]LogAudio: Display: Waited 552.109009 ms for audio thread.
+[2022.09.23-09.36.48:483][485]LogAudio: Display: Waited 587.452698 ms for audio thread.
+[2022.09.23-09.36.48:519][485]LogAudio: Display: Waited 623.083740 ms for audio thread.
+[2022.09.23-09.36.48:555][485]LogAudio: Display: Waited 659.232178 ms for audio thread.
+[2022.09.23-09.36.48:591][485]LogAudio: Display: Waited 695.342163 ms for audio thread.
+[2022.09.23-09.36.48:627][485]LogAudio: Display: Waited 731.238892 ms for audio thread.
+[2022.09.23-09.36.48:663][485]LogAudio: Display: Waited 767.547424 ms for audio thread.
+[2022.09.23-09.36.48:699][485]LogAudio: Display: Waited 802.992004 ms for audio thread.
+[2022.09.23-09.36.48:735][485]LogAudio: Display: Waited 839.163574 ms for audio thread.
+[2022.09.23-09.36.48:796][485]LogAudio: Display: Waited 900.758179 ms for audio thread.
+[2022.09.23-09.36.48:837][485]LogAudio: Display: Waited 940.819824 ms for audio thread.
+[2022.09.23-09.36.48:874][485]LogAudio: Display: Waited 977.957703 ms for audio thread.
+[2022.09.23-09.36.48:912][485]LogAudio: Display: Waited 1016.222595 ms for audio thread.
+[2022.09.23-09.36.48:948][485]LogAudio: Display: Waited 1051.939209 ms for audio thread.
+[2022.09.23-09.36.48:991][485]LogAudio: Display: Waited 1094.596191 ms for audio thread.
+[2022.09.23-09.36.49:027][485]LogAudio: Display: Waited 1130.659302 ms for audio thread.
+[2022.09.23-09.36.49:071][485]LogAudio: Display: Waited 1175.651367 ms for audio thread.
+[2022.09.23-09.36.49:108][485]LogAudio: Display: Waited 1212.740967 ms for audio thread.
+[2022.09.23-09.36.49:144][485]LogAudio: Display: Waited 1248.319946 ms for audio thread.
+[2022.09.23-09.36.49:181][485]LogAudio: Display: Waited 1285.414429 ms for audio thread.
+[2022.09.23-09.36.49:218][485]LogAudio: Display: Waited 1322.311279 ms for audio thread.
+[2022.09.23-09.36.49:254][485]LogAudio: Display: Waited 1358.428955 ms for audio thread.
+[2022.09.23-09.36.49:294][485]LogAudio: Display: Waited 1398.181396 ms for audio thread.
+[2022.09.23-09.36.49:330][485]LogAudio: Display: Waited 1433.817017 ms for audio thread.
+[2022.09.23-09.36.49:366][485]LogAudio: Display: Waited 1469.825684 ms for audio thread.
+[2022.09.23-09.36.49:402][485]LogAudio: Display: Waited 1505.529785 ms for audio thread.
+[2022.09.23-09.36.49:437][485]LogAudio: Display: Waited 1541.449585 ms for audio thread.
+[2022.09.23-09.36.49:473][485]LogAudio: Display: Waited 1577.655273 ms for audio thread.
+[2022.09.23-09.36.49:510][485]LogAudio: Display: Waited 1614.975586 ms for audio thread.
+[2022.09.23-09.36.49:548][485]LogAudio: Display: Waited 1652.410156 ms for audio thread.
+[2022.09.23-09.36.49:584][485]LogAudio: Display: Waited 1688.871460 ms for audio thread.
+[2022.09.23-09.36.49:624][485]LogAudio: Display: Waited 1728.875610 ms for audio thread.
+[2022.09.23-09.36.49:663][485]LogAudio: Display: Waited 1767.741455 ms for audio thread.
+[2022.09.23-09.36.49:712][485]LogAudio: Display: Waited 1816.474609 ms for audio thread.
+[2022.09.23-09.36.49:750][485]LogAudio: Display: Waited 1854.802124 ms for audio thread.
+[2022.09.23-09.36.49:787][485]LogAudio: Display: Waited 1891.270996 ms for audio thread.
+[2022.09.23-09.36.49:832][485]LogAudio: Display: Waited 1937.113037 ms for audio thread.
+[2022.09.23-09.36.49:878][485]LogAudio: Display: Waited 1982.531250 ms for audio thread.
+[2022.09.23-09.36.49:918][485]LogAudio: Display: Waited 2022.651489 ms for audio thread.
+[2022.09.23-09.36.49:954][485]LogAudio: Display: Waited 2058.198975 ms for audio thread.
+[2022.09.23-09.36.49:992][485]LogAudio: Display: Waited 2096.118652 ms for audio thread.
+[2022.09.23-09.36.50:028][485]LogAudio: Display: Waited 2132.530518 ms for audio thread.
+[2022.09.23-09.36.50:064][485]LogAudio: Display: Waited 2168.504639 ms for audio thread.
+[2022.09.23-09.36.50:103][485]LogAudio: Display: Waited 2207.304443 ms for audio thread.
+[2022.09.23-09.36.50:139][485]LogAudio: Display: Waited 2243.415771 ms for audio thread.
+[2022.09.23-09.36.50:177][485]LogAudio: Display: Waited 2281.342285 ms for audio thread.
+[2022.09.23-09.36.50:215][485]LogAudio: Display: Waited 2318.984131 ms for audio thread.
+[2022.09.23-09.36.50:250][485]LogAudio: Display: Waited 2354.039551 ms for audio thread.
+[2022.09.23-09.36.50:285][485]LogAudio: Display: Waited 2389.692627 ms for audio thread.
+[2022.09.23-09.36.50:321][485]LogAudio: Display: Waited 2424.941895 ms for audio thread.
+[2022.09.23-09.36.50:356][485]LogAudio: Display: Waited 2460.876221 ms for audio thread.
+[2022.09.23-09.36.50:392][485]LogAudio: Display: Waited 2497.244385 ms for audio thread.
+[2022.09.23-09.36.50:431][485]LogAudio: Display: Waited 2535.442139 ms for audio thread.
+[2022.09.23-09.36.50:467][485]LogAudio: Display: Waited 2571.619873 ms for audio thread.
+[2022.09.23-09.36.50:504][485]LogAudio: Display: Waited 2608.729004 ms for audio thread.
+[2022.09.23-09.36.50:540][485]LogAudio: Display: Waited 2644.693604 ms for audio thread.
+[2022.09.23-09.36.50:578][485]LogAudio: Display: Waited 2682.275879 ms for audio thread.
+[2022.09.23-09.36.50:615][485]LogAudio: Display: Waited 2719.074219 ms for audio thread.
+[2022.09.23-09.36.50:651][485]LogAudio: Display: Waited 2754.911865 ms for audio thread.
+[2022.09.23-09.36.50:687][485]LogAudio: Display: Waited 2790.809814 ms for audio thread.
+[2022.09.23-09.36.50:724][485]LogAudio: Display: Waited 2827.676025 ms for audio thread.
+[2022.09.23-09.36.50:759][485]LogAudio: Display: Waited 2863.791016 ms for audio thread.
+[2022.09.23-09.36.50:796][485]LogAudio: Display: Waited 2900.577881 ms for audio thread.
+[2022.09.23-09.36.50:832][485]LogAudio: Display: Waited 2936.547119 ms for audio thread.
+[2022.09.23-09.36.50:868][485]LogAudio: Display: Waited 2972.572510 ms for audio thread.
+[2022.09.23-09.36.50:907][485]LogAudio: Display: Waited 3011.543457 ms for audio thread.
+[2022.09.23-09.36.50:944][485]LogAudio: Display: Waited 3047.859619 ms for audio thread.
+[2022.09.23-09.36.50:981][485]LogAudio: Display: Waited 3084.827148 ms for audio thread.
+[2022.09.23-09.36.51:018][485]LogAudio: Display: Waited 3122.390625 ms for audio thread.
+[2022.09.23-09.36.51:054][485]LogAudio: Display: Waited 3158.065918 ms for audio thread.
+[2022.09.23-09.36.51:101][485]LogAudio: Display: Waited 3205.458984 ms for audio thread.
+[2022.09.23-09.36.51:137][485]LogAudio: Display: Waited 3241.524414 ms for audio thread.
+[2022.09.23-09.36.51:173][485]LogAudio: Display: Waited 3277.356445 ms for audio thread.
+[2022.09.23-09.36.51:211][485]LogAudio: Display: Waited 3314.913818 ms for audio thread.
+[2022.09.23-09.36.51:248][485]LogAudio: Display: Waited 3352.592041 ms for audio thread.
+[2022.09.23-09.36.51:286][485]LogAudio: Display: Waited 3390.173340 ms for audio thread.
+[2022.09.23-09.36.51:321][485]LogAudio: Display: Waited 3425.544922 ms for audio thread.
+[2022.09.23-09.36.51:362][485]LogAudio: Display: Waited 3467.091797 ms for audio thread.
+[2022.09.23-09.36.51:398][485]LogAudio: Display: Waited 3502.595459 ms for audio thread.
+[2022.09.23-09.36.51:434][485]LogAudio: Display: Waited 3538.158447 ms for audio thread.
+[2022.09.23-09.36.51:470][485]LogAudio: Display: Waited 3574.091553 ms for audio thread.
+[2022.09.23-09.36.51:506][485]LogAudio: Display: Waited 3610.440674 ms for audio thread.
+[2022.09.23-09.36.51:542][485]LogAudio: Display: Waited 3645.911133 ms for audio thread.
+[2022.09.23-09.36.51:578][485]LogAudio: Display: Waited 3681.800537 ms for audio thread.
+[2022.09.23-09.36.51:614][485]LogAudio: Display: Waited 3717.701172 ms for audio thread.
+[2022.09.23-09.36.51:651][485]LogAudio: Display: Waited 3755.089111 ms for audio thread.
+[2022.09.23-09.36.51:686][485]LogAudio: Display: Waited 3790.638428 ms for audio thread.
+[2022.09.23-09.36.51:723][485]LogAudio: Display: Waited 3827.619873 ms for audio thread.
+[2022.09.23-09.36.51:759][485]LogAudio: Display: Waited 3863.361572 ms for audio thread.
+[2022.09.23-09.36.51:796][485]LogAudio: Display: Waited 3900.732910 ms for audio thread.
+[2022.09.23-09.36.51:834][485]LogAudio: Display: Waited 3938.172119 ms for audio thread.
+[2022.09.23-09.36.51:871][485]LogAudio: Display: Waited 3975.218750 ms for audio thread.
+[2022.09.23-09.36.51:908][485]LogAudio: Display: Waited 4011.609131 ms for audio thread.
+[2022.09.23-09.36.51:943][485]LogAudio: Display: Waited 4048.220703 ms for audio thread.
+[2022.09.23-09.36.51:958][485]LogAudio: Display: Waited 4062.323975 ms for audio thread.
+[2022.09.23-09.36.52:167][494]LogAudio: Display: Waited 35.675499 ms for audio thread.
+[2022.09.23-09.36.52:203][494]LogAudio: Display: Waited 71.599701 ms for audio thread.
+[2022.09.23-09.36.52:239][494]LogAudio: Display: Waited 107.466698 ms for audio thread.
+[2022.09.23-09.36.52:274][494]LogAudio: Display: Waited 143.442902 ms for audio thread.
+[2022.09.23-09.36.52:310][494]LogAudio: Display: Waited 179.300690 ms for audio thread.
+[2022.09.23-09.36.52:346][494]LogAudio: Display: Waited 215.205887 ms for audio thread.
+[2022.09.23-09.36.52:382][494]LogAudio: Display: Waited 251.893021 ms for audio thread.
+[2022.09.23-09.36.52:419][494]LogAudio: Display: Waited 288.334503 ms for audio thread.
+[2022.09.23-09.36.52:455][494]LogAudio: Display: Waited 323.878296 ms for audio thread.
+[2022.09.23-09.36.52:480][494]LogAudio: Display: Waited 349.561890 ms for audio thread.
+[2022.09.23-09.36.52:544][496]LogAudio: Display: Waited 40.833302 ms for audio thread.
+[2022.09.23-09.36.52:549][496]LogAudio: Display: Waited 45.932301 ms for audio thread.
+[2022.09.23-09.36.52:720][505]LogAudio: Display: Waited 35.287102 ms for audio thread.
+[2022.09.23-09.36.52:801][509]LogAudio: Display: Waited 35.915100 ms for audio thread.
+[2022.09.23-09.36.52:813][509]LogAudio: Display: Waited 48.310600 ms for audio thread.
+[2022.09.23-09.36.52:932][515]LogAudio: Display: Waited 35.920399 ms for audio thread.
+[2022.09.23-09.36.52:945][515]LogAudio: Display: Waited 49.845402 ms for audio thread.
+[2022.09.23-09.36.53:026][519]LogAudio: Display: Waited 38.547199 ms for audio thread.
+[2022.09.23-09.36.53:035][519]LogAudio: Display: Waited 47.753502 ms for audio thread.
+[2022.09.23-09.36.53:089][521]LogAudio: Display: Waited 35.731098 ms for audio thread.
+[2022.09.23-09.36.53:098][521]LogAudio: Display: Waited 45.539200 ms for audio thread.
+[2022.09.23-09.36.53:273][529]LogAudio: Display: Waited 47.146400 ms for audio thread.
+[2022.09.23-09.36.53:277][529]LogAudio: Display: Waited 51.047001 ms for audio thread.
+[2022.09.23-09.36.53:594][548]LogAudio: Display: Waited 35.486603 ms for audio thread.
+[2022.09.23-09.36.53:629][548]LogAudio: Display: Waited 70.929497 ms for audio thread.
+[2022.09.23-09.36.53:649][548]LogAudio: Display: Waited 91.062599 ms for audio thread.
+[2022.09.23-09.36.53:854][563]LogAudio: Display: Waited 35.712303 ms for audio thread.
+[2022.09.23-09.36.53:855][563]LogAudio: Display: Waited 36.789200 ms for audio thread.
+[2022.09.23-09.36.54:086][576]LogAudio: Display: Waited 35.507900 ms for audio thread.
+[2022.09.23-09.36.54:088][576]LogAudio: Display: Waited 37.256699 ms for audio thread.
+[2022.09.23-09.36.54:170][579]LogAudio: Display: Waited 35.417603 ms for audio thread.
+[2022.09.23-09.36.54:184][579]LogAudio: Display: Waited 53.833900 ms for audio thread.
+[2022.09.23-09.36.54:230][581]LogAudio: Display: Waited 35.067101 ms for audio thread.
+[2022.09.23-09.36.54:250][581]LogAudio: Display: Waited 54.836300 ms for audio thread.
+[2022.09.23-09.36.54:683][608]LogAudio: Display: Waited 46.415897 ms for audio thread.
+[2022.09.23-09.36.54:691][608]LogAudio: Display: Waited 53.914402 ms for audio thread.
+[2022.09.23-09.36.54:759][611]LogAudio: Display: Waited 38.529999 ms for audio thread.
+[2022.09.23-09.36.54:760][611]LogAudio: Display: Waited 39.448997 ms for audio thread.
+[2022.09.23-09.36.54:893][619]LogAudio: Display: Waited 40.162601 ms for audio thread.
+[2022.09.23-09.36.54:944][621]LogAudio: Display: Waited 36.456699 ms for audio thread.
+[2022.09.23-09.36.54:979][621]LogAudio: Display: Waited 71.410095 ms for audio thread.
+[2022.09.23-09.36.55:004][621]LogAudio: Display: Waited 96.235001 ms for audio thread.
+[2022.09.23-09.36.55:646][666]LogAudio: Display: Waited 35.458900 ms for audio thread.
+[2022.09.23-09.36.55:683][666]LogAudio: Display: Waited 71.948997 ms for audio thread.
+[2022.09.23-09.36.55:719][666]LogAudio: Display: Waited 108.575005 ms for audio thread.
+[2022.09.23-09.36.55:756][666]LogAudio: Display: Waited 145.186600 ms for audio thread.
+[2022.09.23-09.36.55:796][666]LogAudio: Display: Waited 184.582993 ms for audio thread.
+[2022.09.23-09.36.55:837][666]LogAudio: Display: Waited 225.837204 ms for audio thread.
+[2022.09.23-09.36.55:872][666]LogAudio: Display: Waited 260.928986 ms for audio thread.
+[2022.09.23-09.36.55:910][666]LogAudio: Display: Waited 299.906494 ms for audio thread.
+[2022.09.23-09.36.55:946][666]LogAudio: Display: Waited 334.717224 ms for audio thread.
+[2022.09.23-09.36.55:983][666]LogAudio: Display: Waited 372.201721 ms for audio thread.
+[2022.09.23-09.36.56:018][666]LogAudio: Display: Waited 407.633179 ms for audio thread.
+[2022.09.23-09.36.56:055][666]LogAudio: Display: Waited 444.228790 ms for audio thread.
+[2022.09.23-09.36.56:096][666]LogAudio: Display: Waited 484.995087 ms for audio thread.
+[2022.09.23-09.36.56:136][666]LogAudio: Display: Waited 525.314392 ms for audio thread.
+[2022.09.23-09.36.56:171][666]LogAudio: Display: Waited 559.964111 ms for audio thread.
+[2022.09.23-09.36.56:212][666]LogAudio: Display: Waited 601.751709 ms for audio thread.
+[2022.09.23-09.36.56:249][666]LogAudio: Display: Waited 638.948059 ms for audio thread.
+[2022.09.23-09.36.56:298][666]LogAudio: Display: Waited 686.895630 ms for audio thread.
+[2022.09.23-09.36.56:334][666]LogAudio: Display: Waited 723.720215 ms for audio thread.
+[2022.09.23-09.36.56:372][666]LogAudio: Display: Waited 758.040405 ms for audio thread.
+[2022.09.23-09.36.56:417][666]LogAudio: Display: Waited 805.867798 ms for audio thread.
+[2022.09.23-09.36.56:452][666]LogAudio: Display: Waited 840.946777 ms for audio thread.
+[2022.09.23-09.36.56:490][666]LogAudio: Display: Waited 876.918335 ms for audio thread.
+[2022.09.23-09.36.56:527][666]LogAudio: Display: Waited 915.841553 ms for audio thread.
+[2022.09.23-09.36.56:567][666]LogAudio: Display: Waited 956.665710 ms for audio thread.
+[2022.09.23-09.36.56:602][666]LogAudio: Display: Waited 991.102600 ms for audio thread.
+[2022.09.23-09.36.56:639][666]LogAudio: Display: Waited 1028.600830 ms for audio thread.
+[2022.09.23-09.36.56:678][666]LogAudio: Display: Waited 1067.816284 ms for audio thread.
+[2022.09.23-09.36.56:714][666]LogAudio: Display: Waited 1102.823853 ms for audio thread.
+[2022.09.23-09.36.56:749][666]LogAudio: Display: Waited 1138.624390 ms for audio thread.
+[2022.09.23-09.36.56:785][666]LogAudio: Display: Waited 1174.227783 ms for audio thread.
+[2022.09.23-09.36.56:821][666]LogAudio: Display: Waited 1210.133545 ms for audio thread.
+[2022.09.23-09.36.56:859][666]LogAudio: Display: Waited 1248.259766 ms for audio thread.
+[2022.09.23-09.36.56:898][666]LogAudio: Display: Waited 1286.903198 ms for audio thread.
+[2022.09.23-09.36.56:935][666]LogAudio: Display: Waited 1323.758423 ms for audio thread.
+[2022.09.23-09.36.56:971][666]LogAudio: Display: Waited 1359.687988 ms for audio thread.
+[2022.09.23-09.36.57:008][666]LogAudio: Display: Waited 1395.721558 ms for audio thread.
+[2022.09.23-09.36.57:044][666]LogAudio: Display: Waited 1433.974731 ms for audio thread.
+[2022.09.23-09.36.57:083][666]LogAudio: Display: Waited 1473.296753 ms for audio thread.
+[2022.09.23-09.36.57:147][666]LogAudio: Display: Waited 1536.437744 ms for audio thread.
+[2022.09.23-09.36.57:184][666]LogAudio: Display: Waited 1573.429688 ms for audio thread.
+[2022.09.23-09.36.57:223][666]LogAudio: Display: Waited 1612.115112 ms for audio thread.
+[2022.09.23-09.36.57:259][666]LogAudio: Display: Waited 1647.910156 ms for audio thread.
+[2022.09.23-09.36.57:295][666]LogAudio: Display: Waited 1683.799561 ms for audio thread.
+[2022.09.23-09.36.57:333][666]LogAudio: Display: Waited 1722.012451 ms for audio thread.
+[2022.09.23-09.36.57:371][666]LogAudio: Display: Waited 1760.734619 ms for audio thread.
+[2022.09.23-09.36.57:407][666]LogAudio: Display: Waited 1796.635498 ms for audio thread.
+[2022.09.23-09.36.57:448][666]LogAudio: Display: Waited 1837.659790 ms for audio thread.
+[2022.09.23-09.36.57:484][666]LogAudio: Display: Waited 1873.360107 ms for audio thread.
+[2022.09.23-09.36.57:521][666]LogAudio: Display: Waited 1910.119629 ms for audio thread.
+[2022.09.23-09.36.57:557][666]LogAudio: Display: Waited 1945.617554 ms for audio thread.
+[2022.09.23-09.36.57:594][666]LogAudio: Display: Waited 1984.453247 ms for audio thread.
+[2022.09.23-09.36.57:633][666]LogAudio: Display: Waited 2023.244629 ms for audio thread.
+[2022.09.23-09.36.57:675][666]LogAudio: Display: Waited 2064.916504 ms for audio thread.
+[2022.09.23-09.36.57:715][666]LogAudio: Display: Waited 2104.361328 ms for audio thread.
+[2022.09.23-09.36.57:751][666]LogAudio: Display: Waited 2139.647217 ms for audio thread.
+[2022.09.23-09.36.57:787][666]LogAudio: Display: Waited 2177.143555 ms for audio thread.
+[2022.09.23-09.36.57:824][666]LogAudio: Display: Waited 2214.320068 ms for audio thread.
+[2022.09.23-09.36.57:861][666]LogAudio: Display: Waited 2250.369873 ms for audio thread.
+[2022.09.23-09.36.57:897][666]LogAudio: Display: Waited 2286.550293 ms for audio thread.
+[2022.09.23-09.36.57:932][666]LogAudio: Display: Waited 2321.648193 ms for audio thread.
+[2022.09.23-09.36.57:968][666]LogAudio: Display: Waited 2357.910156 ms for audio thread.
+[2022.09.23-09.36.58:006][666]LogAudio: Display: Waited 2395.436523 ms for audio thread.
+[2022.09.23-09.36.58:043][666]LogAudio: Display: Waited 2432.917725 ms for audio thread.
+[2022.09.23-09.36.58:080][666]LogAudio: Display: Waited 2469.218994 ms for audio thread.
+[2022.09.23-09.36.58:116][666]LogAudio: Display: Waited 2505.005127 ms for audio thread.
+[2022.09.23-09.36.58:152][666]LogAudio: Display: Waited 2540.945312 ms for audio thread.
+[2022.09.23-09.36.58:188][666]LogAudio: Display: Waited 2576.992676 ms for audio thread.
+[2022.09.23-09.36.58:224][666]LogAudio: Display: Waited 2612.900391 ms for audio thread.
+[2022.09.23-09.36.58:243][666]LogAudio: Display: Waited 2631.949707 ms for audio thread.
+[2022.09.23-09.36.59:293][945]LogAudio: Display: Waited 35.769203 ms for audio thread.
+[2022.09.23-09.36.59:340][945]LogAudio: Display: Waited 83.539902 ms for audio thread.
+[2022.09.23-09.36.59:377][945]LogAudio: Display: Waited 119.600998 ms for audio thread.
+[2022.09.23-09.36.59:412][945]LogAudio: Display: Waited 154.987091 ms for audio thread.
+[2022.09.23-09.36.59:448][945]LogAudio: Display: Waited 190.933792 ms for audio thread.
+[2022.09.23-09.36.59:483][945]LogAudio: Display: Waited 225.937607 ms for audio thread.
+[2022.09.23-09.36.59:519][945]LogAudio: Display: Waited 262.036407 ms for audio thread.
+[2022.09.23-09.36.59:555][945]LogAudio: Display: Waited 298.077606 ms for audio thread.
+[2022.09.23-09.36.59:594][945]LogAudio: Display: Waited 337.481720 ms for audio thread.
+[2022.09.23-09.36.59:630][945]LogAudio: Display: Waited 372.734894 ms for audio thread.
+[2022.09.23-09.36.59:665][945]LogAudio: Display: Waited 408.176086 ms for audio thread.
+[2022.09.23-09.36.59:701][945]LogAudio: Display: Waited 443.673187 ms for audio thread.
+[2022.09.23-09.36.59:738][945]LogAudio: Display: Waited 480.801483 ms for audio thread.
+[2022.09.23-09.36.59:773][945]LogAudio: Display: Waited 516.060486 ms for audio thread.
+[2022.09.23-09.36.59:809][945]LogAudio: Display: Waited 552.487183 ms for audio thread.
+[2022.09.23-09.36.59:848][945]LogAudio: Display: Waited 591.238892 ms for audio thread.
+[2022.09.23-09.36.59:884][945]LogAudio: Display: Waited 627.711792 ms for audio thread.
+[2022.09.23-09.36.59:920][945]LogAudio: Display: Waited 663.207397 ms for audio thread.
+[2022.09.23-09.36.59:956][945]LogAudio: Display: Waited 699.386292 ms for audio thread.
+[2022.09.23-09.36.59:992][945]LogAudio: Display: Waited 735.627869 ms for audio thread.
+[2022.09.23-09.37.00:028][945]LogAudio: Display: Waited 771.669495 ms for audio thread.
+[2022.09.23-09.37.00:064][945]LogAudio: Display: Waited 806.980896 ms for audio thread.
+[2022.09.23-09.37.00:100][945]LogAudio: Display: Waited 842.878845 ms for audio thread.
+[2022.09.23-09.37.00:135][945]LogAudio: Display: Waited 877.806885 ms for audio thread.
+[2022.09.23-09.37.00:172][945]LogAudio: Display: Waited 914.759277 ms for audio thread.
+[2022.09.23-09.37.00:208][945]LogAudio: Display: Waited 950.610901 ms for audio thread.
+[2022.09.23-09.37.00:243][945]LogAudio: Display: Waited 985.713318 ms for audio thread.
+[2022.09.23-09.37.00:279][945]LogAudio: Display: Waited 1022.151367 ms for audio thread.
+[2022.09.23-09.37.00:314][945]LogAudio: Display: Waited 1056.697754 ms for audio thread.
+[2022.09.23-09.37.00:349][945]LogAudio: Display: Waited 1092.547241 ms for audio thread.
+[2022.09.23-09.37.00:385][945]LogAudio: Display: Waited 1127.768677 ms for audio thread.
+[2022.09.23-09.37.00:421][945]LogAudio: Display: Waited 1164.573730 ms for audio thread.
+[2022.09.23-09.37.00:457][945]LogAudio: Display: Waited 1200.143066 ms for audio thread.
+[2022.09.23-09.37.00:494][945]LogAudio: Display: Waited 1236.791016 ms for audio thread.
+[2022.09.23-09.37.00:529][945]LogAudio: Display: Waited 1272.511597 ms for audio thread.
+[2022.09.23-09.37.00:567][945]LogAudio: Display: Waited 1310.438232 ms for audio thread.
+[2022.09.23-09.37.00:603][945]LogAudio: Display: Waited 1346.375977 ms for audio thread.
+[2022.09.23-09.37.00:638][945]LogAudio: Display: Waited 1380.997314 ms for audio thread.
+[2022.09.23-09.37.00:673][945]LogAudio: Display: Waited 1416.446899 ms for audio thread.
+[2022.09.23-09.37.00:710][945]LogAudio: Display: Waited 1452.838623 ms for audio thread.
+[2022.09.23-09.37.00:745][945]LogAudio: Display: Waited 1487.818481 ms for audio thread.
+[2022.09.23-09.37.00:781][945]LogAudio: Display: Waited 1523.735352 ms for audio thread.
+[2022.09.23-09.37.00:817][945]LogAudio: Display: Waited 1559.694946 ms for audio thread.
+[2022.09.23-09.37.00:852][945]LogAudio: Display: Waited 1594.721436 ms for audio thread.
+[2022.09.23-09.37.00:888][945]LogAudio: Display: Waited 1630.695923 ms for audio thread.
+[2022.09.23-09.37.00:889][945]LogAudio: Display: Waited 1631.756714 ms for audio thread.
+[2022.09.23-09.37.01:921][196]LogAudio: Display: Waited 46.544102 ms for audio thread.
+[2022.09.23-09.37.01:962][196]LogAudio: Display: Waited 87.319397 ms for audio thread.
+[2022.09.23-09.37.02:015][196]LogAudio: Display: Waited 140.623093 ms for audio thread.
+[2022.09.23-09.37.02:019][196]LogAudio: Display: Waited 144.857193 ms for audio thread.
+[2022.09.23-09.37.02:397][251]LogAudio: Display: Waited 35.879501 ms for audio thread.
+[2022.09.23-09.37.02:433][251]LogAudio: Display: Waited 72.138397 ms for audio thread.
+[2022.09.23-09.37.02:470][251]LogAudio: Display: Waited 108.092102 ms for audio thread.
+[2022.09.23-09.37.02:507][251]LogAudio: Display: Waited 144.989304 ms for audio thread.
+[2022.09.23-09.37.02:543][251]LogAudio: Display: Waited 182.211502 ms for audio thread.
+[2022.09.23-09.37.02:579][251]LogAudio: Display: Waited 218.716507 ms for audio thread.
+[2022.09.23-09.37.02:616][251]LogAudio: Display: Waited 254.732010 ms for audio thread.
+[2022.09.23-09.37.02:653][251]LogAudio: Display: Waited 291.521484 ms for audio thread.
+[2022.09.23-09.37.02:689][251]LogAudio: Display: Waited 327.054199 ms for audio thread.
+[2022.09.23-09.37.02:725][251]LogAudio: Display: Waited 363.839813 ms for audio thread.
+[2022.09.23-09.37.02:761][251]LogAudio: Display: Waited 400.516907 ms for audio thread.
+[2022.09.23-09.37.02:799][251]LogAudio: Display: Waited 437.870514 ms for audio thread.
+[2022.09.23-09.37.02:836][251]LogAudio: Display: Waited 475.081207 ms for audio thread.
+[2022.09.23-09.37.02:872][251]LogAudio: Display: Waited 511.430328 ms for audio thread.
+[2022.09.23-09.37.02:909][251]LogAudio: Display: Waited 547.613770 ms for audio thread.
+[2022.09.23-09.37.02:945][251]LogAudio: Display: Waited 583.473511 ms for audio thread.
+[2022.09.23-09.37.02:982][251]LogAudio: Display: Waited 621.031006 ms for audio thread.
+[2022.09.23-09.37.03:020][251]LogAudio: Display: Waited 658.597839 ms for audio thread.
+[2022.09.23-09.37.03:056][251]LogAudio: Display: Waited 694.514221 ms for audio thread.
+[2022.09.23-09.37.03:091][251]LogAudio: Display: Waited 730.004211 ms for audio thread.
+[2022.09.23-09.37.03:127][251]LogAudio: Display: Waited 765.847046 ms for audio thread.
+[2022.09.23-09.37.03:164][251]LogAudio: Display: Waited 802.863159 ms for audio thread.
+[2022.09.23-09.37.03:201][251]LogAudio: Display: Waited 840.247986 ms for audio thread.
+[2022.09.23-09.37.03:240][251]LogAudio: Display: Waited 878.821899 ms for audio thread.
+[2022.09.23-09.37.03:277][251]LogAudio: Display: Waited 916.123108 ms for audio thread.
+[2022.09.23-09.37.03:313][251]LogAudio: Display: Waited 951.359192 ms for audio thread.
+[2022.09.23-09.37.03:349][251]LogAudio: Display: Waited 987.270142 ms for audio thread.
+[2022.09.23-09.37.03:385][251]LogAudio: Display: Waited 1023.167358 ms for audio thread.
+[2022.09.23-09.37.03:421][251]LogAudio: Display: Waited 1059.057373 ms for audio thread.
+[2022.09.23-09.37.03:457][251]LogAudio: Display: Waited 1094.978516 ms for audio thread.
+[2022.09.23-09.37.03:492][251]LogAudio: Display: Waited 1130.894531 ms for audio thread.
+[2022.09.23-09.37.03:528][251]LogAudio: Display: Waited 1166.779663 ms for audio thread.
+[2022.09.23-09.37.03:541][251]LogAudio: Display: Waited 1179.890381 ms for audio thread.
+[2022.09.23-09.37.04:926][512]LogAudio: Display: Waited 71.111801 ms for audio thread.
+[2022.09.23-09.37.04:962][512]LogAudio: Display: Waited 108.544998 ms for audio thread.
+[2022.09.23-09.37.04:998][512]LogAudio: Display: Waited 144.027695 ms for audio thread.
+[2022.09.23-09.37.05:034][512]LogAudio: Display: Waited 179.859207 ms for audio thread.
+[2022.09.23-09.37.05:070][512]LogAudio: Display: Waited 216.242996 ms for audio thread.
+[2022.09.23-09.37.05:106][512]LogAudio: Display: Waited 251.507187 ms for audio thread.
+[2022.09.23-09.37.05:143][512]LogAudio: Display: Waited 288.296112 ms for audio thread.
+[2022.09.23-09.37.05:179][512]LogAudio: Display: Waited 324.400085 ms for audio thread.
+[2022.09.23-09.37.05:215][512]LogAudio: Display: Waited 360.186005 ms for audio thread.
+[2022.09.23-09.37.05:251][512]LogAudio: Display: Waited 396.064911 ms for audio thread.
+[2022.09.23-09.37.05:287][512]LogAudio: Display: Waited 432.244690 ms for audio thread.
+[2022.09.23-09.37.05:323][512]LogAudio: Display: Waited 468.070679 ms for audio thread.
+[2022.09.23-09.37.05:358][512]LogAudio: Display: Waited 504.086609 ms for audio thread.
+[2022.09.23-09.37.05:397][512]LogAudio: Display: Waited 542.884277 ms for audio thread.
+[2022.09.23-09.37.05:436][512]LogAudio: Display: Waited 580.462708 ms for audio thread.
+[2022.09.23-09.37.05:473][512]LogAudio: Display: Waited 618.689880 ms for audio thread.
+[2022.09.23-09.37.05:509][512]LogAudio: Display: Waited 654.023132 ms for audio thread.
+[2022.09.23-09.37.05:544][512]LogAudio: Display: Waited 690.041809 ms for audio thread.
+[2022.09.23-09.37.05:580][512]LogAudio: Display: Waited 725.803650 ms for audio thread.
+[2022.09.23-09.37.05:616][512]LogAudio: Display: Waited 761.648804 ms for audio thread.
+[2022.09.23-09.37.05:653][512]LogAudio: Display: Waited 799.009338 ms for audio thread.
+[2022.09.23-09.37.05:693][512]LogAudio: Display: Waited 838.859375 ms for audio thread.
+[2022.09.23-09.37.05:729][512]LogAudio: Display: Waited 874.797729 ms for audio thread.
+[2022.09.23-09.37.05:765][512]LogAudio: Display: Waited 910.505920 ms for audio thread.
+[2022.09.23-09.37.05:800][512]LogAudio: Display: Waited 945.664612 ms for audio thread.
+[2022.09.23-09.37.05:839][512]LogAudio: Display: Waited 985.398865 ms for audio thread.
+[2022.09.23-09.37.05:876][512]LogAudio: Display: Waited 1021.685852 ms for audio thread.
+[2022.09.23-09.37.05:913][512]LogAudio: Display: Waited 1058.626831 ms for audio thread.
+[2022.09.23-09.37.05:949][512]LogAudio: Display: Waited 1094.259888 ms for audio thread.
+[2022.09.23-09.37.05:985][512]LogAudio: Display: Waited 1130.634766 ms for audio thread.
+[2022.09.23-09.37.06:021][512]LogAudio: Display: Waited 1166.084473 ms for audio thread.
+[2022.09.23-09.37.06:057][512]LogAudio: Display: Waited 1202.434692 ms for audio thread.
+[2022.09.23-09.37.06:094][512]LogAudio: Display: Waited 1239.251709 ms for audio thread.
+[2022.09.23-09.37.06:130][512]LogAudio: Display: Waited 1276.567871 ms for audio thread.
+[2022.09.23-09.37.06:166][512]LogAudio: Display: Waited 1311.706299 ms for audio thread.
+[2022.09.23-09.37.06:202][512]LogAudio: Display: Waited 1347.570068 ms for audio thread.
+[2022.09.23-09.37.06:238][512]LogAudio: Display: Waited 1383.872192 ms for audio thread.
+[2022.09.23-09.37.06:281][512]LogAudio: Display: Waited 1426.385132 ms for audio thread.
+[2022.09.23-09.37.06:317][512]LogAudio: Display: Waited 1462.253662 ms for audio thread.
+[2022.09.23-09.37.06:353][512]LogAudio: Display: Waited 1498.276733 ms for audio thread.
+[2022.09.23-09.37.06:389][512]LogAudio: Display: Waited 1534.910400 ms for audio thread.
+[2022.09.23-09.37.06:425][512]LogAudio: Display: Waited 1570.504395 ms for audio thread.
+[2022.09.23-09.37.06:461][512]LogAudio: Display: Waited 1606.442505 ms for audio thread.
+[2022.09.23-09.37.06:500][512]LogAudio: Display: Waited 1645.325073 ms for audio thread.
+[2022.09.23-09.37.06:536][512]LogAudio: Display: Waited 1681.205811 ms for audio thread.
+[2022.09.23-09.37.06:537][512]LogAudio: Display: Waited 1682.197510 ms for audio thread.
+[2022.09.23-09.37.06:808][544]LogAudio: Display: Waited 37.746502 ms for audio thread.
+[2022.09.23-09.37.06:846][544]LogAudio: Display: Waited 75.194405 ms for audio thread.
+[2022.09.23-09.37.06:878][544]LogAudio: Display: Waited 107.396606 ms for audio thread.
+[2022.09.23-09.37.07:055][552]LogAudio: Display: Waited 44.422100 ms for audio thread.
+[2022.09.23-09.37.07:060][552]LogAudio: Display: Waited 50.094501 ms for audio thread.
+[2022.09.23-09.37.09:255][919]LogAudio: Display: Waited 36.597500 ms for audio thread.
+[2022.09.23-09.37.09:270][919]LogAudio: Display: Waited 51.761600 ms for audio thread.
+[2022.09.23-09.37.09:590][960]LogAudio: Display: Waited 70.812302 ms for audio thread.
+[2022.09.23-09.37.09:626][960]LogAudio: Display: Waited 106.669403 ms for audio thread.
+[2022.09.23-09.37.09:662][960]LogAudio: Display: Waited 142.593506 ms for audio thread.
+[2022.09.23-09.37.09:698][960]LogAudio: Display: Waited 178.608810 ms for audio thread.
+[2022.09.23-09.37.09:733][960]LogAudio: Display: Waited 214.025101 ms for audio thread.
+[2022.09.23-09.37.09:755][960]LogAudio: Display: Waited 236.260208 ms for audio thread.
+[2022.09.23-09.37.09:881][965]LogAudio: Display: Waited 39.628101 ms for audio thread.
+[2022.09.23-09.37.09:884][965]LogAudio: Display: Waited 42.205700 ms for audio thread.
+[2022.09.23-09.37.09:974][969]LogAudio: Display: Waited 35.907700 ms for audio thread.
+[2022.09.23-09.37.09:975][969]LogAudio: Display: Waited 36.332302 ms for audio thread.
+[2022.09.23-09.37.10:057][973]LogAudio: Display: Waited 35.671902 ms for audio thread.
+[2022.09.23-09.37.10:064][973]LogAudio: Display: Waited 42.342499 ms for audio thread.
+[2022.09.23-09.37.11:431][ 86]LogAudio: Display: Waited 39.270401 ms for audio thread.
+[2022.09.23-09.37.11:432][ 86]LogAudio: Display: Waited 40.828602 ms for audio thread.
+[2022.09.23-09.37.12:185][177]LogAudio: Display: Waited 35.759098 ms for audio thread.
+[2022.09.23-09.37.12:221][177]LogAudio: Display: Waited 71.658699 ms for audio thread.
+[2022.09.23-09.37.12:257][177]LogAudio: Display: Waited 107.591301 ms for audio thread.
+[2022.09.23-09.37.12:293][177]LogAudio: Display: Waited 143.468796 ms for audio thread.
+[2022.09.23-09.37.12:335][177]LogAudio: Display: Waited 185.436295 ms for audio thread.
+[2022.09.23-09.37.12:377][177]LogAudio: Display: Waited 227.703796 ms for audio thread.
+[2022.09.23-09.37.12:415][177]LogAudio: Display: Waited 266.453003 ms for audio thread.
+[2022.09.23-09.37.12:451][177]LogAudio: Display: Waited 302.075012 ms for audio thread.
+[2022.09.23-09.37.12:485][177]LogAudio: Display: Waited 336.308197 ms for audio thread.
+[2022.09.23-09.37.13:624][384]LogAudio: Display: Waited 35.605503 ms for audio thread.
+[2022.09.23-09.37.13:685][384]LogAudio: Display: Waited 97.423599 ms for audio thread.
+[2022.09.23-09.37.13:721][384]LogAudio: Display: Waited 133.234390 ms for audio thread.
+[2022.09.23-09.37.13:757][384]LogAudio: Display: Waited 169.185913 ms for audio thread.
+[2022.09.23-09.37.13:800][384]LogAudio: Display: Waited 212.345093 ms for audio thread.
+[2022.09.23-09.37.13:836][384]LogAudio: Display: Waited 247.989197 ms for audio thread.
+[2022.09.23-09.37.13:863][384]LogAudio: Display: Waited 275.442017 ms for audio thread.
+[2022.09.23-09.37.14:043][389]LogAudio: Display: Waited 35.196899 ms for audio thread.
+[2022.09.23-09.37.14:045][389]LogAudio: Display: Waited 37.347099 ms for audio thread.
+[2022.09.23-09.37.15:369][616]LogAudio: Display: Waited 35.330101 ms for audio thread.
+[2022.09.23-09.37.15:405][616]LogAudio: Display: Waited 71.241402 ms for audio thread.
+[2022.09.23-09.37.15:441][616]LogAudio: Display: Waited 107.123505 ms for audio thread.
+[2022.09.23-09.37.15:476][616]LogAudio: Display: Waited 143.122101 ms for audio thread.
+[2022.09.23-09.37.15:485][616]LogAudio: Display: Waited 152.892502 ms for audio thread.
+[2022.09.23-09.37.15:535][617]LogAudio: Display: Waited 41.680599 ms for audio thread.
+[2022.09.23-09.37.16:860][821]LogAudio: Display: Waited 35.067402 ms for audio thread.
+[2022.09.23-09.37.16:896][821]LogAudio: Display: Waited 70.963394 ms for audio thread.
+[2022.09.23-09.37.16:932][821]LogAudio: Display: Waited 106.886795 ms for audio thread.
+[2022.09.23-09.37.16:967][821]LogAudio: Display: Waited 141.972595 ms for audio thread.
+[2022.09.23-09.37.17:004][821]LogAudio: Display: Waited 178.967697 ms for audio thread.
+[2022.09.23-09.37.17:039][821]LogAudio: Display: Waited 213.987503 ms for audio thread.
+[2022.09.23-09.37.17:076][821]LogAudio: Display: Waited 251.542206 ms for audio thread.
+[2022.09.23-09.37.17:112][821]LogAudio: Display: Waited 286.942108 ms for audio thread.
+[2022.09.23-09.37.17:147][821]LogAudio: Display: Waited 321.978973 ms for audio thread.
+[2022.09.23-09.37.17:236][821]LogAudio: Display: Waited 411.256195 ms for audio thread.
+[2022.09.23-09.37.17:293][821]LogAudio: Display: Waited 469.109222 ms for audio thread.
+[2022.09.23-09.37.17:329][821]LogAudio: Display: Waited 504.524841 ms for audio thread.
+[2022.09.23-09.37.17:384][821]LogAudio: Display: Waited 559.696594 ms for audio thread.
+[2022.09.23-09.37.17:449][821]LogAudio: Display: Waited 623.791565 ms for audio thread.
+[2022.09.23-09.37.17:485][821]LogAudio: Display: Waited 660.812195 ms for audio thread.
+[2022.09.23-09.37.17:526][821]LogAudio: Display: Waited 701.726685 ms for audio thread.
+[2022.09.23-09.37.17:563][821]LogAudio: Display: Waited 738.602722 ms for audio thread.
+[2022.09.23-09.37.17:599][821]LogAudio: Display: Waited 774.520081 ms for audio thread.
+[2022.09.23-09.37.17:638][821]LogAudio: Display: Waited 813.234680 ms for audio thread.
+[2022.09.23-09.37.17:676][821]LogAudio: Display: Waited 851.116577 ms for audio thread.
+[2022.09.23-09.37.17:713][821]LogAudio: Display: Waited 888.504639 ms for audio thread.
+[2022.09.23-09.37.17:730][821]LogAudio: Display: Waited 905.689148 ms for audio thread.
+[2022.09.23-09.37.17:796][825]LogAudio: Display: Waited 35.536800 ms for audio thread.
+[2022.09.23-09.37.17:801][825]LogAudio: Display: Waited 41.150200 ms for audio thread.
+[2022.09.23-09.37.24:257][ 52]LogAudio: Display: Waited 70.900597 ms for audio thread.
+[2022.09.23-09.37.24:292][ 52]LogAudio: Display: Waited 106.810196 ms for audio thread.
+[2022.09.23-09.37.24:328][ 52]LogAudio: Display: Waited 142.282700 ms for audio thread.
+[2022.09.23-09.37.24:360][ 52]LogAudio: Display: Waited 174.409302 ms for audio thread.
+[2022.09.23-09.37.25:396][263]LogAudio: Display: Waited 35.266701 ms for audio thread.
+[2022.09.23-09.37.25:432][263]LogAudio: Display: Waited 71.172600 ms for audio thread.
+[2022.09.23-09.37.25:468][263]LogAudio: Display: Waited 107.163200 ms for audio thread.
+[2022.09.23-09.37.25:504][263]LogAudio: Display: Waited 143.115097 ms for audio thread.
+[2022.09.23-09.37.25:540][263]LogAudio: Display: Waited 178.982605 ms for audio thread.
+[2022.09.23-09.37.25:577][263]LogAudio: Display: Waited 216.653702 ms for audio thread.
+[2022.09.23-09.37.25:612][263]LogAudio: Display: Waited 251.156601 ms for audio thread.
+[2022.09.23-09.37.25:620][263]LogAudio: Display: Waited 259.691895 ms for audio thread.
+[2022.09.23-09.37.26:695][483]LogAudio: Display: Waited 35.691700 ms for audio thread.
+[2022.09.23-09.37.26:731][483]LogAudio: Display: Waited 71.597000 ms for audio thread.
+[2022.09.23-09.37.26:767][483]LogAudio: Display: Waited 107.497200 ms for audio thread.
+[2022.09.23-09.37.26:803][483]LogAudio: Display: Waited 143.452011 ms for audio thread.
+[2022.09.23-09.37.26:845][483]LogAudio: Display: Waited 185.975510 ms for audio thread.
+[2022.09.23-09.37.26:894][483]LogAudio: Display: Waited 234.882202 ms for audio thread.
+[2022.09.23-09.37.26:933][483]LogAudio: Display: Waited 273.200897 ms for audio thread.
+[2022.09.23-09.37.26:976][483]LogAudio: Display: Waited 316.558105 ms for audio thread.
+[2022.09.23-09.37.27:025][483]LogAudio: Display: Waited 366.041199 ms for audio thread.
+[2022.09.23-09.37.27:061][483]LogAudio: Display: Waited 401.233276 ms for audio thread.
+[2022.09.23-09.37.27:110][483]LogAudio: Display: Waited 450.430206 ms for audio thread.
+[2022.09.23-09.37.27:148][483]LogAudio: Display: Waited 488.060516 ms for audio thread.
+[2022.09.23-09.37.27:198][483]LogAudio: Display: Waited 538.175598 ms for audio thread.
+[2022.09.23-09.37.27:234][483]LogAudio: Display: Waited 575.028198 ms for audio thread.
+[2022.09.23-09.37.27:270][483]LogAudio: Display: Waited 610.421875 ms for audio thread.
+[2022.09.23-09.37.27:307][483]LogAudio: Display: Waited 647.942139 ms for audio thread.
+[2022.09.23-09.37.27:344][483]LogAudio: Display: Waited 684.037598 ms for audio thread.
+[2022.09.23-09.37.27:380][483]LogAudio: Display: Waited 719.915283 ms for audio thread.
+[2022.09.23-09.37.27:415][483]LogAudio: Display: Waited 755.836121 ms for audio thread.
+[2022.09.23-09.37.27:451][483]LogAudio: Display: Waited 791.742371 ms for audio thread.
+[2022.09.23-09.37.27:487][483]LogAudio: Display: Waited 827.629822 ms for audio thread.
+[2022.09.23-09.37.27:487][483]LogAudio: Display: Waited 827.841248 ms for audio thread.
+[2022.09.23-09.37.29:020][807]LogAudio: Display: Waited 38.085201 ms for audio thread.
+[2022.09.23-09.37.29:056][807]LogAudio: Display: Waited 73.908005 ms for audio thread.
+[2022.09.23-09.37.29:075][807]LogAudio: Display: Waited 93.082001 ms for audio thread.
+[2022.09.23-09.37.29:883][976]LogAudio: Display: Waited 70.894196 ms for audio thread.
+[2022.09.23-09.37.29:907][976]LogAudio: Display: Waited 95.107300 ms for audio thread.
+[2022.09.23-09.37.35:386][248]LogSlate: Window 'MultiplayerGame (64-bit Development PCD3D_ES31) ' being destroyed
+[2022.09.23-09.37.35:401][248]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (搜狗拼音输入法).
+[2022.09.23-09.37.35:420][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-09.37.35:421][248]LogEngine: All Windows Closed
+[2022.09.23-09.37.35:421][248]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.09.23-09.37.35:421][248]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.09.23-09.37.35:421][248]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.09.23-09.37.35:423][249]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.09.23-09.37.35:425][249]LogInit: Display: PreExit Game.
+[2022.09.23-09.37.35:559][249]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/MainMenu
+[2022.09.23-09.37.35:561][249]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.09.23-09.37.35:563][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.23-09.37.36:053][249]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.09.23-09.37.36:054][249]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.09.23-09.37.36:054][249]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2022.09.23-09.37.36:064][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.23-09.37.36:070][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.23-09.37.36:093][249]LogAudio: Display: Audio Device Manager Shutdown
+[2022.09.23-09.37.36:115][249]LogExit: Preparing to exit.
+[2022.09.23-09.37.37:230][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.23-09.37.37:236][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.09.23-09.37.37:433][249]LogMoviePlayer: Shutting down movie player
+[2022.09.23-09.37.38:879][249]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 945
+[2022.09.23-09.37.38:879][249]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 935
+[2022.09.23-09.37.38:879][249]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2022.09.23-09.37.38:884][249]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.09.23-09.37.38:928][249]LogExit: Game engine shut down
+[2022.09.23-09.37.39:292][249]LogExit: Object subsystem successfully closed.
+[2022.09.23-09.37.39:726][249]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.23-09.37.39:726][249]LogShaderCompilers: Display: Total job queries 3730, among them cache hits 0 (0.00%)
+[2022.09.23-09.37.39:726][249]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 17 distinct outputs (85.00%)
+[2022.09.23-09.37.39:726][249]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.03%
+[2022.09.23-09.37.39:726][249]LogShaderCompilers: Display: ================================================
+[2022.09.23-09.37.39:769][249]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.09.23-09.37.39:860][249]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (564)
+[2022.09.23-09.37.39:860][249]LogModuleManager: Shutting down and abandoning module SequenceRecorder (562)
+[2022.09.23-09.37.39:860][249]LogModuleManager: Shutting down and abandoning module AutomationController (560)
+[2022.09.23-09.37.39:860][249]LogModuleManager: Shutting down and abandoning module AutomationWorker (558)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module Voice (556)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module AIModule (554)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module GameplayDebugger (553)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module AITestSuite (551)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module NavigationSystem (549)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module SteamVREditor (546)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module ToolMenus (545)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module OculusMR (542)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (540)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module TakeRecorder (539)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (536)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module TakesCore (534)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module OpenXRInput (532)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (530)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (528)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module WebMMedia (526)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (524)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (522)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (520)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (518)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (516)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module PlanarCut (514)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module CharacterAI (512)
+[2022.09.23-09.37.39:861][249]LogModuleManager: Shutting down and abandoning module SessionServices (510)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (508)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module AnimGraph (506)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module LiveCoding (504)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module LevelSequence (502)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (500)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module MovieScene (498)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (496)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module PortalServices (494)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module PortalRpc (492)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module MessagingRpc (490)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (488)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module AudioMixerCore (487)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (484)
+[2022.09.23-09.37.39:862][249]LogModuleManager: Shutting down and abandoning module ProfilerService (482)
+[2022.09.23-09.37.39:894][249]LogModuleManager: Shutting down and abandoning module TaskGraph (480)
+[2022.09.23-09.37.39:894][249]LogModuleManager: Shutting down and abandoning module OculusInput (478)
+[2022.09.23-09.37.39:894][249]LogModuleManager: Shutting down and abandoning module TakeMovieScene (476)
+[2022.09.23-09.37.39:894][249]LogModuleManager: Shutting down and abandoning module Synthesis (474)
+[2022.09.23-09.37.39:894][249]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (472)
+[2022.09.23-09.37.39:894][249]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (470)
+[2022.09.23-09.37.39:894][249]LogModuleManager: Shutting down and abandoning module GooglePAD (468)
+[2022.09.23-09.37.39:894][249]LogModuleManager: Shutting down and abandoning module EditableMesh (466)
+[2022.09.23-09.37.39:894][249]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (464)
+[2022.09.23-09.37.39:894][249]LogModuleManager: Shutting down and abandoning module CableComponent (462)
+[2022.09.23-09.37.39:894][249]LogModuleManager: Shutting down and abandoning module AudioCapture (460)
+[2022.09.23-09.37.39:894][249]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (459)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module AssetTags (456)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (454)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (452)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module AppleImageUtils (450)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module AndroidPermission (448)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (446)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module TemplateSequence (444)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module MediaCompositing (442)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module ImgMedia (440)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (438)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (436)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (434)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (432)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (430)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (428)
+[2022.09.23-09.37.39:895][249]LogOpenImageDenoise: OIDN shutting down
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module MotoSynth (426)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module MeshConversion (424)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module DynamicMesh (422)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (420)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module GeometricObjects (418)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (416)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (415)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (412)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (411)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module GeometryCache (408)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (407)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module ChaosNiagara (404)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (403)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module AutomationUtils (398)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (396)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module HotReload (395)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (392)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module UObjectPlugin (390)
+[2022.09.23-09.37.39:895][249]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (388)
+[2022.09.23-09.37.39:896][249]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2022.09.23-09.37.39:896][249]LogModuleManager: Shutting down and abandoning module SourceControl (385)
+[2022.09.23-09.37.39:896][249]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (382)
+[2022.09.23-09.37.39:896][249]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (380)
+[2022.09.23-09.37.39:896][249]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (378)
+[2022.09.23-09.37.39:896][249]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (376)
+[2022.09.23-09.37.39:896][249]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (374)
+[2022.09.23-09.37.39:896][249]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (372)
+[2022.09.23-09.37.39:896][249]LogModuleManager: Shutting down and abandoning module LiveLink (370)
+[2022.09.23-09.37.40:000][249]LogModuleManager: Shutting down and abandoning module SoundFields (368)
+[2022.09.23-09.37.40:000][249]LogModuleManager: Shutting down and abandoning module SignificanceManager (366)
+[2022.09.23-09.37.40:000][249]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (364)
+[2022.09.23-09.37.40:000][249]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (362)
+[2022.09.23-09.37.40:000][249]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (360)
+[2022.09.23-09.37.40:000][249]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (356)
+[2022.09.23-09.37.40:000][249]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (354)
+[2022.09.23-09.37.40:000][249]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (352)
+[2022.09.23-09.37.40:000][249]LogModuleManager: Shutting down and abandoning module ActorSequence (350)
+[2022.09.23-09.37.40:000][249]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2022.09.23-09.37.40:101][249]LogModuleManager: Shutting down and abandoning module UdpMessaging (346)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (344)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (342)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (340)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (338)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (336)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (334)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (332)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (330)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (328)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (326)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module MagicLeapController (324)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (322)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module MagicLeapAR (320)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (318)
+[2022.09.23-09.37.40:203][249]LogModuleManager: Shutting down and abandoning module Niagara (316)
+[2022.09.23-09.37.40:204][249]LogModuleManager: Shutting down and abandoning module SignalProcessing (315)
+[2022.09.23-09.37.40:204][249]LogModuleManager: Shutting down and abandoning module NiagaraEditor (313)
+[2022.09.23-09.37.40:204][249]LogModuleManager: Shutting down and abandoning module ContentBrowser (312)
+[2022.09.23-09.37.40:204][249]LogModuleManager: Shutting down and abandoning module CollectionManager (311)
+[2022.09.23-09.37.40:205][249]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (310)
+[2022.09.23-09.37.40:205][249]LogModuleManager: Shutting down and abandoning module ContentBrowserData (307)
+[2022.09.23-09.37.40:205][249]LogModuleManager: Shutting down and abandoning module NiagaraCore (302)
+[2022.09.23-09.37.40:205][249]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (300)
+[2022.09.23-09.37.40:205][249]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (298)
+[2022.09.23-09.37.40:205][249]LogModuleManager: Shutting down and abandoning module FacialAnimation (296)
+[2022.09.23-09.37.40:205][249]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (294)
+[2022.09.23-09.37.40:206][249]LogModuleManager: Shutting down and abandoning module TreeMap (293)
+[2022.09.23-09.37.40:206][249]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (290)
+[2022.09.23-09.37.40:206][249]LogModuleManager: Shutting down and abandoning module AnimationSharing (288)
+[2022.09.23-09.37.40:206][249]LogModuleManager: Shutting down and abandoning module GameplayCameras (286)
+[2022.09.23-09.37.40:206][249]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2022.09.23-09.37.40:206][249]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (282)
+[2022.09.23-09.37.40:206][249]LogModuleManager: Shutting down and abandoning module Paper2D (280)
+[2022.09.23-09.37.40:206][249]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (278)
+[2022.09.23-09.37.40:208][249]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (276)
+[2022.09.23-09.37.40:208][249]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (274)
+[2022.09.23-09.37.40:208][249]LogModuleManager: Shutting down and abandoning module PacketHandler (272)
+[2022.09.23-09.37.40:208][249]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (270)
+[2022.09.23-09.37.40:208][249]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (268)
+[2022.09.23-09.37.40:209][249]LogModuleManager: Shutting down and abandoning module MediaAssets (266)
+[2022.09.23-09.37.40:209][249]LogModuleManager: Shutting down and abandoning module Overlay (264)
+[2022.09.23-09.37.40:209][249]LogModuleManager: Shutting down and abandoning module OverlayEditor (263)
+[2022.09.23-09.37.40:209][249]LogModuleManager: Shutting down and abandoning module VREditor (260)
+[2022.09.23-09.37.40:209][249]LogModuleManager: Shutting down and abandoning module StringTableEditor (258)
+[2022.09.23-09.37.40:209][249]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (256)
+[2022.09.23-09.37.40:209][249]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (254)
+[2022.09.23-09.37.40:209][249]LogModuleManager: Shutting down and abandoning module FunctionalTesting (252)
+[2022.09.23-09.37.40:210][249]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (250)
+[2022.09.23-09.37.40:210][249]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (249)
+[2022.09.23-09.37.40:210][249]LogModuleManager: Shutting down and abandoning module UMG (246)
+[2022.09.23-09.37.40:210][249]LogModuleManager: Shutting down and abandoning module UMGEditor (245)
+[2022.09.23-09.37.40:210][249]LogModuleManager: Shutting down and abandoning module Sequencer (244)
+[2022.09.23-09.37.40:211][249]LogModuleManager: Shutting down and abandoning module MessageLog (241)
+[2022.09.23-09.37.40:211][249]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2022.09.23-09.37.40:211][249]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2022.09.23-09.37.40:211][249]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2022.09.23-09.37.40:215][249]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2022.09.23-09.37.40:215][249]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2022.09.23-09.37.40:215][249]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2022.09.23-09.37.40:215][249]LogModuleManager: Shutting down and abandoning module Messaging (224)
+[2022.09.23-09.37.40:215][249]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (222)
+[2022.09.23-09.37.40:216][249]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (220)
+[2022.09.23-09.37.40:216][249]LogModuleManager: Shutting down and abandoning module XAudio2 (218)
+[2022.09.23-09.37.40:216][249]LogModuleManager: Shutting down and abandoning module Networking (216)
+[2022.09.23-09.37.40:216][249]LogModuleManager: Shutting down and abandoning module Core (214)
+[2022.09.23-09.37.40:216][249]LogModuleManager: Shutting down and abandoning module MaterialEditor (212)
+[2022.09.23-09.37.40:216][249]LogModuleManager: Shutting down and abandoning module MovieSceneTools (210)
+[2022.09.23-09.37.40:216][249]LogModuleManager: Shutting down and abandoning module EditorStyle (209)
+[2022.09.23-09.37.40:246][249]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2022.09.23-09.37.40:246][249]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2022.09.23-09.37.40:246][249]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2022.09.23-09.37.40:247][249]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2022.09.23-09.37.40:247][249]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2022.09.23-09.37.40:247][249]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2022.09.23-09.37.40:247][249]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2022.09.23-09.37.40:247][249]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2022.09.23-09.37.40:248][249]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2022.09.23-09.37.40:248][249]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2022.09.23-09.37.40:248][249]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2022.09.23-09.37.40:248][249]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (182)
+[2022.09.23-09.37.40:248][249]LogModuleManager: Shutting down and abandoning module DerivedDataCache (180)
+[2022.09.23-09.37.40:248][249]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2022.09.23-09.37.40:249][249]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2022.09.23-09.37.40:249][249]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2022.09.23-09.37.40:249][249]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2022.09.23-09.37.40:249][249]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2022.09.23-09.37.40:249][249]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2022.09.23-09.37.40:249][249]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (167)
+[2022.09.23-09.37.40:249][249]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (165)
+[2022.09.23-09.37.40:249][249]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (163)
+[2022.09.23-09.37.40:249][249]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (161)
+[2022.09.23-09.37.40:249][249]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (159)
+[2022.09.23-09.37.40:249][249]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (157)
+[2022.09.23-09.37.40:250][249]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (155)
+[2022.09.23-09.37.40:250][249]LogModuleManager: Shutting down and abandoning module ImageWrapper (154)
+[2022.09.23-09.37.40:250][249]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (151)
+[2022.09.23-09.37.40:250][249]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (149)
+[2022.09.23-09.37.40:250][249]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (147)
+[2022.09.23-09.37.40:250][249]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (145)
+[2022.09.23-09.37.40:250][249]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (143)
+[2022.09.23-09.37.40:250][249]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (141)
+[2022.09.23-09.37.40:250][249]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (139)
+[2022.09.23-09.37.40:250][249]LogModuleManager: Shutting down and abandoning module D3D11RHI (136)
+[2022.09.23-09.37.40:250][249]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2022.09.23-09.37.40:250][249]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2022.09.23-09.37.40:251][249]LogModuleManager: Shutting down and abandoning module PhysXCooking (130)
+[2022.09.23-09.37.40:251][249]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2022.09.23-09.37.40:251][249]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (126)
+[2022.09.23-09.37.40:251][249]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (125)
+[2022.09.23-09.37.40:251][249]LogModuleManager: Shutting down and abandoning module AVEncoder (124)
+[2022.09.23-09.37.40:251][249]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (120)
+[2022.09.23-09.37.40:251][249]LogModuleManager: Shutting down and abandoning module SteamVRInput (118)
+[2022.09.23-09.37.40:251][249]LogModuleManager: Shutting down and abandoning module SteamVR (116)
+[2022.09.23-09.37.40:251][249]LogHMD: Freeing OpenVRDLLHandle.
+[2022.09.23-09.37.40:251][249]LogModuleManager: Shutting down and abandoning module OculusHMD (114)
+[2022.09.23-09.37.40:251][249]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (112)
+[2022.09.23-09.37.40:252][249]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.09.23-09.37.40:252][249]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (110)
+[2022.09.23-09.37.40:252][249]LogModuleManager: Shutting down and abandoning module OpenXRAR (108)
+[2022.09.23-09.37.40:252][249]LogModuleManager: Shutting down and abandoning module AugmentedReality (107)
+[2022.09.23-09.37.40:252][249]LogModuleManager: Shutting down and abandoning module OpenXRHMD (104)
+[2022.09.23-09.37.40:253][249]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (102)
+[2022.09.23-09.37.40:253][249]LogModuleManager: Shutting down and abandoning module ChunkDownloader (100)
+[2022.09.23-09.37.40:253][249]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (98)
+[2022.09.23-09.37.40:253][249]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2022.09.23-09.37.40:253][249]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2022.09.23-09.37.40:261][249]LogModuleManager: Shutting down and abandoning module SteamShared (86)
+[2022.09.23-09.37.40:262][249]LogSteamShared: Freeing the Steam Loaded Modules...
+[2022.09.23-09.37.40:262][249]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.09.23-09.37.40:262][249]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.09.23-09.37.40:286][249]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.09.23-09.37.40:286][249]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.09.23-09.37.40:305][249]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.09.23-09.37.40:311][249]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.09.23-09.37.40:315][249]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.09.23-09.37.40:321][249]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.09.23-09.37.40:321][249]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.09.23-09.37.40:321][249]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.09.23-09.37.40:321][249]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.09.23-09.37.40:321][249]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2022.09.23-09.37.40:321][249]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2022.09.23-09.37.40:321][249]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.09.23-09.37.40:321][249]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.09.23-09.37.40:321][249]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.09.23-09.37.40:322][249]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.09.23-09.37.40:322][249]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.09.23-09.37.40:322][249]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.09.23-09.37.40:322][249]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.09.23-09.37.40:323][249]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.09.23-09.37.40:324][249]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.09.23-09.37.40:324][249]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.09.23-09.37.40:324][249]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.09.23-09.37.40:326][249]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.09.23-09.37.40:327][249]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.09.23-09.37.40:327][249]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.09.23-09.37.40:329][249]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.09.23-09.37.40:329][249]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.09.23-09.37.40:330][249]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.09.23-09.37.40:330][249]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.09.23-09.37.40:330][249]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.09.23-09.37.40:331][249]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.09.23-09.37.40:331][249]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.09.23-09.37.40:331][249]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.09.23-09.37.40:331][249]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.09.23-09.37.40:331][249]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.09.23-09.37.40:331][249]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.09.23-09.37.40:331][249]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.09.23-09.37.40:331][249]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.09.23-09.37.40:331][249]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.09.23-09.37.40:332][249]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.09.23-09.37.40:665][249]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.09.23-09.37.40:731][249]LogD3D11RHI: Shutdown
+[2022.09.23-09.37.40:731][249]LogD3D11RHI: CleanupD3DDevice
+[2022.09.23-09.37.40:746][249]LogExit: Exiting.
+[2022.09.23-09.37.40:781][249]Log file closed, 09/23/22 17:37:40
