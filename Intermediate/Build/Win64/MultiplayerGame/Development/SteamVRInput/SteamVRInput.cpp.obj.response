@@ -37,13 +37,13 @@
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
 /I Runtime\Projects\Public
 /I Runtime\Json\Public
 /I ThirdParty
 /I ThirdParty\OpenVR\OpenVRv1_5_17\headers
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\SteamVR
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\SteamVR
 /I ..\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Classes
 /I ..\Plugins\Runtime\Steam\SteamVR\Source\SteamVR\Public
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
@@ -52,12 +52,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
-/Yu"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
-/Fp"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.pch"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Yu"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Fp"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.pch"
 "C:\game\ue4\UnrealEngine\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVRInput\Private\SteamVRInput.cpp"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\SteamVRInput\Definitions.SteamVRInput.h"
-/Fo"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\SteamVRInput\SteamVRInput.cpp.obj"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\SteamVRInput\Definitions.SteamVRInput.h"
+/Fo"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\SteamVRInput\SteamVRInput.cpp.obj"
 /TP
 /GR-
 /W4

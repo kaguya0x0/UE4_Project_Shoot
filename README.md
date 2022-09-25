@@ -15,7 +15,10 @@ UnrealEngine4.27.02
   链接：https://pan.baidu.com/s/1fPyRnvbVwZa3BjLeKauouw 
   ​	提取码：7799
 
+  win包：
 
+  链接：https://pan.baidu.com/s/1tEJCFA19yMVbLhPSU_0SvA 
+  ​	提取码：7799
 
 
 ## 日志

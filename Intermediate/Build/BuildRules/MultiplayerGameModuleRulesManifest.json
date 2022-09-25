@@ -1,7 +1,7 @@
 {
 	"SourceFiles": [
-		"C:\\game\\资料\\MultiplayerGame\\Intermediate\\Source\\MultiplayerGame.Build.cs",
-		"C:\\game\\资料\\MultiplayerGame\\Intermediate\\Source\\MultiplayerGame.Target.cs"
+		"C:\\game\\Game000\\AIHomework\\Intermediate\\Source\\MultiplayerGame.Build.cs",
+		"C:\\game\\Game000\\AIHomework\\Intermediate\\Source\\MultiplayerGame.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }

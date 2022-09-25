@@ -37,13 +37,13 @@
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\NetCore
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\NetCore
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
 /I Runtime\Net\Core\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\PacketHandler
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\PacketHandler
 /I Runtime\PacketHandlers\PacketHandler\Classes
 /I Runtime\PacketHandlers\PacketHandler\Public
 /I Runtime\Sockets\Public
@@ -54,12 +54,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.ShadowErrors.h"
-/Yu"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.ShadowErrors.h"
-/Fp"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Yu"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Fp"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
 "C:\game\ue4\UnrealEngine\Engine\Source\Runtime\PacketHandlers\ReliabilityHandlerComponent\Private\ReliabilityHandlerComponent.cpp"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\ReliableHComp\Definitions.ReliabilityHandlerComponent.h"
-/Fo"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\ReliableHComp\ReliabilityHandlerComponent.cpp.obj"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\ReliableHComp\Definitions.ReliabilityHandlerComponent.h"
+/Fo"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\ReliableHComp\ReliabilityHandlerComponent.cpp.obj"
 /TP
 /GR-
 /W4

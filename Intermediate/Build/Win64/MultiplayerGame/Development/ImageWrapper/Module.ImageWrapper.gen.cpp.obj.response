@@ -40,9 +40,9 @@
 /I ThirdParty\zlib\v1.2.8\include\Win64\VS2015
 /I ThirdParty\libPNG\libPNG-1.5.2
 /I ThirdParty\libJPG
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\ImageWrapper
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\ImageWrapper
 /I Runtime\ImageWrapper\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
 /I ThirdParty\libjpeg-turbo\include
 /I ThirdParty\openexr\Deploy\OpenEXR-2.3.0
@@ -53,11 +53,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\ImageWrapper\PCH.ImageWrapper.h"
-/Yu"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\ImageWrapper\PCH.ImageWrapper.h"
-/Fp"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\ImageWrapper\PCH.ImageWrapper.h.pch"
-"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\ImageWrapper\Module.ImageWrapper.gen.cpp"
-/Fo"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\ImageWrapper\Module.ImageWrapper.gen.cpp.obj"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\ImageWrapper\PCH.ImageWrapper.h"
+/Yu"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\ImageWrapper\PCH.ImageWrapper.h"
+/Fp"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\ImageWrapper\PCH.ImageWrapper.h.pch"
+"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\ImageWrapper\Module.ImageWrapper.gen.cpp"
+/Fo"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\ImageWrapper\Module.ImageWrapper.gen.cpp.obj"
 /TP
 /GR-
 /W4

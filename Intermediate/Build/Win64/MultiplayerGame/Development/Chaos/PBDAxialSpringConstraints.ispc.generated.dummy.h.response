@@ -1,18 +1,18 @@
--h "C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Chaos\PBDAxialSpringConstraints.ispc.generated.dummy.h"
+-h "C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Chaos\PBDAxialSpringConstraints.ispc.generated.dummy.h"
 --target-os=windows
 --arch=x86-64
 --target=avx512skx-i32x8,avx2,avx,sse4,sse2
 -I"C:\game\ue4\UnrealEngine\Engine\Source"
 -I"C:\game\ue4\UnrealEngine\Engine\Source\Runtime\Experimental\Chaos\Private"
--I"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\Chaos"
+-I"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\Chaos"
 -I"C:\game\ue4\UnrealEngine\Engine\Source\Runtime\Experimental"
 -I"C:\game\ue4\UnrealEngine\Engine\Source\Runtime\Experimental\Chaos\Public"
 -I"C:\game\ue4\UnrealEngine\Engine\Source\Runtime"
 -I"C:\game\ue4\UnrealEngine\Engine\Source\Runtime\TraceLog\Public"
 -I"C:\game\ue4\UnrealEngine\Engine\Source\Runtime\Core\Public"
--I"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject"
+-I"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject"
 -I"C:\game\ue4\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public"
 -I"C:\game\ue4\UnrealEngine\Engine\Source\Runtime\Experimental\ChaosCore\Public"
 -I"C:\game\ue4\UnrealEngine\Engine\Source\ThirdParty\Intel"
 -I"C:\game\ue4\UnrealEngine\Engine\Source\Runtime\Experimental\Voronoi\Public"
--MMM "C:/game/资料/MultiplayerGame/Intermediate/Build/Win64/MultiplayerGame/Development/Chaos/PBDAxialSpringConstraints.ispc.txt"
+-MMM "C:/game/Game000/AIHomework/Intermediate/Build/Win64/MultiplayerGame/Development/Chaos/PBDAxialSpringConstraints.ispc.txt"

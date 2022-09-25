@@ -42,48 +42,48 @@
 /I Runtime\AppFramework\Public
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
 /I Runtime\ApplicationCore\Public
 /I Runtime\RHI\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\Slate
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\Slate
 /I Runtime\Slate\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\InputCore
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\InputCore
 /I Runtime\InputCore\Classes
 /I Runtime\InputCore\Public
 /I Runtime\Json\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\SlateCore
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\SlateCore
 /I Runtime\SlateCore\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\ImageWrapper
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\ImageWrapper
 /I Runtime\ImageWrapper\Public
 /I Runtime\Networking\Public
 /I Runtime\Sockets\Public
 /I Runtime\Net
 /I Runtime\Net\Common\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\Landscape
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\Landscape
 /I Runtime\Landscape\Classes
 /I Runtime\Landscape\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\PhysicsCore
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\PhysicsCore
 /I Runtime\PhysicsCore\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\DeveloperSettings
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\DeveloperSettings
 /I Runtime\DeveloperSettings\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\Chaos
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\Chaos
 /I Runtime\Experimental
 /I Runtime\Experimental\Chaos\Public
 /I Runtime\Experimental\ChaosCore\Public
 /I ThirdParty\Intel
 /I Runtime\Experimental\Voronoi\Public
 /I ThirdParty
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\UMG
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\UMG
 /I Runtime\UMG\Public
 /I Runtime\Online
 /I Runtime\Online\HTTP\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\MovieScene
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\MovieScene
 /I Runtime\MovieScene\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\Engine
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\Engine
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\NetCore
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\NetCore
 /I Runtime\Net\Core\Classes
 /I Runtime\Net\Core\Public
 /I Runtime\Messaging\Public
@@ -92,79 +92,79 @@
 /I Runtime\Analytics
 /I Runtime\Analytics\AnalyticsET\Public
 /I Runtime\Analytics\Analytics\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\AssetRegistry
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\AssetRegistry
 /I Runtime\AssetRegistry\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\EngineMessages
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\EngineMessages
 /I Runtime\EngineMessages\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\EngineSettings
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\EngineSettings
 /I Runtime\EngineSettings\Classes
 /I Runtime\EngineSettings\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\Renderer
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\Renderer
 /I Runtime\Renderer\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\GameplayTags
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\GameplayTags
 /I Runtime\GameplayTags\Classes
 /I Runtime\GameplayTags\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\PacketHandler
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\PacketHandler
 /I Runtime\PacketHandlers
 /I Runtime\PacketHandlers\PacketHandler\Classes
 /I Runtime\PacketHandlers\PacketHandler\Public
 /I Runtime\PacketHandlers\ReliabilityHandlerComponent\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\AudioPlatformConfiguration
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\AudioPlatformConfiguration
 /I Runtime\AudioPlatformConfiguration\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\MeshDescription
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\MeshDescription
 /I Runtime\MeshDescription\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\StaticMeshDescription
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\StaticMeshDescription
 /I Runtime\StaticMeshDescription\Public
 /I Runtime\PakFile\Public
 /I Runtime\RSA\Public
 /I Runtime\NetworkReplayStreaming
 /I Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public
 /I Runtime\SignalProcessing\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\AudioExtensions
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\AudioExtensions
 /I Runtime\AudioExtensions\Public
 /I Runtime\AudioMixerCore\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\PropertyAccess
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\PropertyAccess
 /I Runtime\PropertyAccess\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\ClothingSystemRuntimeInterface
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\AudioMixer
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\AudioMixer
 /I Runtime\AudioMixer\Classes
 /I Runtime\AudioMixer\Public
 /I Developer\TargetPlatform\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\AnimationCore
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\AnimationCore
 /I Runtime\AnimationCore\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\TimeManagement
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\TimeManagement
 /I Runtime\TimeManagement\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\MovieSceneTracks
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\MovieSceneTracks
 /I Runtime\MovieSceneTracks\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\PropertyPath
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\PropertyPath
 /I Runtime\PropertyPath\Public
 /I Runtime\Projects\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\MaterialShaderQualitySettings
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\MaterialShaderQualitySettings
 /I Runtime\MaterialShaderQualitySettings\Classes
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\CinematicCamera
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\CinematicCamera
 /I Runtime\CinematicCamera\Public
 /I Runtime\CrunchCompression\Public
 /I ThirdParty\Vorbis\libvorbis-1.3.2\include
 /I ThirdParty\libOpus\opus-1.3.1-12\include
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\ImageWriteQueue
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\ImageWriteQueue
 /I Runtime\ImageWriteQueue\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\HeadMountedDisplay
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\HeadMountedDisplay
 /I Runtime\HeadMountedDisplay\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\EyeTracker
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\EyeTracker
 /I Runtime\EyeTracker\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\MRMesh
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\MRMesh
 /I Runtime\MRMesh\Public
 /I Runtime\Advertising
 /I Runtime\Advertising\Advertising\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\MovieSceneCapture
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\MovieSceneCapture
 /I Runtime\MovieSceneCapture\Public
 /I Runtime\AutomationWorker\Public
 /I Developer\DesktopPlatform\Public
 /I Developer\TaskGraph\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\SlateReflector
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\SlateReflector
 /I Developer\SlateReflector\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\Localization
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\Localization
 /I Developer\Localization\Public
 /I Runtime\MessagingRpc\Public
 /I Runtime\Portal
@@ -173,7 +173,7 @@
 /I Runtime\Media\Public
 /I Runtime\SlateNullRenderer\Public
 /I Runtime\SlateRHIRenderer\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Engine
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Engine
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -207,11 +207,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Engine\PCH.Engine.h"
-/Yu"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Engine\PCH.Engine.h"
-/Fp"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Engine\PCH.Engine.h.pch"
-"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Engine\Module.Engine.gen.40_of_71.cpp"
-/Fo"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Engine\Module.Engine.gen.40_of_71.cpp.obj"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Engine\PCH.Engine.h"
+/Yu"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Engine\PCH.Engine.h"
+/Fp"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Engine\PCH.Engine.h.pch"
+"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Engine\Module.Engine.gen.40_of_71.cpp"
+/Fo"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Engine\Module.Engine.gen.40_of_71.cpp.obj"
 /TP
 /GR-
 /W4

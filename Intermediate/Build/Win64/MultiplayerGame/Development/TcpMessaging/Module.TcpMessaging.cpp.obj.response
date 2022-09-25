@@ -34,7 +34,7 @@
 /I ..\Plugins\Messaging\TcpMessaging\Source\TcpMessaging\Private
 /I ..\Plugins\Messaging\TcpMessaging\Source\TcpMessaging\Private\Settings
 /I ..\Plugins\Messaging\TcpMessaging\Source\TcpMessaging\Private\Transport
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
 /I Runtime\TraceLog\Public
@@ -44,12 +44,12 @@
 /I Runtime\Sockets\Public
 /I Runtime\Net
 /I Runtime\Net\Common\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\Serialization
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\Serialization
 /I Runtime\Serialization\Public
 /I Runtime\Cbor\Public
 /I Runtime\Messaging\Public
 /I Runtime\MessagingCommon\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\TcpMessaging
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\TcpMessaging
 /I ..\Plugins\Messaging\TcpMessaging\Source
 /I ..\Plugins\Messaging\TcpMessaging\Source\TcpMessaging\Public
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
@@ -58,12 +58,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
-/Yu"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
-/Fp"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.pch"
-"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\TcpMessaging\Module.TcpMessaging.cpp"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\TcpMessaging\Definitions.TcpMessaging.h"
-/Fo"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\TcpMessaging\Module.TcpMessaging.cpp.obj"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Yu"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Fp"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.pch"
+"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\TcpMessaging\Module.TcpMessaging.cpp"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\TcpMessaging\Definitions.TcpMessaging.h"
+/Fo"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\TcpMessaging\Module.TcpMessaging.cpp.obj"
 /TP
 /GR-
 /W4

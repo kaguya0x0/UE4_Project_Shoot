@@ -36,7 +36,7 @@
 /I ..\Plugins\Messaging\UdpMessaging\Source\UdpMessaging\Private\Transport
 /I ..\Plugins\Messaging\UdpMessaging\Source\UdpMessaging\Private\Tunnel
 /I ..\Plugins\Messaging\UdpMessaging\Source\UdpMessaging\Public\Shared
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
 /I Runtime\TraceLog\Public
@@ -44,13 +44,13 @@
 /I Runtime\Json\Public
 /I Runtime\Cbor\Public
 /I Runtime\Messaging\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\Serialization
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\Serialization
 /I Runtime\Serialization\Public
 /I Runtime\Sockets\Public
 /I Runtime\Net
 /I Runtime\Net\Common\Public
 /I Runtime\MessagingCommon\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\UdpMessaging
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\UdpMessaging
 /I ..\Plugins\Messaging\UdpMessaging\Source
 /I ..\Plugins\Messaging\UdpMessaging\Source\UdpMessaging\Public
 /I Runtime\Networking\Public
@@ -60,12 +60,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
-/Yu"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
-/Fp"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.pch"
-"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\UdpMessaging\Module.UdpMessaging.gen.cpp"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\UdpMessaging\Definitions.UdpMessaging.h"
-/Fo"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\UdpMessaging\Module.UdpMessaging.gen.cpp.obj"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Yu"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Fp"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.pch"
+"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\UdpMessaging\Module.UdpMessaging.gen.cpp"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\UdpMessaging\Definitions.UdpMessaging.h"
+/Fo"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\UdpMessaging\Module.UdpMessaging.gen.cpp.obj"
 /TP
 /GR-
 /W4

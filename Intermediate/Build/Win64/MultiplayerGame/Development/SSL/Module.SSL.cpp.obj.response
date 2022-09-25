@@ -45,12 +45,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.ShadowErrors.h"
-/Yu"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.ShadowErrors.h"
-/Fp"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
-"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\SSL\Module.SSL.cpp"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\SSL\Definitions.SSL.h"
-/Fo"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\SSL\Module.SSL.cpp.obj"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Yu"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Fp"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
+"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\SSL\Module.SSL.cpp"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\SSL\Definitions.SSL.h"
+/Fo"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\SSL\Module.SSL.cpp.obj"
 /TP
 /GR-
 /W4

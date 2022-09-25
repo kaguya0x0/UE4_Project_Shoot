@@ -35,11 +35,11 @@
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
 /I Developer
 /I Developer\Settings\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\LiveCoding
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\LiveCoding
 /I Developer\Windows
 /I Developer\Windows\LiveCoding\Public
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
@@ -79,7 +79,7 @@
 /DWITH_CEF3=1
 /DWITH_LIVE_CODING=1
 /DUE_LIVE_CODING_ENGINE_DIR=\"C:\\game\\ue4\\UnrealEngine\\Engine\"
-/DUE_LIVE_CODING_PROJECT=\"C:\\game\\资料\\MultiplayerGame\\MultiplayerGame.uproject\"
+/DUE_LIVE_CODING_PROJECT=\"C:\\game\\Game000\\AIHomework\\MultiplayerGame.uproject\"
 /DUBT_MODULE_MANIFEST=\"MultiplayerGame.modules\"
 /DUBT_MODULE_MANIFEST_DEBUGGAME=\"MultiplayerGame-Win64-DebugGame.modules\"
 /DUBT_COMPILED_PLATFORM=Win64
@@ -111,6 +111,6 @@
 /DSETTINGS_API=
 /DLIVECODING_API=
 "C:\game\ue4\UnrealEngine\Engine\Source\Developer\Windows\LiveCoding\Private\External\xxhash.c"
-/Fo"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\LiveCoding\xxhash.c.obj"
+/Fo"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\LiveCoding\xxhash.c.obj"
 /TC
 /W0

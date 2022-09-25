@@ -37,7 +37,7 @@
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
-/I C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
+/I C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
 /I Runtime\Analytics
 /I Runtime\Analytics\Analytics\Public
@@ -47,11 +47,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h"
-/Yu"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h"
-/Fp"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h.pch"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h"
+/Yu"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h"
+/Fp"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\OodleDataCompressionFormat\PCH.OodleDataCompressionFormat.h.pch"
 "C:\game\ue4\UnrealEngine\Engine\Plugins\Compression\OodleData\Source\Private\OodleDataCompressionFormat.cpp"
-/Fo"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\OodleDataCompressionFormat\OodleDataCompressionFormat.cpp.obj"
+/Fo"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\OodleDataCompressionFormat\OodleDataCompressionFormat.cpp.obj"
 /TP
 /GR-
 /W4

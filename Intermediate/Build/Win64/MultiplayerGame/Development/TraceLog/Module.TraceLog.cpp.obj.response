@@ -41,9 +41,9 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\TraceLog\Module.TraceLog.cpp"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\TraceLog\Definitions.h"
-/Fo"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\TraceLog\Module.TraceLog.cpp.obj"
+"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\TraceLog\Module.TraceLog.cpp"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\TraceLog\Definitions.h"
+/Fo"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\TraceLog\Module.TraceLog.cpp.obj"
 /TP
 /GR-
 /W4

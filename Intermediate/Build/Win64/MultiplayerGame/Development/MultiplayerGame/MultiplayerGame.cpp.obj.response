@@ -74,20 +74,20 @@
 /I Runtime\TraceLog\Public\Trace
 /I Runtime\TraceLog\Public\Trace\Detail
 /I Runtime\TraceLog\Public\Trace\Detail\Protocols
-/I C:\game\资料\MultiplayerGame\Intermediate
-/I C:\game\资料\MultiplayerGame\Intermediate\Source
+/I C:\game\Game000\AIHomework\Intermediate
+/I C:\game\Game000\AIHomework\Intermediate\Source
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.h"
-/Yu"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.h"
-/Fp"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.h.pch"
-"C:\game\资料\MultiplayerGame\Intermediate\Source\MultiplayerGame.cpp"
-/FI"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\MultiplayerGame\Definitions.MultiplayerGame.h"
-/Fo"C:\game\资料\MultiplayerGame\Intermediate\Build\Win64\MultiplayerGame\Development\MultiplayerGame\MultiplayerGame.cpp.obj"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.h"
+/Yu"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.h"
+/Fp"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\Core\SharedPCH.Core.h.pch"
+"C:\game\Game000\AIHomework\Intermediate\Source\MultiplayerGame.cpp"
+/FI"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\MultiplayerGame\Definitions.MultiplayerGame.h"
+/Fo"C:\game\Game000\AIHomework\Intermediate\Build\Win64\MultiplayerGame\Development\MultiplayerGame\MultiplayerGame.cpp.obj"
 /TP
 /GR-
 /W4
