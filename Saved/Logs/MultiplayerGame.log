@@ -2196,3 +2196,1150 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.28-05.57.06:866][868]LogPlayLevel: Display: Destroying online subsystem :Context_28
 [2022.09.28-05.57.12:783][171]LogSlate: Window '消息日志' being destroyed
 [2022.09.28-05.57.12:804][171]LogSlate: Window '消息日志' being destroyed
+[2022.09.28-06.29.37:015][781]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MultiplayerGame/Animations/ABP_BaseCharacter.ABP_BaseCharacter
+[2022.09.28-06.29.37:224][781]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2022.09.28-06.29.37:265][781]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.09.28-06.29.37:423][781]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.09.28-06.29.37:538][781]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.09.28-06.29.37:552][781]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0021 seconds. Added 1 classes and 0 folders.
+[2022.09.28-06.29.39:031][781]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.09.28-06.30.11:026][866]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/MultiplayerGame/Animations/BS_Jog.BS_Jog
+[2022.09.28-06.30.11:088][866]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.09.28-06.30.11:775][866]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.09.28-06.31.45:900][916]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.31.45:900][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.32.13:684][477]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.28-06.32.13:713][477]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.28-06.33.41:764][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Animations/Jog_Fwd_Rifle" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/Jog_Fwd_Rifle.uasset" SILENT=true
+[2022.09.28-06.33.41:782][332]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Jog_Fwd_Rifle99C9233040AC1406D685E09D46D4A3AD.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/Jog_Fwd_Rifle.uasset'
+[2022.09.28-06.33.41:814][332]AssetCheck: New page: 资产保存：Jog_Fwd_Rifle
+[2022.09.28-06.33.41:814][332]LogContentValidation: Display: 正在验证AnimSequence /Game/MultiplayerGame/Animations/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2022.09.28-06.34.09:410][285]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/MultiplayerGame/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2022.09.28-06.34.09:531][285]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.34.09:531][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.34.31:916][ 76]LogContentBrowser: Attempting asset rename: ThirdPersonRun -> ThirdPersonRun
+[2022.09.28-06.35.13:390][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Animations/ThirdPersonRun" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/ThirdPersonRun.uasset" SILENT=true
+[2022.09.28-06.35.13:420][  8]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/ThirdPersonRun5B8E48BF415B516F9BF5DDA2F1223553.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/ThirdPersonRun.uasset'
+[2022.09.28-06.35.13:525][  8]AssetCheck: New page: 资产保存：ThirdPersonRun
+[2022.09.28-06.35.13:526][  8]LogContentValidation: Display: 正在验证AnimSequence /Game/MultiplayerGame/Animations/ThirdPersonRun.ThirdPersonRun
+[2022.09.28-06.35.20:080][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   8.09ms
+[2022.09.28-06.35.20:087][ 78]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MultiplayerGame/Maps/Arena01' took 0.244
+[2022.09.28-06.35.20:092][ 78]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2022.09.28-06.35.20:092][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton]
+[2022.09.28-06.35.20:099][ 78]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/SK_Mannequin_Skeleton_Auto149595F7E47CC4AE842F7ABA00FD99AEE.tmp' to '../../../../../Game000/AIHomework/Saved/Autosaves/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton_Auto1.uasset'
+[2022.09.28-06.35.20:101][ 78]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.09.28-06.35.27:406][290]BlueprintLog: New page: 编译ABP_BaseCharacter
+[2022.09.28-06.35.27:555][290]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2022.09.28-06.35.29:188][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Animations/ABP_BaseCharacter" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/ABP_BaseCharacter.uasset" SILENT=true
+[2022.09.28-06.35.29:313][331]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/ABP_BaseCharacter26D285AB40C8F229E5FC25AAD0FFF113.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/ABP_BaseCharacter.uasset'
+[2022.09.28-06.35.29:337][331]AssetCheck: New page: 资产保存：ABP_BaseCharacter
+[2022.09.28-06.35.29:337][331]LogContentValidation: Display: 正在验证AnimBlueprint /Game/MultiplayerGame/Animations/ABP_BaseCharacter.ABP_BaseCharacter
+[2022.09.28-06.36.47:329][ 19]BlueprintLog: New page: 编译ABP_BaseCharacter
+[2022.09.28-06.36.47:392][ 19]LogBlueprint: Error: [AssetLog] C:\game\Game000\AIHomework\Content\MultiplayerGame\Animations\ABP_BaseCharacter.uasset: [Compiler] “ Object Types ”引脚当前的值（ObjectTypeQuery1）无效：数组输入（如“Object Types”）必须连接有效的输入（尝试连接一个MakeArray节点）。
+[2022.09.28-06.36.47:462][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2022.09.28-06.36.48:042][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Animations/ABP_BaseCharacter" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/ABP_BaseCharacter.uasset" SILENT=true
+[2022.09.28-06.36.48:147][ 28]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/ABP_BaseCharacter7CDABE3F4B7570D75ECFF4A03E64F396.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/ABP_BaseCharacter.uasset'
+[2022.09.28-06.36.48:170][ 28]AssetCheck: New page: 资产保存：ABP_BaseCharacter
+[2022.09.28-06.36.48:170][ 28]LogContentValidation: Display: 正在验证AnimBlueprint /Game/MultiplayerGame/Animations/ABP_BaseCharacter.ABP_BaseCharacter
+[2022.09.28-06.37.48:020][172]BlueprintLog: New page: 编译ABP_BaseCharacter
+[2022.09.28-06.37.48:132][172]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2022.09.28-06.37.48:753][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Animations/ABP_BaseCharacter" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/ABP_BaseCharacter.uasset" SILENT=true
+[2022.09.28-06.37.48:891][186]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/ABP_BaseCharacter12A9D1C746D2FDD3B4D3AE8D98E2CFC7.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/ABP_BaseCharacter.uasset'
+[2022.09.28-06.37.48:917][186]AssetCheck: New page: 资产保存：ABP_BaseCharacter
+[2022.09.28-06.37.48:917][186]LogContentValidation: Display: 正在验证AnimBlueprint /Game/MultiplayerGame/Animations/ABP_BaseCharacter.ABP_BaseCharacter
+[2022.09.28-06.38.17:195][266]LogAssetEditorSubsystem: Opening Asset editor for Phy_C /Game/Textures/Phy/Floor.Floor
+[2022.09.28-06.38.20:129][391]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Textures/Phy/Phy.Phy
+[2022.09.28-06.38.23:674][504]LogSlate: Window 'Phy' being destroyed
+[2022.09.28-06.38.23:685][504]LogSlate: Window 'Phy' being destroyed
+[2022.09.28-06.38.23:713][504]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.38.23:713][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.38.23:729][504]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.38.23:729][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.38.23:933][504]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.38.23:933][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.38.23:955][504]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.38.23:955][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.38.23:976][504]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.38.23:977][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.38.24:008][504]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.38.24:008][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.38.24:040][504]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.38.24:040][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.38.49:116][687]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Textures/Phy/Phy.Phy
+[2022.09.28-06.52.53:677][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.28-06.53.41:307][275]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Textures/Phy/Floor2.Floor2
+[2022.09.28-06.53.44:956][416]LogAssetEditorSubsystem: Opening Asset editor for Phy_C /Game/Textures/Phy/Floor.Floor
+[2022.09.28-06.53.51:989][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Phy/Floor" FILE="../../../../../Game000/AIHomework/Content/Textures/Phy/Floor.uasset" SILENT=true
+[2022.09.28-06.53.51:992][699]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/FloorCD3701444DF48DCA2B237596763C6A36.tmp' to '../../../../../Game000/AIHomework/Content/Textures/Phy/Floor.uasset'
+[2022.09.28-06.53.52:025][699]AssetCheck: New page: 资产保存：Floor
+[2022.09.28-06.53.52:025][699]LogContentValidation: Display: 正在验证Phy_C /Game/Textures/Phy/Floor.Floor
+[2022.09.28-06.53.55:714][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.28-06.53.59:020][ 13]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPerson/Meshes/RampMaterial.RampMaterial
+[2022.09.28-06.53.59:032][ 13]LogMaterial: Display: Missing cached shadermap for RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: EEB7CBFAF10FCF7A4A6960DA4844A0987DEF8E47), compiling. 
+[2022.09.28-06.53.59:104][ 13]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2022.09.28-06.53.59:258][ 13]LogMaterial: Display: Missing cached shadermap for RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 87F06A04A61A444E18D93B955DF3FE3DA413C757), compiling. 
+[2022.09.28-06.53.59:267][ 13]LogMaterial: Display: Missing cached shadermap for RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 58A5DC55DA68620820275916251807056C6D501B), compiling. 
+[2022.09.28-06.53.59:273][ 13]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D1A83345F70D0BA07870A192B77B9360B05153C3), compiling. 
+[2022.09.28-06.53.59:303][ 13]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.28-06.53.59:492][ 14]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.09.28-06.53.59:492][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.09.28-06.53.59:492][ 14]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.09.28-06.53.59:492][ 14]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.28-06.53.59:493][ 14]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.09.28-06.53.59:493][ 14]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2022.09.28-06.53.59:493][ 14]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.09.28-06.53.59:493][ 14]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-06.53.59:752][ 19]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.09.28-06.54.01:798][ 67]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.09.28-06.54.01:798][ 67]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.28-06.54.01:818][ 67]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.28-06.54.01:818][ 67]LogShaderCompilers: Display: Total job queries 26, among them cache hits 0 (0.00%)
+[2022.09.28-06.54.01:819][ 67]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.09.28-06.54.01:819][ 67]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2022.09.28-06.54.01:819][ 67]LogShaderCompilers: Display: ================================================
+[2022.09.28-06.54.02:102][ 74]LogMaterial: Display: Missing cached shadermap for RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 705BB1E5A663D754F956FD4A6430A9B49745220B), compiling. 
+[2022.09.28-06.54.02:108][ 74]LogMaterial: Display: Missing cached shadermap for RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E1AD9C0B037C5DB9E772299C8147EF7BB40D36A8), compiling. 
+[2022.09.28-06.54.02:139][ 74]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.09.28-06.54.02:281][ 76]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.09.28-06.54.02:281][ 76]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.28-06.54.02:352][ 77]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.28-06.54.02:811][ 87]LogMaterialEditor: Saving and Compiling material RampMaterial
+[2022.09.28-06.54.03:728][ 87]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.09.28-06.54.03:729][ 87]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-06.54.03:729][ 87]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.09.28-06.54.03:729][ 87]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-06.54.03:751][ 87]LogMaterial: Display: Missing cached shadermap for RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 069E937553059FB260DFFADF9FBB110924516744), compiling. 
+[2022.09.28-06.54.03:871][ 87]LogMaterial: Display: Missing cached shadermap for RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 46052D7579C7D7837B71087F4BEE41A11B0FB388), compiling. 
+[2022.09.28-06.54.04:002][ 87]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.09.28-06.54.04:053][ 87]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Normal' priority
+[2022.09.28-06.54.04:328][ 87]LogUObjectHash: Compacting FUObjectHashTables data took  14.33ms
+[2022.09.28-06.54.04:916][ 87]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.09.28-06.54.04:916][ 87]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.28-06.54.04:916][ 87]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.09.28-06.54.04:916][ 87]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.28-06.54.04:916][ 87]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.09.28-06.54.04:916][ 87]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-06.54.04:916][ 87]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.09.28-06.54.04:916][ 87]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-06.54.05:220][ 87]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.09.28-06.54.05:220][ 87]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-06.54.05:220][ 87]LogUObjectHash: Compacting FUObjectHashTables data took  12.65ms
+[2022.09.28-06.54.05:707][ 87]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.09.28-06.54.05:707][ 87]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-06.54.08:396][ 87]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.09.28-06.54.08:396][ 87]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-06.54.08:396][ 87]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.09.28-06.54.08:396][ 87]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-06.54.10:466][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/RampMaterial" FILE="../../../../../Game000/AIHomework/Content/ThirdPerson/Meshes/RampMaterial.uasset" SILENT=true
+[2022.09.28-06.54.10:475][ 87]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/RampMaterialF93E7555424B338F6E5575880A430D3D.tmp' to '../../../../../Game000/AIHomework/Content/ThirdPerson/Meshes/RampMaterial.uasset'
+[2022.09.28-06.54.10:525][ 87]AssetCheck: New page: 资产保存：RampMaterial
+[2022.09.28-06.54.10:525][ 87]LogContentValidation: Display: 正在验证Material /Game/ThirdPerson/Meshes/RampMaterial.RampMaterial
+[2022.09.28-06.54.10:671][ 87]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.09.28-06.54.10:671][ 87]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2022.09.28-06.54.10:671][ 87]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.09.28-06.54.10:671][ 87]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.09.28-06.54.10:671][ 87]MaterialEditorStats: Texture samplers: 3/16
+[2022.09.28-06.55.10:555][504]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MultiplayerGame/Animations/ABP_BaseCharacter.ABP_BaseCharacter
+[2022.09.28-06.55.10:590][504]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.09.28-06.55.11:559][504]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.09.28-06.55.52:331][136]LogUObjectHash: Compacting FUObjectHashTables data took  10.49ms
+[2022.09.28-06.55.52:339][136]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MultiplayerGame/Maps/Arena01' took 0.095
+[2022.09.28-06.55.52:343][136]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MultiplayerGame/Animations/ABP_BaseCharacter] ([2] browsable assets)...
+[2022.09.28-06.55.52:362][136]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MultiplayerGame/Animations/ABP_BaseCharacter.ABP_BaseCharacter]
+[2022.09.28-06.55.52:362][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiplayerGame/Animations/ABP_BaseCharacter]
+[2022.09.28-06.55.52:540][136]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/ABP_BaseCharacter_Auto2EBC547284DD75B8601EB32AFD007607B.tmp' to '../../../../../Game000/AIHomework/Saved/Autosaves/Game/MultiplayerGame/Animations/ABP_BaseCharacter_Auto2.uasset'
+[2022.09.28-06.55.52:542][136]LogFileHelpers: Auto-saving content packages took 0.203
+[2022.09.28-06.57.05:345][925]BlueprintLog: New page: 编译ABP_BaseCharacter
+[2022.09.28-06.57.05:458][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.09.28-06.57.06:055][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Animations/ABP_BaseCharacter" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/ABP_BaseCharacter.uasset" SILENT=true
+[2022.09.28-06.57.06:157][938]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/ABP_BaseCharacterC6FEA3A54860AD3E2733AEA791498834.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/ABP_BaseCharacter.uasset'
+[2022.09.28-06.57.06:174][938]AssetCheck: New page: 资产保存：ABP_BaseCharacter
+[2022.09.28-06.57.06:174][938]LogContentValidation: Display: 正在验证AnimBlueprint /Game/MultiplayerGame/Animations/ABP_BaseCharacter.ABP_BaseCharacter
+[2022.09.28-06.57.16:688][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Animations/ABP_BaseCharacter" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/ABP_BaseCharacter.uasset" SILENT=true
+[2022.09.28-06.57.16:794][ 38]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/ABP_BaseCharacterC797ABB14FAFD7E45575D0AC055996BA.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Animations/ABP_BaseCharacter.uasset'
+[2022.09.28-06.57.16:814][ 38]AssetCheck: New page: 资产保存：ABP_BaseCharacter
+[2022.09.28-06.57.16:814][ 38]LogContentValidation: Display: 正在验证AnimBlueprint /Game/MultiplayerGame/Animations/ABP_BaseCharacter.ABP_BaseCharacter
+[2022.09.28-06.57.18:902][117]LogTemp: Repeating last play command: 选中的视口
+[2022.09.28-06.57.18:914][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-06.57.18:916][117]PIE: New page: PIE会话：Arena01（2022年9月28日 下午10:57:18）
+[2022.09.28-06.57.18:918][117]LogPlayLevel: Creating play world package: /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-06.57.18:978][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060476s)
+[2022.09.28-06.57.18:980][117]LogAIModule: Creating AISystem for world Arena01
+[2022.09.28-06.57.18:981][117]LogPlayLevel: PIE: World Init took: (0.002692s)
+[2022.09.28-06.57.18:981][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MultiplayerGame/Maps/Arena01.Arena01 to /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 (0.063628s)
+[2022.09.28-06.57.19:021][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.09.28-06.57.19:024][117]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.09.28-06.57.19:024][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-06.57.19:024][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-06.57.19:024][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-06.57.19:025][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-06.57.19:025][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-06.57.19:025][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-06.57.19:025][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-06.57.19:025][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-06.57.19:025][117]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-06.57.19:025][117]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-06.57.19:025][117]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-06.57.19:025][117]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-06.57.19:041][117]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-06.57.19:041][117]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-06.57.19:041][117]LogAudioMixer: Display: 2: FrontCenter
+[2022.09.28-06.57.19:041][117]LogAudioMixer: Display: 3: LowFrequency
+[2022.09.28-06.57.19:041][117]LogAudioMixer: Display: 4: BackLeft
+[2022.09.28-06.57.19:041][117]LogAudioMixer: Display: 5: BackRight
+[2022.09.28-06.57.19:041][117]LogAudioMixer: Display: 6: SideLeft
+[2022.09.28-06.57.19:041][117]LogAudioMixer: Display: 7: SideRight
+[2022.09.28-06.57.19:173][117]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.09.28-06.57.19:173][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-06.57.19:173][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-06.57.19:173][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-06.57.19:176][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-06.57.19:176][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-06.57.19:176][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.09.28-06.57.19:178][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-06.57.19:178][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-06.57.19:178][117]LogInit: FAudioDevice initialized.
+[2022.09.28-06.57.19:178][117]LogAudio: Display: Audio Device (ID: 5) registered with world 'Arena01'.
+[2022.09.28-06.57.19:203][117]LogLoad: Game class is 'BP_RoomGameMode_C'
+[2022.09.28-06.57.19:212][117]LogWorld: Bringing World /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2022.09.28-14.57.19
+[2022.09.28-06.57.19:213][117]LogWorld: Bringing up level for play took: 0.008531
+[2022.09.28-06.57.19:213][117]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.09.28-06.57.19:221][117]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-06.57.19:221][117]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-06.57.19:221][117]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-06.57.19:228][117]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-490.590 Y=-1.561 Z=140.000] for [BP_Target_C]
+[2022.09.28-06.57.19:247][117]LogScript: Warning: 交换语句未能匹配索引属性 ___int_Variable 的大小写
+	BP_AI2_C /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01:PersistentLevel.BP_AI2_C_3
+	Function /Game/MultiplayerGame/Blueprints/Character/AI/Magic/BP_AI2.BP_AI2_C:ExecuteUbergraph_BP_AI2:0113
+[2022.09.28-06.57.19:250][117]LogScript: Warning: 交换语句未能匹配索引属性 ___int_Variable 的大小写
+	BP_AI2_C /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01:PersistentLevel.BP_AI2_C_4
+	Function /Game/MultiplayerGame/Blueprints/Character/AI/Magic/BP_AI2.BP_AI2_C:ExecuteUbergraph_BP_AI2:0113
+[2022.09.28-06.57.19:253][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-06.57.19:257][117]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-06.57.19:258][117]PIE: 登陆的服务器
+[2022.09.28-06.57.19:259][117]PIE: PIE总开始时间：0.346秒。
+[2022.09.28-06.57.24:841][429]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=266.225 Y=666.867 Z=248.444] for [BP_Projectile_C]
+[2022.09.28-06.57.28:922][668]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue
+	BP_AI2_C /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01:PersistentLevel.BP_AI2_C_5
+	Function /Game/MultiplayerGame/Blueprints/Character/AI/Magic/BP_AI2.BP_AI2_C:ExecuteUbergraph_BP_AI2:02E6
+[2022.09.28-06.57.28:923][668]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue"。 蓝图： BP_AI2 函数： Execute Ubergraph BP AI2 图表： EventGraph 节点： 将值设为布尔
+[2022.09.28-06.57.37:477][168]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue
+	BP_AI2_C /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01:PersistentLevel.BP_AI2_C_3
+	Function /Game/MultiplayerGame/Blueprints/Character/AI/Magic/BP_AI2.BP_AI2_C:ExecuteUbergraph_BP_AI2:02E6
+[2022.09.28-06.57.37:478][168]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue"。 蓝图： BP_AI2 函数： Execute Ubergraph BP AI2 图表： EventGraph 节点： 将值设为布尔
+[2022.09.28-06.57.42:708][478]LogBlueprintUserMessages: [BP_Pineapple_5] 79
+[2022.09.28-06.57.43:814][542]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue
+	BP_AI2_C /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01:PersistentLevel.BP_AI2_C_4
+	Function /Game/MultiplayerGame/Blueprints/Character/AI/Magic/BP_AI2.BP_AI2_C:ExecuteUbergraph_BP_AI2:02E6
+[2022.09.28-06.57.43:814][542]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue"。 蓝图： BP_AI2 函数： Execute Ubergraph BP AI2 图表： EventGraph 节点： 将值设为布尔
+[2022.09.28-06.57.59:897][485]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue
+	BP_AI_C /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01:PersistentLevel.BP_AI_C_1
+	Function /Game/MultiplayerGame/Blueprints/Character/AI/Shooter/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2022.09.28-06.57.59:898][485]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue"。 蓝图： BP_AI 函数： Execute Ubergraph BP AI 图表： EventGraph 节点： 将值设为布尔
+[2022.09.28-06.58.01:548][582]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue
+	BP_AI_C /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01:PersistentLevel.BP_AI_C_1
+	Function /Game/MultiplayerGame/Blueprints/Character/AI/Shooter/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:01F9
+[2022.09.28-06.58.01:548][582]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue"。 蓝图： BP_AI 函数： Execute Ubergraph BP AI 图表： EventGraph 节点： 将值设为布尔
+[2022.09.28-06.58.01:600][585]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-146.262 Y=-794.327 Z=248.435] for [BP_Projectile_C]
+[2022.09.28-06.58.21:399][762]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue
+	BP_AI_C /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01:PersistentLevel.BP_AI_C_0
+	Function /Game/MultiplayerGame/Blueprints/Character/AI/Shooter/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:0121
+[2022.09.28-06.58.21:399][762]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue"。 蓝图： BP_AI 函数： Execute Ubergraph BP AI 图表： EventGraph 节点： 将值设为布尔
+[2022.09.28-06.58.22:485][827]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-165.604 Y=-514.875 Z=248.434] for [BP_Projectile_C]
+[2022.09.28-06.58.22:787][845]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue
+	BP_AI_C /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01:PersistentLevel.BP_AI_C_0
+	Function /Game/MultiplayerGame/Blueprints/Character/AI/Shooter/BP_AI.BP_AI_C:ExecuteUbergraph_BP_AI:01F9
+[2022.09.28-06.58.22:787][845]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_GetBlackboard_ReturnValue"。 蓝图： BP_AI 函数： Execute Ubergraph BP AI 图表： EventGraph 节点： 将值设为布尔
+[2022.09.28-06.58.23:053][861]LogBlueprintUserMessages: [BP_Pineapple_5] 38
+[2022.09.28-06.58.23:404][882]LogBlueprintUserMessages: [BP_Pineapple_5] 37
+[2022.09.28-06.58.29:308][224]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array ConnectedPlayers [-1/0]!
+[2022.09.28-06.58.29:308][224]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.09.28-06.58.29:308][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-06.58.29:308][224]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-06.58.29:309][224]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.58.29:310][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.58.29:320][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-06.58.29:343][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.58.29:373][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-06.58.29:375][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-06.58.29:376][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-06.58.29:391][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.09.28-06.58.29:568][225]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.09.28-06.58.30:947][277]LogSlate: Window '消息日志' being destroyed
+[2022.09.28-06.58.30:967][277]LogSlate: Window '消息日志' being destroyed
+[2022.09.28-06.58.52:254][365]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Target/BP_TargetController.BP_TargetController
+[2022.09.28-06.59.09:141][118]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Character/AI/Shooter/BP_AI.BP_AI
+[2022.09.28-06.59.11:440][171]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.59.11:441][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.59.13:321][255]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Character/AI/Shooter/AIControll_Enemy.AIControll_Enemy
+[2022.09.28-06.59.23:889][636]BlueprintLog: New page: 编译AIControll_Enemy
+[2022.09.28-06.59.23:982][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.09.28-06.59.24:618][654]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/AIControll_Enemy5AF6B2774E88D570A2256E987779B29B.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Character/AI/Shooter/AIControll_Enemy.uasset'
+[2022.09.28-06.59.24:647][654]AssetCheck: New page: 资产保存：AIControll_Enemy
+[2022.09.28-06.59.24:647][654]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Character/AI/Shooter/AIControll_Enemy.AIControll_Enemy
+[2022.09.28-06.59.31:305][978]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Character/AI/Magic/BP_AI2.BP_AI2
+[2022.09.28-06.59.38:075][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Character/AI/Magic/AIControll_Magic.AIControll_Magic
+[2022.09.28-06.59.48:654][598]BlueprintLog: New page: 编译AIControll_Magic
+[2022.09.28-06.59.48:748][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.09.28-06.59.49:203][610]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/AIControll_Magic5F71EC474584B742EC4F1A8D1F46CB59.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Character/AI/Magic/AIControll_Magic.uasset'
+[2022.09.28-06.59.49:229][610]AssetCheck: New page: 资产保存：AIControll_Magic
+[2022.09.28-06.59.49:229][610]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Character/AI/Magic/AIControll_Magic.AIControll_Magic
+[2022.09.28-06.59.49:572][623]LogSlate: Window 'AIControll_Magic' being destroyed
+[2022.09.28-06.59.49:585][623]LogSlate: Window 'AIControll_Magic' being destroyed
+[2022.09.28-06.59.49:618][623]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.59.49:618][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.59.49:753][623]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.59.49:753][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.59.49:789][623]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.59.49:789][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.59.49:798][623]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.59.49:798][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.59.49:917][623]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.59.49:917][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.59.49:934][623]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.59.49:934][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.59.49:996][623]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.28-06.59.49:996][623]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.59.49:997][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.59.50:052][623]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.28-06.59.50:052][623]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.59.50:052][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.59.50:113][623]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.28-06.59.50:113][623]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-06.59.50:113][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-06.59.50:507][635]LogTemp: Repeating last play command: 选中的视口
+[2022.09.28-06.59.50:538][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-06.59.50:538][635]PIE: New page: PIE会话：Arena01（2022年9月28日 下午10:59:50）
+[2022.09.28-06.59.50:538][635]LogPlayLevel: Creating play world package: /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-06.59.50:553][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014291s)
+[2022.09.28-06.59.50:554][635]LogAIModule: Creating AISystem for world Arena01
+[2022.09.28-06.59.50:555][635]LogPlayLevel: PIE: World Init took: (0.001867s)
+[2022.09.28-06.59.50:555][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MultiplayerGame/Maps/Arena01.Arena01 to /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 (0.016403s)
+[2022.09.28-06.59.50:606][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.09.28-06.59.50:609][635]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.09.28-06.59.50:609][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-06.59.50:609][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-06.59.50:609][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-06.59.50:609][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-06.59.50:609][635]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-06.59.50:609][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-06.59.50:609][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-06.59.50:609][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-06.59.50:609][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-06.59.50:609][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-06.59.50:609][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-06.59.50:609][635]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-06.59.50:620][635]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-06.59.50:620][635]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-06.59.50:620][635]LogAudioMixer: Display: 2: FrontCenter
+[2022.09.28-06.59.50:620][635]LogAudioMixer: Display: 3: LowFrequency
+[2022.09.28-06.59.50:620][635]LogAudioMixer: Display: 4: BackLeft
+[2022.09.28-06.59.50:620][635]LogAudioMixer: Display: 5: BackRight
+[2022.09.28-06.59.50:621][635]LogAudioMixer: Display: 6: SideLeft
+[2022.09.28-06.59.50:621][635]LogAudioMixer: Display: 7: SideRight
+[2022.09.28-06.59.50:739][635]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.09.28-06.59.50:740][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-06.59.50:740][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-06.59.50:740][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-06.59.50:740][635]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-06.59.50:740][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-06.59.50:740][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.09.28-06.59.50:742][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-06.59.50:742][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-06.59.50:742][635]LogInit: FAudioDevice initialized.
+[2022.09.28-06.59.50:742][635]LogAudio: Display: Audio Device (ID: 6) registered with world 'Arena01'.
+[2022.09.28-06.59.50:752][635]LogLoad: Game class is 'BP_RoomGameMode_C'
+[2022.09.28-06.59.50:755][635]LogWorld: Bringing World /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2022.09.28-14.59.50
+[2022.09.28-06.59.50:756][635]LogWorld: Bringing up level for play took: 0.002949
+[2022.09.28-06.59.50:756][635]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.09.28-06.59.50:759][635]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-06.59.50:759][635]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-06.59.50:759][635]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-06.59.50:766][635]LogScript: Warning: 交换语句未能匹配索引属性 ___int_Variable 的大小写
+	BP_AI2_C /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01:PersistentLevel.BP_AI2_C_0
+	Function /Game/MultiplayerGame/Blueprints/Character/AI/Magic/BP_AI2.BP_AI2_C:ExecuteUbergraph_BP_AI2:0113
+[2022.09.28-06.59.50:772][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-06.59.50:774][635]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-06.59.50:774][635]PIE: 登陆的服务器
+[2022.09.28-06.59.50:774][635]PIE: PIE总开始时间：0.236秒。
+[2022.09.28-07.00.00:086][165]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array ConnectedPlayers [-1/0]!
+[2022.09.28-07.00.00:086][165]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.09.28-07.00.00:086][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.00.00:086][165]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.00.00:087][165]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.00.00:088][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.00.00:095][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-07.00.00:142][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.00.00:167][165]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-07.00.00:167][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.00.00:169][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.00.00:177][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.00.00:182][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.09.28-07.00.00:212][166]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.09.28-07.00.13:521][813]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2022.09.28-07.00.42:271][866]LogSlate: Window 'BP_RoomGameMode' being destroyed
+[2022.09.28-07.00.42:300][866]LogSlate: Window 'BP_RoomGameMode' being destroyed
+[2022.09.28-07.00.42:311][866]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.00.42:311][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.00.45:589][ 15]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/MultiplayerGame/Blueprints/Gameplay/Target/BT_Target.BT_Target
+[2022.09.28-07.00.50:875][215]LogSlate: Window 'BT_Target' being destroyed
+[2022.09.28-07.00.50:907][215]LogSlate: Window 'BT_Target' being destroyed
+[2022.09.28-07.00.52:271][278]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Target/BP_TargetController.BP_TargetController
+[2022.09.28-07.00.59:182][515]LogSlate: Window 'BP_TargetController' being destroyed
+[2022.09.28-07.00.59:206][515]LogSlate: Window 'BP_TargetController' being destroyed
+[2022.09.28-07.00.59:220][515]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.00.59:220][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.01.00:787][572]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Target/BP_Target.BP_Target
+[2022.09.28-07.01.18:749][176]LogSlate: Window 'BP_Target' being destroyed
+[2022.09.28-07.01.18:773][176]LogSlate: Window 'BP_Target' being destroyed
+[2022.09.28-07.01.18:788][176]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.01.18:788][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.01.27:122][584]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Character/AI/Magic/BP_AI2.BP_AI2
+[2022.09.28-07.01.42:557][ 84]BlueprintLog: New page: 编译BP_AI2
+[2022.09.28-07.01.42:689][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.09.28-07.01.43:342][ 95]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_AI2036B0D0A4AD172056809B5859A7BC7A8.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Character/AI/Magic/BP_AI2.uasset'
+[2022.09.28-07.01.43:369][ 95]AssetCheck: New page: 资产保存：BP_AI2
+[2022.09.28-07.01.43:369][ 95]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Character/AI/Magic/BP_AI2.BP_AI2
+[2022.09.28-07.01.47:223][226]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.28-07.01.47:249][226]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.28-07.01.57:869][568]BlueprintLog: New page: 编译BP_AI2
+[2022.09.28-07.01.57:979][568]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2022.09.28-07.01.58:999][594]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_AI2445D0BFE48CFF5CB1BF1F1BBEF8CC135.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Character/AI/Magic/BP_AI2.uasset'
+[2022.09.28-07.01.59:026][594]AssetCheck: New page: 资产保存：BP_AI2
+[2022.09.28-07.01.59:026][594]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Character/AI/Magic/BP_AI2.BP_AI2
+[2022.09.28-07.01.59:769][619]LogSlate: Window 'BP_AI2' being destroyed
+[2022.09.28-07.01.59:794][619]LogSlate: Window 'BP_AI2' being destroyed
+[2022.09.28-07.01.59:811][619]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.01.59:812][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.02.05:335][902]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Character/AI/Shooter/BP_AI.BP_AI
+[2022.09.28-07.02.10:007][ 26]BlueprintLog: New page: 编译BP_AI
+[2022.09.28-07.02.10:119][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.09.28-07.02.10:818][ 39]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_AIA17FD7BA4DA6282F87F9D18631DFFF16.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Character/AI/Shooter/BP_AI.uasset'
+[2022.09.28-07.02.10:844][ 39]AssetCheck: New page: 资产保存：BP_AI
+[2022.09.28-07.02.10:844][ 39]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Character/AI/Shooter/BP_AI.BP_AI
+[2022.09.28-07.02.11:265][ 53]LogSlate: Window 'BP_AI' being destroyed
+[2022.09.28-07.02.11:290][ 53]LogSlate: Window 'BP_AI' being destroyed
+[2022.09.28-07.02.11:323][ 53]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.02.11:323][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.02.12:370][100]LogTemp: Repeating last play command: 选中的视口
+[2022.09.28-07.02.12:379][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-07.02.12:379][100]PIE: New page: PIE会话：Arena01（2022年9月28日 下午11:02:12）
+[2022.09.28-07.02.12:379][100]LogPlayLevel: Creating play world package: /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.02.12:396][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016894s)
+[2022.09.28-07.02.12:397][100]LogAIModule: Creating AISystem for world Arena01
+[2022.09.28-07.02.12:398][100]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2022.09.28-07.02.12:398][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MultiplayerGame/Maps/Arena01.Arena01 to /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 (0.018581s)
+[2022.09.28-07.02.12:433][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.09.28-07.02.12:435][100]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.09.28-07.02.12:435][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-07.02.12:435][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-07.02.12:435][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-07.02.12:435][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-07.02.12:435][100]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-07.02.12:435][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-07.02.12:435][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-07.02.12:435][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-07.02.12:435][100]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-07.02.12:435][100]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-07.02.12:435][100]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-07.02.12:435][100]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-07.02.12:446][100]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-07.02.12:446][100]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-07.02.12:446][100]LogAudioMixer: Display: 2: FrontCenter
+[2022.09.28-07.02.12:446][100]LogAudioMixer: Display: 3: LowFrequency
+[2022.09.28-07.02.12:446][100]LogAudioMixer: Display: 4: BackLeft
+[2022.09.28-07.02.12:446][100]LogAudioMixer: Display: 5: BackRight
+[2022.09.28-07.02.12:446][100]LogAudioMixer: Display: 6: SideLeft
+[2022.09.28-07.02.12:446][100]LogAudioMixer: Display: 7: SideRight
+[2022.09.28-07.02.12:571][100]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.09.28-07.02.12:572][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-07.02.12:572][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-07.02.12:572][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-07.02.12:572][100]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-07.02.12:572][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-07.02.12:572][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.09.28-07.02.12:574][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-07.02.12:574][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-07.02.12:574][100]LogInit: FAudioDevice initialized.
+[2022.09.28-07.02.12:574][100]LogAudio: Display: Audio Device (ID: 7) registered with world 'Arena01'.
+[2022.09.28-07.02.12:589][100]LogLoad: Game class is 'BP_RoomGameMode_C'
+[2022.09.28-07.02.12:592][100]LogWorld: Bringing World /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2022.09.28-15.02.12
+[2022.09.28-07.02.12:593][100]LogWorld: Bringing up level for play took: 0.002796
+[2022.09.28-07.02.12:593][100]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2022.09.28-07.02.12:596][100]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-07.02.12:596][100]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-07.02.12:596][100]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-07.02.12:604][100]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-798.976 Y=-98.182 Z=140.000] for [BP_AI2_C]
+[2022.09.28-07.02.12:611][100]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-403.935 Y=380.799 Z=155.150] for [BP_AI2_C]
+[2022.09.28-07.02.12:616][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.02.12:618][100]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-07.02.12:618][100]PIE: 登陆的服务器
+[2022.09.28-07.02.12:619][100]PIE: PIE总开始时间：0.24秒。
+[2022.09.28-07.02.15:406][255]LogCharacterMovement: BP_AI2_C_1 is stuck and failed to move! Velocity: X=191.29 Y=192.31 Z=0.00 Location: X=-519.14 Y=62.81 Z=170.83 Normal: X=0.96 Y=-0.29 Z=0.00 PenetrationDepth:3.861 Actor:BP_AI2_2 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2022.09.28-07.02.16:651][323]LogCharacterMovement: BP_AI2_C_1 is stuck and failed to move! Velocity: X=30.11 Y=61.27 Z=0.00 Location: X=-489.84 Y=59.03 Z=170.83 Normal: X=-1.00 Y=0.04 Z=0.00 PenetrationDepth:0.021 Actor:BP_AI2_C_3 Component:CharacterMesh0 BoneName:lowerarm_r (1 other events since notify)
+[2022.09.28-07.02.17:663][382]LogCharacterMovement: BP_AI2_C_1 is stuck and failed to move! Velocity: X=33.50 Y=68.14 Z=0.00 Location: X=-489.86 Y=59.04 Z=170.83 Normal: X=-1.00 Y=0.01 Z=0.00 PenetrationDepth:0.027 Actor:BP_AI2_C_3 Component:CharacterMesh0 BoneName:lowerarm_r (2 other events since notify)
+[2022.09.28-07.02.19:650][499]LogCharacterMovement: BP_AI2_C_1 is stuck and failed to move! Velocity: X=30.11 Y=61.27 Z=0.00 Location: X=-489.84 Y=59.03 Z=170.83 Normal: X=-1.00 Y=0.05 Z=0.00 PenetrationDepth:0.017 Actor:BP_AI2_C_3 Component:CharacterMesh0 BoneName:lowerarm_r (2 other events since notify)
+[2022.09.28-07.02.22:733][679]LogBlueprintUserMessages: [BP_Pineapple_5] 65
+[2022.09.28-07.02.35:653][433]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerScores' of length 0 in '/Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode_C:FindWinner'!
+[2022.09.28-07.02.50:538][238]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-64.710 Y=247.948 Z=248.428] for [BP_Projectile_C]
+[2022.09.28-07.02.52:598][354]LogBlueprintUserMessages: [BP_Pineapple_5] -84
+[2022.09.28-07.02.52:714][361]LogBlueprintUserMessages: [BP_Pineapple_5] -86
+[2022.09.28-07.02.52:868][370]LogBlueprintUserMessages: [BP_Pineapple_5] -88
+[2022.09.28-07.02.52:901][372]LogBlueprintUserMessages: [BP_Pineapple_5] -89
+[2022.09.28-07.02.52:917][373]LogBlueprintUserMessages: [BP_Pineapple_5] -90
+[2022.09.28-07.02.52:933][374]LogBlueprintUserMessages: [BP_Pineapple_5] -91
+[2022.09.28-07.02.52:951][375]LogBlueprintUserMessages: [BP_Pineapple_5] -92
+[2022.09.28-07.02.53:017][379]LogBlueprintUserMessages: [BP_Pineapple_5] -93
+[2022.09.28-07.02.54:647][474]LogBlueprintUserMessages: [BP_Pineapple_5] -102
+[2022.09.28-07.02.55:490][522]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=132.897 Y=-92.255 Z=248.426] for [BP_Projectile_C]
+[2022.09.28-07.02.55:491][522]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=38.329 Y=-46.547 Z=248.538] for [BP_Projectile_C]
+[2022.09.28-07.02.56:453][576]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-98.679 Y=-108.766 Z=248.538] for [BP_Projectile_C]
+[2022.09.28-07.02.59:139][715]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-392.186 Y=-178.439 Z=248.428] for [BP_Projectile_C]
+[2022.09.28-07.03.02:266][882]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1579.909 Y=-369.501 Z=248.428] for [BP_Projectile_C]
+[2022.09.28-07.03.03:962][971]LogCharacterMovement: BP_BaseCharacter_C_1 is stuck and failed to move! Velocity: X=32.20 Y=26.50 Z=0.00 Location: X=-1518.05 Y=139.56 Z=228.39 Normal: X=-0.67 Y=-0.74 Z=0.00 PenetrationDepth:6.108 Actor:BP_Target_C_5 Component:StaticMesh BoneName:None (0 other events since notify)
+[2022.09.28-07.03.10:598][334]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=49.267 Y=680.305 Z=248.428] for [BP_Projectile_C]
+[2022.09.28-07.03.12:852][466]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=48.495 Y=682.778 Z=248.538] for [BP_Projectile_C]
+[2022.09.28-07.03.14:201][543]LogCharacterMovement: BP_AI_2 is stuck and failed to move! Velocity: X=66.43 Y=25.97 Z=0.00 Location: X=73.64 Y=635.39 Z=228.43 Normal: X=-1.00 Y=-0.06 Z=-0.00 PenetrationDepth:1.962 Actor:BP_Gun_2 Component:SkeletalMesh BoneName:Root_Bone1 (0 other events since notify)
+[2022.09.28-07.03.15:200][602]LogCharacterMovement: BP_AI_2 is stuck and failed to move! Velocity: X=372.56 Y=145.61 Z=0.00 Location: X=73.64 Y=635.39 Z=228.43 Normal: X=-0.99 Y=-0.16 Z=0.00 PenetrationDepth:2.463 Actor:BP_Gun_2 Component:SkeletalMesh BoneName:Root_Bone1 (58 other events since notify)
+[2022.09.28-07.03.15:852][641]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=48.516 Y=682.912 Z=248.538] for [BP_Projectile_C]
+[2022.09.28-07.03.19:385][851]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=718.739 Y=516.671 Z=248.428] for [BP_Projectile_C]
+[2022.09.28-07.03.19:602][864]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=717.638 Y=534.374 Z=248.426] for [BP_Projectile_C]
+[2022.09.28-07.03.19:938][884]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=775.061 Y=442.501 Z=248.426] for [BP_Projectile_C]
+[2022.09.28-07.03.20:001][887]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=744.359 Y=500.725 Z=248.538] for [BP_Projectile_C]
+[2022.09.28-07.03.22:935][ 57]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=732.046 Y=271.835 Z=248.459] for [BP_Projectile_C]
+[2022.09.28-07.03.25:336][197]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array ConnectedPlayers [-1/0]!
+[2022.09.28-07.03.25:336][197]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.09.28-07.03.25:336][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.03.25:336][197]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.03.25:337][197]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.03.25:338][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.03.25:372][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-07.03.25:394][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.03.25:422][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-07.03.25:422][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.03.25:424][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.03.25:432][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.03.25:437][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.09.28-07.03.25:471][198]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.09.28-07.03.37:522][849]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Textures/Phy/Floor2.Floor2
+[2022.09.28-07.03.59:177][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Phy/Floor2" FILE="../../../../../Game000/AIHomework/Content/Textures/Phy/Floor2.uasset" SILENT=true
+[2022.09.28-07.03.59:184][739]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Floor2D21F6DA74515B2AA816ED581CFBB1AC5.tmp' to '../../../../../Game000/AIHomework/Content/Textures/Phy/Floor2.uasset'
+[2022.09.28-07.03.59:215][739]AssetCheck: New page: 资产保存：Floor2
+[2022.09.28-07.03.59:215][739]LogContentValidation: Display: 正在验证SoundCue /Game/Textures/Phy/Floor2.Floor2
+[2022.09.28-07.04.05:421][985]LogSlate: Window 'Floor2' being destroyed
+[2022.09.28-07.04.05:448][985]LogSlate: Window 'Floor2' being destroyed
+[2022.09.28-07.04.06:397][ 35]LogTemp: Repeating last play command: 选中的视口
+[2022.09.28-07.04.06:428][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-07.04.06:428][ 35]PIE: New page: PIE会话：Arena01（2022年9月28日 下午11:04:06）
+[2022.09.28-07.04.06:428][ 35]LogPlayLevel: Creating play world package: /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.04.06:445][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017548s)
+[2022.09.28-07.04.06:446][ 35]LogAIModule: Creating AISystem for world Arena01
+[2022.09.28-07.04.06:447][ 35]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2022.09.28-07.04.06:447][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MultiplayerGame/Maps/Arena01.Arena01 to /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 (0.019363s)
+[2022.09.28-07.04.06:477][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.09.28-07.04.06:487][ 35]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.09.28-07.04.06:487][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-07.04.06:487][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-07.04.06:487][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-07.04.06:487][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-07.04.06:487][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-07.04.06:487][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-07.04.06:487][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-07.04.06:487][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-07.04.06:488][ 35]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-07.04.06:488][ 35]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-07.04.06:488][ 35]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-07.04.06:488][ 35]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-07.04.06:499][ 35]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-07.04.06:499][ 35]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-07.04.06:499][ 35]LogAudioMixer: Display: 2: FrontCenter
+[2022.09.28-07.04.06:499][ 35]LogAudioMixer: Display: 3: LowFrequency
+[2022.09.28-07.04.06:500][ 35]LogAudioMixer: Display: 4: BackLeft
+[2022.09.28-07.04.06:500][ 35]LogAudioMixer: Display: 5: BackRight
+[2022.09.28-07.04.06:500][ 35]LogAudioMixer: Display: 6: SideLeft
+[2022.09.28-07.04.06:500][ 35]LogAudioMixer: Display: 7: SideRight
+[2022.09.28-07.04.06:620][ 35]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.09.28-07.04.06:620][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-07.04.06:620][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-07.04.06:620][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-07.04.06:621][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-07.04.06:621][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-07.04.06:621][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.09.28-07.04.06:622][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-07.04.06:622][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-07.04.06:622][ 35]LogInit: FAudioDevice initialized.
+[2022.09.28-07.04.06:622][ 35]LogAudio: Display: Audio Device (ID: 8) registered with world 'Arena01'.
+[2022.09.28-07.04.06:631][ 35]LogLoad: Game class is 'BP_RoomGameMode_C'
+[2022.09.28-07.04.06:634][ 35]LogWorld: Bringing World /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2022.09.28-15.04.06
+[2022.09.28-07.04.06:635][ 35]LogWorld: Bringing up level for play took: 0.002839
+[2022.09.28-07.04.06:635][ 35]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2022.09.28-07.04.06:638][ 35]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-07.04.06:638][ 35]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-07.04.06:638][ 35]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-07.04.06:649][ 35]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-200.814 Y=418.790 Z=148.137] for [BP_AI2_C]
+[2022.09.28-07.04.06:651][ 35]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-528.952 Y=6.815 Z=140.000] for [BP_AI2_C]
+[2022.09.28-07.04.06:655][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.04.06:657][ 35]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-07.04.06:657][ 35]PIE: 登陆的服务器
+[2022.09.28-07.04.06:658][ 35]PIE: PIE总开始时间：0.231秒。
+[2022.09.28-07.04.08:539][136]LogCharacterMovement: BP_AI2_C_2 is stuck and failed to move! Velocity: X=306.82 Y=-54.02 Z=0.00 Location: X=-511.92 Y=103.10 Z=170.88 Normal: X=-0.24 Y=0.69 Z=0.68 PenetrationDepth:1.073 Actor:BP_AI2_C_4 Component:CharacterMesh0 BoneName:foot_r (0 other events since notify)
+[2022.09.28-07.04.09:312][181]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=213.23 Y=168.97 Z=0.00 Location: X=-507.93 Y=70.02 Z=170.81 Normal: X=0.92 Y=0.40 Z=0.00 PenetrationDepth:8.161 Actor:BP_AI2_2 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2022.09.28-07.04.15:799][565]LogCharacterMovement: BP_AI2_C_2 is stuck and failed to move! Velocity: X=-27.66 Y=-20.01 Z=0.00 Location: X=-512.56 Y=103.80 Z=170.82 Normal: X=-0.01 Y=-1.00 Z=0.00 PenetrationDepth:0.766 Actor:BP_AI2_2 Component:CharacterMesh0 BoneName:lowerarm_l (2 other events since notify)
+[2022.09.28-07.04.15:813][566]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=24.27 Y=65.09 Z=0.00 Location: X=-473.94 Y=75.24 Z=170.90 Normal: X=1.00 Y=-0.03 Z=0.00 PenetrationDepth:4.066 Actor:BP_AI2_C_5 Component:CharacterMesh0 BoneName:Hair02_l (0 other events since notify)
+[2022.09.28-07.04.16:168][587]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=132.67 Y=140.21 Z=0.00 Location: X=-516.03 Y=69.98 Z=170.81 Normal: X=0.60 Y=-0.80 Z=0.00 PenetrationDepth:1.672 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:hand_l (30 other events since notify)
+[2022.09.28-07.04.16:802][625]LogCharacterMovement: BP_AI2_C_2 is stuck and failed to move! Velocity: X=374.07 Y=141.68 Z=0.00 Location: X=-528.94 Y=110.10 Z=170.82 Normal: X=-0.07 Y=1.00 Z=0.00 PenetrationDepth:2.692 Actor:BP_AI2_C_5 Component:CharacterMesh0 BoneName:lowerarm_r (8 other events since notify)
+[2022.09.28-07.04.16:885][630]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=11.59 Y=32.11 Z=0.00 Location: X=-473.35 Y=75.31 Z=170.83 Normal: X=-0.71 Y=0.71 Z=0.00 PenetrationDepth:0.680 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:lowerarm_r (12 other events since notify)
+[2022.09.28-07.04.17:487][666]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=275.36 Y=290.13 Z=0.00 Location: X=-513.57 Y=73.02 Z=170.80 Normal: X=-0.88 Y=0.47 Z=0.00 PenetrationDepth:0.370 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:lowerarm_r (12 other events since notify)
+[2022.09.28-07.04.17:889][690]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=7.26 Y=33.35 Z=0.00 Location: X=-464.08 Y=75.33 Z=170.83 Normal: X=0.65 Y=-0.76 Z=0.00 PenetrationDepth:1.445 Actor:BP_AI2_C_5 Component:CharacterMesh0 BoneName:hand_l (4 other events since notify)
+[2022.09.28-07.04.18:632][733]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=25.46 Y=23.24 Z=0.00 Location: X=-501.67 Y=92.84 Z=170.82 Normal: X=0.70 Y=0.72 Z=0.00 PenetrationDepth:7.992 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:hand_l (14 other events since notify)
+[2022.09.28-07.04.18:953][752]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=6.39 Y=33.53 Z=0.00 Location: X=-462.32 Y=75.33 Z=170.83 Normal: X=0.09 Y=1.00 Z=0.00 PenetrationDepth:7.587 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:hand_l (10 other events since notify)
+[2022.09.28-07.04.19:741][798]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=26.24 Y=24.07 Z=0.00 Location: X=-501.54 Y=92.71 Z=170.82 Normal: X=0.75 Y=0.67 Z=0.00 PenetrationDepth:4.123 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:lowerarm_l (7 other events since notify)
+[2022.09.28-07.04.19:997][812]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=7.36 Y=42.50 Z=0.00 Location: X=-461.21 Y=75.33 Z=170.83 Normal: X=0.24 Y=0.97 Z=0.00 PenetrationDepth:3.586 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:lowerarm_l (4 other events since notify)
+[2022.09.28-07.04.20:784][858]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=25.15 Y=23.08 Z=0.00 Location: X=-501.53 Y=92.71 Z=170.82 Normal: X=0.80 Y=0.60 Z=0.00 PenetrationDepth:8.150 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:hand_l (10 other events since notify)
+[2022.09.28-07.04.21:116][877]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=5.78 Y=35.19 Z=0.00 Location: X=-460.63 Y=75.30 Z=170.83 Normal: X=0.10 Y=1.00 Z=0.00 PenetrationDepth:7.385 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:hand_l (7 other events since notify)
+[2022.09.28-07.04.21:883][923]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=25.10 Y=23.13 Z=0.00 Location: X=-501.42 Y=92.60 Z=170.82 Normal: X=0.63 Y=0.77 Z=0.00 PenetrationDepth:5.555 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:hand_l (9 other events since notify)
+[2022.09.28-07.04.22:133][937]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=4.92 Y=33.78 Z=0.00 Location: X=-459.42 Y=75.36 Z=170.83 Normal: X=0.16 Y=0.99 Z=0.00 PenetrationDepth:2.837 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:lowerarm_l (8 other events since notify)
+[2022.09.28-07.04.22:901][983]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=25.00 Y=23.24 Z=0.00 Location: X=-501.18 Y=92.41 Z=170.82 Normal: X=0.56 Y=0.83 Z=0.00 PenetrationDepth:3.883 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:hand_l (9 other events since notify)
+[2022.09.28-07.04.23:153][997]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=4.92 Y=33.78 Z=0.00 Location: X=-459.42 Y=75.36 Z=170.83 Normal: X=0.10 Y=0.99 Z=0.00 PenetrationDepth:6.243 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:hand_l (9 other events since notify)
+[2022.09.28-07.04.23:933][ 43]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=24.97 Y=23.27 Z=0.00 Location: X=-501.13 Y=92.36 Z=170.82 Normal: X=0.62 Y=0.79 Z=0.00 PenetrationDepth:2.628 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:hand_l (10 other events since notify)
+[2022.09.28-07.04.24:174][ 57]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=4.93 Y=33.78 Z=0.00 Location: X=-459.43 Y=75.36 Z=170.83 Normal: X=0.06 Y=1.00 Z=0.00 PenetrationDepth:5.068 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:hand_l (9 other events since notify)
+[2022.09.28-07.04.24:950][103]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=24.92 Y=23.33 Z=0.00 Location: X=-501.01 Y=92.25 Z=170.82 Normal: X=1.00 Y=0.09 Z=0.00 PenetrationDepth:1.886 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:Hair02_l (9 other events since notify)
+[2022.09.28-07.04.25:269][122]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=4.83 Y=33.79 Z=0.00 Location: X=-459.24 Y=75.36 Z=170.83 Normal: X=0.79 Y=0.60 Z=-0.09 PenetrationDepth:1.562 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:head (9 other events since notify)
+[2022.09.28-07.04.25:952][163]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=24.91 Y=23.34 Z=0.00 Location: X=-500.98 Y=92.23 Z=170.82 Normal: X=0.77 Y=0.64 Z=0.00 PenetrationDepth:4.119 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:lowerarm_l (10 other events since notify)
+[2022.09.28-07.04.26:269][182]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=4.77 Y=33.80 Z=0.00 Location: X=-459.13 Y=75.36 Z=170.83 Normal: X=0.79 Y=0.60 Z=-0.09 PenetrationDepth:1.578 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:head (7 other events since notify)
+[2022.09.28-07.04.26:630][202]LogBlueprintUserMessages: [BP_Pineapple_5] 12
+[2022.09.28-07.04.26:790][211]LogBlueprintUserMessages: [BP_Pineapple_5] 11
+[2022.09.28-07.04.26:880][216]LogBlueprintUserMessages: [BP_Pineapple_5] 10
+[2022.09.28-07.04.26:997][223]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=24.91 Y=23.34 Z=0.00 Location: X=-500.98 Y=92.23 Z=170.82 Normal: X=0.77 Y=0.64 Z=0.00 PenetrationDepth:4.119 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:lowerarm_l (11 other events since notify)
+[2022.09.28-07.04.27:317][242]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=4.69 Y=33.81 Z=0.00 Location: X=-458.97 Y=75.35 Z=170.83 Normal: X=0.08 Y=1.00 Z=0.00 PenetrationDepth:7.285 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:hand_l (9 other events since notify)
+[2022.09.28-07.04.28:049][283]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=24.91 Y=23.34 Z=0.00 Location: X=-500.98 Y=92.23 Z=170.82 Normal: X=0.77 Y=0.64 Z=0.00 PenetrationDepth:4.119 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:lowerarm_l (11 other events since notify)
+[2022.09.28-07.04.28:368][302]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=4.89 Y=35.23 Z=0.00 Location: X=-458.97 Y=75.35 Z=170.83 Normal: X=0.08 Y=1.00 Z=0.00 PenetrationDepth:7.285 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:hand_l (11 other events since notify)
+[2022.09.28-07.04.28:522][311]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerScores' of length 0 in '/Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode_C:FindWinner'!
+[2022.09.28-07.04.29:068][343]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=24.90 Y=23.35 Z=0.00 Location: X=-500.97 Y=92.21 Z=170.82 Normal: X=0.90 Y=-0.45 Z=0.00 PenetrationDepth:5.684 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:Hair02_r (10 other events since notify)
+[2022.09.28-07.04.29:385][362]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=4.72 Y=33.81 Z=0.00 Location: X=-459.03 Y=75.36 Z=170.83 Normal: X=0.96 Y=0.26 Z=0.00 PenetrationDepth:5.186 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:Hair02_r (7 other events since notify)
+[2022.09.28-07.04.30:080][403]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=24.91 Y=23.34 Z=0.00 Location: X=-500.98 Y=92.22 Z=170.82 Normal: X=0.90 Y=-0.43 Z=0.00 PenetrationDepth:5.642 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:Hair02_r (10 other events since notify)
+[2022.09.28-07.04.30:716][437]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=4.71 Y=33.81 Z=0.00 Location: X=-459.00 Y=75.36 Z=170.83 Normal: X=0.96 Y=0.27 Z=0.00 PenetrationDepth:2.442 Actor:BP_AI2_C_0 Component:CharacterMesh0 BoneName:Hair02_r (9 other events since notify)
+[2022.09.28-07.04.31:352][473]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=25.88 Y=24.25 Z=0.00 Location: X=-500.98 Y=92.23 Z=170.82 Normal: X=0.92 Y=-0.40 Z=0.00 PenetrationDepth:5.462 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:Hair02_r (9 other events since notify)
+[2022.09.28-07.04.31:836][498]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array ConnectedPlayers [-1/0]!
+[2022.09.28-07.04.31:836][498]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.09.28-07.04.31:837][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.04.31:837][498]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.04.31:837][498]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.04.31:838][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.04.31:852][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-07.04.31:875][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.04.31:901][498]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-07.04.31:901][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.04.31:903][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.04.31:910][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.04.31:917][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.09.28-07.04.31:956][499]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2022.09.28-07.04.50:180][373]LogTemp: Repeating last play command: 选中的视口
+[2022.09.28-07.04.50:187][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-07.04.50:188][373]PIE: New page: PIE会话：Arena01（2022年9月28日 下午11:04:50）
+[2022.09.28-07.04.50:188][373]LogPlayLevel: Creating play world package: /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.04.50:205][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017571s)
+[2022.09.28-07.04.50:207][373]LogAIModule: Creating AISystem for world Arena01
+[2022.09.28-07.04.50:207][373]LogPlayLevel: PIE: World Init took: (0.001512s)
+[2022.09.28-07.04.50:207][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MultiplayerGame/Maps/Arena01.Arena01 to /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 (0.019278s)
+[2022.09.28-07.04.50:238][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.09.28-07.04.50:245][373]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.09.28-07.04.50:245][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-07.04.50:245][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-07.04.50:245][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-07.04.50:245][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-07.04.50:245][373]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-07.04.50:245][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-07.04.50:245][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-07.04.50:245][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-07.04.50:245][373]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-07.04.50:245][373]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-07.04.50:245][373]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-07.04.50:245][373]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-07.04.50:258][373]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-07.04.50:258][373]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-07.04.50:258][373]LogAudioMixer: Display: 2: FrontCenter
+[2022.09.28-07.04.50:258][373]LogAudioMixer: Display: 3: LowFrequency
+[2022.09.28-07.04.50:258][373]LogAudioMixer: Display: 4: BackLeft
+[2022.09.28-07.04.50:258][373]LogAudioMixer: Display: 5: BackRight
+[2022.09.28-07.04.50:258][373]LogAudioMixer: Display: 6: SideLeft
+[2022.09.28-07.04.50:258][373]LogAudioMixer: Display: 7: SideRight
+[2022.09.28-07.04.50:389][373]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.09.28-07.04.50:389][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-07.04.50:389][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-07.04.50:389][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-07.04.50:390][373]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-07.04.50:390][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-07.04.50:390][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.09.28-07.04.50:392][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-07.04.50:392][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-07.04.50:392][373]LogInit: FAudioDevice initialized.
+[2022.09.28-07.04.50:392][373]LogAudio: Display: Audio Device (ID: 9) registered with world 'Arena01'.
+[2022.09.28-07.04.50:403][373]LogLoad: Game class is 'BP_RoomGameMode_C'
+[2022.09.28-07.04.50:407][373]LogWorld: Bringing World /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2022.09.28-15.04.50
+[2022.09.28-07.04.50:408][373]LogWorld: Bringing up level for play took: 0.003233
+[2022.09.28-07.04.50:408][373]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2022.09.28-07.04.50:411][373]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-07.04.50:411][373]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-07.04.50:411][373]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-07.04.50:416][373]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1229.006 Y=-455.258 Z=140.000] for [BP_Target_C]
+[2022.09.28-07.04.50:426][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.04.50:427][373]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-07.04.50:427][373]PIE: 登陆的服务器
+[2022.09.28-07.04.50:429][373]PIE: PIE总开始时间：0.241秒。
+[2022.09.28-07.04.52:301][478]LogCharacterMovement: BP_AI2_C_0 is stuck and failed to move! Velocity: X=-13.80 Y=31.22 Z=0.00 Location: X=-419.72 Y=71.49 Z=170.83 Normal: X=0.84 Y=-0.54 Z=0.00 PenetrationDepth:0.268 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:lowerarm_l (0 other events since notify)
+[2022.09.28-07.04.53:316][536]LogCharacterMovement: BP_AI2_C_0 is stuck and failed to move! Velocity: X=-161.70 Y=365.86 Z=0.00 Location: X=-419.72 Y=71.49 Z=170.83 Normal: X=0.84 Y=-0.54 Z=0.00 PenetrationDepth:0.268 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:lowerarm_l (57 other events since notify)
+[2022.09.28-07.04.53:520][548]LogBlueprintUserMessages: [BP_Pineapple_5] 93
+[2022.09.28-07.04.53:567][551]LogCharacterMovement: BP_AI2_2 is stuck and failed to move! Velocity: X=111.34 Y=178.21 Z=0.00 Location: X=-496.99 Y=54.54 Z=170.81 Normal: X=1.00 Y=0.09 Z=0.00 PenetrationDepth:1.513 Actor:BP_AI2_C_3 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2022.09.28-07.04.54:318][596]LogCharacterMovement: BP_AI2_C_0 is stuck and failed to move! Velocity: X=-159.46 Y=366.84 Z=0.00 Location: X=-420.02 Y=71.04 Z=170.83 Normal: X=-1.00 Y=0.07 Z=0.00 PenetrationDepth:0.512 Actor:BP_AI2_C_4 Component:CharacterMesh0 BoneName:Hair02_r (27 other events since notify)
+[2022.09.28-07.04.55:318][656]LogCharacterMovement: BP_AI2_C_0 is stuck and failed to move! Velocity: X=-159.46 Y=366.84 Z=0.00 Location: X=-420.02 Y=71.04 Z=170.83 Normal: X=-1.00 Y=0.09 Z=0.00 PenetrationDepth:1.571 Actor:BP_AI2_C_4 Component:CharacterMesh0 BoneName:Hair02_r (59 other events since notify)
+[2022.09.28-07.04.56:320][716]LogCharacterMovement: BP_AI2_C_0 is stuck and failed to move! Velocity: X=-159.46 Y=366.84 Z=0.00 Location: X=-420.02 Y=71.04 Z=170.83 Normal: X=-1.00 Y=0.09 Z=0.00 PenetrationDepth:1.571 Actor:BP_AI2_C_4 Component:CharacterMesh0 BoneName:Hair02_r (59 other events since notify)
+[2022.09.28-07.04.58:218][829]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=746.669 Y=493.138 Z=248.429] for [BP_Projectile_C]
+[2022.09.28-07.05.03:276][119]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array ConnectedPlayers [-1/0]!
+[2022.09.28-07.05.03:276][119]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.09.28-07.05.03:276][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.05.03:276][119]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.05.03:277][119]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.05.03:278][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.05.03:288][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-07.05.03:307][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.05.03:353][119]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-07.05.03:353][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.05.03:354][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.05.03:361][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.05.03:367][119]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.09.28-07.05.03:402][120]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.09.28-07.05.04:804][195]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.09.28-07.05.05:118][205]Cmd: CAMERA SNAP
+[2022.09.28-07.05.05:118][205]Snapped camera to the first selected object.
+[2022.09.28-07.05.06:731][297]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (LeftArm_StaticMesh)
+[2022.09.28-07.05.07:317][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2022.09.28-07.05.07:755][350]Cmd: TRANSACTION UNDO
+[2022.09.28-07.05.07:755][350]LogEditorTransaction: Undo 点击Actor（快捷菜单）
+[2022.09.28-07.05.29:513][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Maps/Arena01" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-07.05.29:542][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.09.28-07.05.29:581][610]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena01C09D9C25439AAA26C612B092B20360C1.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01.umap'
+[2022.09.28-07.05.29:614][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Maps/Arena01_BuiltData" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01_BuiltData.uasset" SILENT=true
+[2022.09.28-07.05.29:725][610]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena01_BuiltData2F0EB41A4B7EDE991C29E18EE9158288.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01_BuiltData.uasset'
+[2022.09.28-07.05.29:752][610]AssetCheck: New page: 资产保存：多个资产
+[2022.09.28-07.05.29:752][610]LogContentValidation: Display: 正在验证World /Game/MultiplayerGame/Maps/Arena01.Arena01
+[2022.09.28-07.05.29:752][610]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/MultiplayerGame/Maps/Arena01_BuiltData.Arena01_BuiltData
+[2022.09.28-07.23.06:628][594]LogEditorViewport: Clicking on Actor (LMB): BP_AI_C (BP_AI)
+[2022.09.28-07.23.07:646][645]Cmd: DELETE
+[2022.09.28-07.23.07:647][645]Cmd: ACTOR DELETE
+[2022.09.28-07.23.07:672][645]LogEditorActor: Deleted Actor: BP_AI_C
+[2022.09.28-07.23.07:709][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.09.28-07.23.07:741][645]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2022.09.28-07.23.08:480][682]LogEditorViewport: Clicking on Actor (LMB): BP_AI2_C (BP_AI2)
+[2022.09.28-07.23.08:924][703]Cmd: DELETE
+[2022.09.28-07.23.08:924][703]Cmd: ACTOR DELETE
+[2022.09.28-07.23.08:926][703]LogEditorActor: Deleted Actor: BP_AI2_C
+[2022.09.28-07.23.08:956][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.09.28-07.23.08:958][703]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.09.28-07.23.10:368][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Maps/Arena01" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-07.23.10:394][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.09.28-07.23.10:449][784]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena011A8230AC47E8E44AECAFC29CBE0003C4.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01.umap'
+[2022.09.28-07.23.10:467][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Maps/Arena01_BuiltData" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01_BuiltData.uasset" SILENT=true
+[2022.09.28-07.23.10:534][784]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena01_BuiltData2C600422420AEF0FEA77CAA439C3D6C7.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01_BuiltData.uasset'
+[2022.09.28-07.23.10:563][784]AssetCheck: New page: 资产保存：多个资产
+[2022.09.28-07.23.10:563][784]LogContentValidation: Display: 正在验证World /Game/MultiplayerGame/Maps/Arena01.Arena01
+[2022.09.28-07.23.10:563][784]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/MultiplayerGame/Maps/Arena01_BuiltData.Arena01_BuiltData
+[2022.09.28-07.23.28:885][821]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_HPUP.Buff_Base_HPUP
+[2022.09.28-07.23.55:420][840]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue was zero and has changed. Consider manually Re-saving the asset
+[2022.09.28-07.24.22:354][797]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue was zero and has changed. Consider manually Re-saving the asset
+[2022.09.28-07.24.29:257][ 51]BlueprintLog: New page: 编译Buff_Base_HPUP
+[2022.09.28-07.24.29:340][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2022.09.28-07.24.29:930][ 69]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Buff_Base_HPUPAD4D0F784E3325CC0BBB19AC530FA2E2.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_HPUP.uasset'
+[2022.09.28-07.24.29:951][ 69]AssetCheck: New page: 资产保存：Buff_Base_HPUP
+[2022.09.28-07.24.29:951][ 69]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_HPUP.Buff_Base_HPUP
+[2022.09.28-07.24.45:518][591]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_DefenfUP.Buff_Base_DefenfUP
+[2022.09.28-07.24.55:762][967]BlueprintLog: New page: 编译Buff_Base_DefenfUP
+[2022.09.28-07.24.55:848][967]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.09.28-07.24.56:358][979]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Buff_Base_DefenfUP6F18640C48D78384E1296FB0C8122D37.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_DefenfUP.uasset'
+[2022.09.28-07.24.56:384][979]AssetCheck: New page: 资产保存：Buff_Base_DefenfUP
+[2022.09.28-07.24.56:384][979]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_DefenfUP.Buff_Base_DefenfUP
+[2022.09.28-07.25.01:232][206]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Attack_UP.Buff_Attack_UP
+[2022.09.28-07.25.10:745][578]BlueprintLog: New page: 编译Buff_Attack_UP
+[2022.09.28-07.25.10:832][578]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.09.28-07.25.11:364][591]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Buff_Attack_UP427543404480D924CE932DA3E672098F.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Attack_UP.uasset'
+[2022.09.28-07.25.11:394][591]AssetCheck: New page: 资产保存：Buff_Attack_UP
+[2022.09.28-07.25.11:394][591]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Attack_UP.Buff_Attack_UP
+[2022.09.28-07.25.25:845][193]LogSlate: Window 'Buff_Attack_UP' being destroyed
+[2022.09.28-07.25.25:863][193]LogSlate: Window 'Buff_Attack_UP' being destroyed
+[2022.09.28-07.25.25:867][193]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.25.25:868][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.25.25:960][193]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.28-07.25.25:960][193]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.25.25:960][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.25.26:033][193]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.28-07.25.26:033][193]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.25.26:033][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.25.33:928][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2022.09.28-07.25.35:042][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2022.09.28-07.25.35:546][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2022.09.28-07.25.36:230][782]LogEditorViewport: Clicking on Actor (LMB): BP_Gun_1_C (BP_Gun_1)
+[2022.09.28-07.26.21:324][261]LogEditorViewport: Clicking on Actor (LMB): BP_Gun_3_C (BP_Gun_3)
+[2022.09.28-07.26.25:470][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.28-07.26.26:334][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Maps/Arena01" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-07.26.26:383][548]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.09.28-07.26.26:416][548]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena01C2C865ED44A200C052D94892C7749EAE.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01.umap'
+[2022.09.28-07.26.26:434][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Maps/Arena01_BuiltData" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01_BuiltData.uasset" SILENT=true
+[2022.09.28-07.26.26:496][548]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena01_BuiltDataFDAB7BE648E222DFEE82839DBB3C2921.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01_BuiltData.uasset'
+[2022.09.28-07.26.26:518][548]AssetCheck: New page: 资产保存：多个资产
+[2022.09.28-07.26.26:518][548]LogContentValidation: Display: 正在验证World /Game/MultiplayerGame/Maps/Arena01.Arena01
+[2022.09.28-07.26.26:518][548]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/MultiplayerGame/Maps/Arena01_BuiltData.Arena01_BuiltData
+[2022.09.28-07.26.27:693][609]LogEditorViewport: Clicking on Actor (LMB): BP_Gun_2_C (BP_Gun_2)
+[2022.09.28-07.26.39:949][255]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Character/BP_BaseCharacter.BP_BaseCharacter
+[2022.09.28-07.26.49:464][536]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.28-07.26.49:489][536]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.28-07.26.56:212][774]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.28-07.27.03:006][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_Projectile_2.BP_Projectile_2
+[2022.09.28-07.27.15:468][400]LogRenderer: Reallocating scene render targets to support 1348x884 Format 10 NumSamples 1 (Frame:140).
+[2022.09.28-07.28.33:315][987]BlueprintLog: New page: 编译BP_BaseCharacter
+[2022.09.28-07.28.33:489][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.09.28-07.28.34:200][  0]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_BaseCharacter5F870A6D42BBF9B70A8940853FA77209.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Character/BP_BaseCharacter.uasset'
+[2022.09.28-07.28.34:217][  0]AssetCheck: New page: 资产保存：BP_BaseCharacter
+[2022.09.28-07.28.34:217][  0]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Character/BP_BaseCharacter.BP_BaseCharacter
+[2022.09.28-07.28.35:368][ 33]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.28-07.28.35:393][ 33]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.28-07.28.42:873][296]BlueprintLog: New page: 编译BP_BaseCharacter
+[2022.09.28-07.28.43:060][296]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2022.09.28-07.28.43:684][304]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_BaseCharacter32D847EB4EC037C7F30ADC8C42441505.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Character/BP_BaseCharacter.uasset'
+[2022.09.28-07.28.43:705][304]AssetCheck: New page: 资产保存：BP_BaseCharacter
+[2022.09.28-07.28.43:705][304]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Character/BP_BaseCharacter.BP_BaseCharacter
+[2022.09.28-07.28.45:347][367]LogTemp: Repeating last play command: 选中的视口
+[2022.09.28-07.28.45:362][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-07.28.45:362][367]PIE: New page: PIE会话：Arena01（2022年9月28日 下午11:28:45）
+[2022.09.28-07.28.45:362][367]LogPlayLevel: Creating play world package: /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.28.45:384][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021514s)
+[2022.09.28-07.28.45:386][367]LogAIModule: Creating AISystem for world Arena01
+[2022.09.28-07.28.45:387][367]LogPlayLevel: PIE: World Init took: (0.003163s)
+[2022.09.28-07.28.45:387][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MultiplayerGame/Maps/Arena01.Arena01 to /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 (0.024945s)
+[2022.09.28-07.28.45:427][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.09.28-07.28.45:428][367]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.09.28-07.28.45:428][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-07.28.45:428][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-07.28.45:428][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-07.28.45:428][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-07.28.45:428][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-07.28.45:428][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-07.28.45:428][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-07.28.45:429][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-07.28.45:429][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-07.28.45:429][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-07.28.45:429][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-07.28.45:430][367]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-07.28.45:443][367]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-07.28.45:443][367]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-07.28.45:443][367]LogAudioMixer: Display: 2: FrontCenter
+[2022.09.28-07.28.45:443][367]LogAudioMixer: Display: 3: LowFrequency
+[2022.09.28-07.28.45:443][367]LogAudioMixer: Display: 4: BackLeft
+[2022.09.28-07.28.45:443][367]LogAudioMixer: Display: 5: BackRight
+[2022.09.28-07.28.45:443][367]LogAudioMixer: Display: 6: SideLeft
+[2022.09.28-07.28.45:443][367]LogAudioMixer: Display: 7: SideRight
+[2022.09.28-07.28.45:572][367]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.09.28-07.28.45:572][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-07.28.45:572][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-07.28.45:572][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-07.28.45:573][367]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-07.28.45:573][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-07.28.45:573][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.09.28-07.28.45:575][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-07.28.45:575][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-07.28.45:575][367]LogInit: FAudioDevice initialized.
+[2022.09.28-07.28.45:575][367]LogAudio: Display: Audio Device (ID: 10) registered with world 'Arena01'.
+[2022.09.28-07.28.45:590][367]LogLoad: Game class is 'BP_RoomGameMode_C'
+[2022.09.28-07.28.45:592][367]LogWorld: Bringing World /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2022.09.28-15.28.45
+[2022.09.28-07.28.45:593][367]LogWorld: Bringing up level for play took: 0.002029
+[2022.09.28-07.28.45:593][367]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2022.09.28-07.28.45:596][367]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-07.28.45:596][367]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-07.28.45:596][367]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-07.28.45:607][367]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-400.124 Y=246.286 Z=140.000] for [BP_AI2_C]
+[2022.09.28-07.28.45:608][367]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-23.784 Y=-11.539 Z=140.000] for [BP_AI2_C]
+[2022.09.28-07.28.45:609][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.28.45:611][367]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-07.28.45:611][367]PIE: 登陆的服务器
+[2022.09.28-07.28.45:612][367]PIE: PIE总开始时间：0.25秒。
+[2022.09.28-07.28.57:450][ 54]LogBlueprintUserMessages: [BP_Pineapple_5] 64
+[2022.09.28-07.28.58:625][124]LogBlueprintUserMessages: [BP_Pineapple_5] 57
+[2022.09.28-07.29.03:538][415]LogBlueprintUserMessages: [BP_Pineapple_5] 37
+[2022.09.28-07.29.04:438][469]LogBlueprintUserMessages: [BP_Pineapple_5] 33
+[2022.09.28-07.29.05:356][523]LogBlueprintUserMessages: [BP_Pineapple_5] 29
+[2022.09.28-07.29.06:207][574]LogBlueprintUserMessages: [BP_Pineapple_5] 25
+[2022.09.28-07.29.06:942][618]LogBlueprintUserMessages: [BP_Pineapple_5] 20
+[2022.09.28-07.29.08:773][727]LogBlueprintUserMessages: [BP_Pineapple_5] 11
+[2022.09.28-07.29.09:957][798]LogBlueprintUserMessages: [BP_Pineapple_5] 6
+[2022.09.28-07.29.11:373][882]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerScores' of length 0 in '/Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode_C:FindWinner'!
+[2022.09.28-07.29.26:478][779]LogBlueprintUserMessages: [Buff_Base_HPUP_C_0] HPUP
+[2022.09.28-07.29.30:224][999]LogBlueprintUserMessages: [BP_Pineapple_5] -35
+[2022.09.28-07.29.33:542][197]LogBlueprintUserMessages: [BP_Pineapple_5] -36
+[2022.09.28-07.29.46:095][899]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array ConnectedPlayers [-1/0]!
+[2022.09.28-07.29.46:096][899]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.09.28-07.29.46:096][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.29.46:096][899]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.29.46:096][899]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.29.46:097][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.29.46:111][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-07.29.46:125][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.29.46:155][899]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-07.29.46:159][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.29.46:161][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.29.46:169][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.29.46:175][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.09.28-07.29.46:204][900]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2022.09.28-07.30.45:933][887]BlueprintLog: New page: 编译BP_BaseCharacter
+[2022.09.28-07.30.46:109][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.09.28-07.30.46:710][899]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_BaseCharacter65076C224B4B91E87F8A758AB79435D4.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Character/BP_BaseCharacter.uasset'
+[2022.09.28-07.30.46:732][899]AssetCheck: New page: 资产保存：BP_BaseCharacter
+[2022.09.28-07.30.46:732][899]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Character/BP_BaseCharacter.BP_BaseCharacter
+[2022.09.28-07.30.49:222][ 16]LogTemp: Repeating last play command: 选中的视口
+[2022.09.28-07.30.49:228][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-07.30.49:228][ 16]PIE: New page: PIE会话：Arena01（2022年9月28日 下午11:30:49）
+[2022.09.28-07.30.49:228][ 16]LogPlayLevel: Creating play world package: /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.30.49:244][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016341s)
+[2022.09.28-07.30.49:246][ 16]LogAIModule: Creating AISystem for world Arena01
+[2022.09.28-07.30.49:246][ 16]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2022.09.28-07.30.49:246][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MultiplayerGame/Maps/Arena01.Arena01 to /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 (0.018038s)
+[2022.09.28-07.30.49:285][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.09.28-07.30.49:288][ 16]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.09.28-07.30.49:288][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-07.30.49:288][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-07.30.49:288][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-07.30.49:288][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-07.30.49:288][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-07.30.49:288][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-07.30.49:288][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-07.30.49:288][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-07.30.49:288][ 16]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-07.30.49:288][ 16]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-07.30.49:288][ 16]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-07.30.49:288][ 16]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-07.30.49:300][ 16]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-07.30.49:300][ 16]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-07.30.49:300][ 16]LogAudioMixer: Display: 2: FrontCenter
+[2022.09.28-07.30.49:300][ 16]LogAudioMixer: Display: 3: LowFrequency
+[2022.09.28-07.30.49:300][ 16]LogAudioMixer: Display: 4: BackLeft
+[2022.09.28-07.30.49:300][ 16]LogAudioMixer: Display: 5: BackRight
+[2022.09.28-07.30.49:300][ 16]LogAudioMixer: Display: 6: SideLeft
+[2022.09.28-07.30.49:300][ 16]LogAudioMixer: Display: 7: SideRight
+[2022.09.28-07.30.49:431][ 16]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.09.28-07.30.49:431][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-07.30.49:431][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-07.30.49:431][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-07.30.49:431][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-07.30.49:431][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-07.30.49:432][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.09.28-07.30.49:433][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-07.30.49:433][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-07.30.49:433][ 16]LogInit: FAudioDevice initialized.
+[2022.09.28-07.30.49:433][ 16]LogAudio: Display: Audio Device (ID: 11) registered with world 'Arena01'.
+[2022.09.28-07.30.49:446][ 16]LogLoad: Game class is 'BP_RoomGameMode_C'
+[2022.09.28-07.30.49:448][ 16]LogWorld: Bringing World /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2022.09.28-15.30.49
+[2022.09.28-07.30.49:448][ 16]LogWorld: Bringing up level for play took: 0.001416
+[2022.09.28-07.30.49:449][ 16]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2022.09.28-07.30.49:452][ 16]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-07.30.49:452][ 16]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-07.30.49:452][ 16]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-07.30.49:456][ 16]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-48.706 Y=-19.611 Z=140.000] for [BP_Target_C]
+[2022.09.28-07.30.49:456][ 16]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-392.609 Y=496.282 Z=140.000] for [BP_Target_C]
+[2022.09.28-07.30.49:457][ 16]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-770.819 Y=-41.308 Z=140.000] for [BP_Target_C]
+[2022.09.28-07.30.49:468][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.30.49:470][ 16]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-07.30.49:470][ 16]PIE: 登陆的服务器
+[2022.09.28-07.30.49:471][ 16]PIE: PIE总开始时间：0.243秒。
+[2022.09.28-07.30.51:861][154]LogCharacterMovement: BP_AI2_C_1 is stuck and failed to move! Velocity: X=0.50 Y=-70.12 Z=0.00 Location: X=-560.25 Y=185.57 Z=170.96 Normal: X=0.95 Y=-0.31 Z=0.00 PenetrationDepth:3.441 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:lowerarm_r (0 other events since notify)
+[2022.09.28-07.30.53:208][234]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=24.24 Y=28.11 Z=0.00 Location: X=-517.77 Y=61.42 Z=170.94 Normal: X=0.94 Y=0.35 Z=0.00 PenetrationDepth:0.777 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:Hair02_l (0 other events since notify)
+[2022.09.28-07.30.54:210][290]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=261.34 Y=302.82 Z=0.00 Location: X=-517.75 Y=61.50 Z=170.94 Normal: X=0.62 Y=0.79 Z=0.00 PenetrationDepth:1.142 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:Hair02_r (45 other events since notify)
+[2022.09.28-07.30.54:494][307]LogBlueprintUserMessages: [BP_Pineapple_5] 86
+[2022.09.28-07.30.54:922][332]LogCharacterMovement: BP_AI2_C_2 is stuck and failed to move! Velocity: X=8.71 Y=43.20 Z=0.00 Location: X=-472.26 Y=53.76 Z=170.81 Normal: X=0.92 Y=-0.40 Z=0.00 PenetrationDepth:1.107 Actor:BP_AI2_C_4 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2022.09.28-07.31.00:924][687]LogCharacterMovement: BP_AI2_C_4 is stuck and failed to move! Velocity: X=49.92 Y=48.33 Z=0.00 Location: X=-508.22 Y=83.73 Z=170.67 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:0.279 Actor:BP_AI2_C_2 Component:CharacterMesh0 BoneName:lowerarm_r (23 other events since notify)
+[2022.09.28-07.31.12:522][381]LogBlueprintUserMessages: [Buff_Base_HPUP_C_0] HPUP
+[2022.09.28-07.31.15:075][529]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array ConnectedPlayers [-1/0]!
+[2022.09.28-07.31.15:075][529]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.09.28-07.31.15:075][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.31.15:076][529]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.31.15:076][529]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.31.15:076][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.31.15:087][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-07.31.15:102][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.31.15:130][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-07.31.15:132][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.31.15:133][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.31.15:142][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.31.15:147][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.09.28-07.31.15:209][530]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2022.09.28-07.31.26:180][ 84]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2022.09.28-07.31.37:597][489]BlueprintLog: New page: 编译BP_RoomGameMode
+[2022.09.28-07.31.37:733][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.09.28-07.31.38:411][506]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_RoomGameModeB97D314942BBB0712CBA098A8D9BEAD1.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2022.09.28-07.31.38:434][506]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2022.09.28-07.31.38:434][506]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2022.09.28-07.32.02:387][355]LogBlueprint: Warning: [AssetLog] C:\game\Game000\AIHomework\Content\MultiplayerGame\Blueprints\Character\BP_BaseCharacter.uasset: [Compiler] 粘贴的节点  CustomEvent  与  PlayFireEffect  冲突，已替换为自定义事件！
+[2022.09.28-07.33.18:661][856]BlueprintLog: New page: 编译BP_BaseCharacter
+[2022.09.28-07.33.18:826][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.09.28-07.33.19:486][868]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_BaseCharacter16C285BE484E93A16DC15483237530DF.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Character/BP_BaseCharacter.uasset'
+[2022.09.28-07.33.19:512][868]AssetCheck: New page: 资产保存：BP_BaseCharacter
+[2022.09.28-07.33.19:512][868]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Character/BP_BaseCharacter.BP_BaseCharacter
+[2022.09.28-07.33.45:995][750]LogMaterial: Display: Missing cached shadermap for M_Rock_Sandstone in PCD3D_SM5, Default, SM5 (DDC key hash: 6BF7FA05F7964AB0DC1BB105CDECF2F0BAF3643E), compiling. 
+[2022.09.28-07.33.46:022][750]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.09.28-07.33.46:025][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2022.09.28-07.33.46:025][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2022.09.28-07.33.46:025][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.09.28-07.33.46:025][750]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2022.09.28-07.33.46:025][750]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.09.28-07.33.53:788][869]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.28-07.33.53:789][869]LogShaderCompilers: Display: Total job queries 102, among them cache hits 7 (6.86%)
+[2022.09.28-07.33.53:789][869]LogShaderCompilers: Display: Tracking 31 distinct input hashes that result in 26 distinct outputs (83.87%)
+[2022.09.28-07.33.53:789][869]LogShaderCompilers: Display: RAM used: 0.15 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.04%
+[2022.09.28-07.33.53:789][869]LogShaderCompilers: Display: ================================================
+[2022.09.28-07.33.57:147][943]LogMaterial: Display: Missing cached shadermap for M_Water_Lake in PCD3D_SM5, Default, SM5 (DDC key hash: B55EE3F997C9F658711328D4860A0949C5258641), compiling. 
+[2022.09.28-07.33.57:175][943]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.09.28-07.33.57:177][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2022.09.28-07.33.57:177][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2022.09.28-07.33.57:177][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.09.28-07.33.57:177][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2022.09.28-07.33.57:177][943]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.09.28-07.34.12:668][305]LogMaterial: Display: Missing cached shadermap for M_Metal_Burnished_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: 64F014F8A1E3FC11459550CDE4CEDF2641552A0B), compiling. 
+[2022.09.28-07.34.12:693][305]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.09.28-07.34.12:699][305]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.09.28-07.34.12:699][305]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.09.28-07.34.12:699][305]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2022.09.28-07.34.12:699][305]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2022.09.28-07.34.12:699][305]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-07.34.12:699][305]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.28-07.34.14:146][334]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2022.09.28-07.34.14:146][334]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-07.34.14:499][341]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.09.28-07.34.14:499][341]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-07.34.16:163][373]BlueprintLog: New page: 编译BP_Projectile_2
+[2022.09.28-07.34.16:584][373]LogUObjectHash: Compacting FUObjectHashTables data took  14.59ms
+[2022.09.28-07.34.17:144][379]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_Projectile_238A26E4C47737329652ED18D32362F48.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Gameplay/BP_Projectile_2.uasset'
+[2022.09.28-07.34.17:211][379]AssetCheck: New page: 资产保存：BP_Projectile_2
+[2022.09.28-07.34.17:211][379]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_Projectile_2.BP_Projectile_2
+[2022.09.28-07.34.18:664][407]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_Projectile_257E64121467C1AB2B8BDD5AB92038756.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Gameplay/BP_Projectile_2.uasset'
+[2022.09.28-07.34.18:695][407]AssetCheck: New page: 资产保存：BP_Projectile_2
+[2022.09.28-07.34.18:695][407]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_Projectile_2.BP_Projectile_2
+[2022.09.28-07.34.18:829][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.09.28-07.34.18:829][410]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-07.34.20:210][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.09.28-07.34.20:210][441]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-07.34.20:598][451]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.09.28-07.34.20:598][451]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-07.34.21:092][462]LogSlate: Window 'BP_RoomGameMode' being destroyed
+[2022.09.28-07.34.21:112][462]LogSlate: Window 'BP_RoomGameMode' being destroyed
+[2022.09.28-07.34.21:128][462]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.34.21:128][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.34.21:357][462]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.28-07.34.21:357][462]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.34.21:357][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.34.21:477][462]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.09.28-07.34.21:477][462]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.09.28-07.34.21:516][462]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.28-07.34.21:516][462]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.34.21:516][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.34.22:762][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Maps/Arena01" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.28-07.34.22:903][506]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2022.09.28-07.34.22:937][506]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena01C1F08657449C474105337A9495451C3F.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01.umap'
+[2022.09.28-07.34.22:955][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Maps/Arena01_BuiltData" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01_BuiltData.uasset" SILENT=true
+[2022.09.28-07.34.23:018][506]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena01_BuiltData6B5909424397BD5A1CCDE5ABDF136358.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01_BuiltData.uasset'
+[2022.09.28-07.34.23:038][506]AssetCheck: New page: 资产保存：多个资产
+[2022.09.28-07.34.23:038][506]LogContentValidation: Display: 正在验证World /Game/MultiplayerGame/Maps/Arena01.Arena01
+[2022.09.28-07.34.23:038][506]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/MultiplayerGame/Maps/Arena01_BuiltData.Arena01_BuiltData
+[2022.09.28-07.34.31:628][956]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/MultiplayerGame/Blueprints/Character/AI/Shooter/BT_Enemy.BT_Enemy
+[2022.09.28-07.34.58:561][ 50]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BT_EnemyEF40646F44A96F7B83CE7D9385F5A805.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Character/AI/Shooter/BT_Enemy.uasset'
+[2022.09.28-07.34.58:587][ 50]AssetCheck: New page: 资产保存：BT_Enemy
+[2022.09.28-07.34.58:587][ 50]LogContentValidation: Display: 正在验证BehaviorTree /Game/MultiplayerGame/Blueprints/Character/AI/Shooter/BT_Enemy.BT_Enemy
+[2022.09.28-07.34.59:896][ 99]LogSlate: Window 'BT_Enemy' being destroyed
+[2022.09.28-07.34.59:915][ 99]LogSlate: Window 'BT_Enemy' being destroyed
+[2022.09.28-07.35.00:732][141]LogTemp: Repeating last play command: 选中的视口
+[2022.09.28-07.35.00:741][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.28-07.35.00:741][141]PIE: New page: PIE会话：Arena01（2022年9月28日 下午11:35:00）
+[2022.09.28-07.35.00:741][141]LogPlayLevel: Creating play world package: /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.35.00:758][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016215s)
+[2022.09.28-07.35.00:759][141]LogAIModule: Creating AISystem for world Arena01
+[2022.09.28-07.35.00:759][141]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2022.09.28-07.35.00:759][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MultiplayerGame/Maps/Arena01.Arena01 to /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 (0.017686s)
+[2022.09.28-07.35.00:877][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2022.09.28-07.35.00:891][141]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.09.28-07.35.00:891][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.28-07.35.00:891][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.28-07.35.00:891][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.28-07.35.00:891][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.28-07.35.00:892][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.28-07.35.00:892][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.28-07.35.00:892][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.28-07.35.00:892][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.28-07.35.00:892][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.28-07.35.00:892][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.28-07.35.00:892][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.28-07.35.00:892][141]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.28-07.35.00:903][141]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.28-07.35.00:903][141]LogAudioMixer: Display: 1: FrontRight
+[2022.09.28-07.35.00:903][141]LogAudioMixer: Display: 2: FrontCenter
+[2022.09.28-07.35.00:903][141]LogAudioMixer: Display: 3: LowFrequency
+[2022.09.28-07.35.00:903][141]LogAudioMixer: Display: 4: BackLeft
+[2022.09.28-07.35.00:903][141]LogAudioMixer: Display: 5: BackRight
+[2022.09.28-07.35.00:903][141]LogAudioMixer: Display: 6: SideLeft
+[2022.09.28-07.35.00:903][141]LogAudioMixer: Display: 7: SideRight
+[2022.09.28-07.35.01:021][141]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.09.28-07.35.01:022][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.28-07.35.01:022][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.28-07.35.01:022][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.28-07.35.01:022][141]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.28-07.35.01:022][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.28-07.35.01:022][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.09.28-07.35.01:024][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.28-07.35.01:024][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.28-07.35.01:024][141]LogInit: FAudioDevice initialized.
+[2022.09.28-07.35.01:024][141]LogAudio: Display: Audio Device (ID: 12) registered with world 'Arena01'.
+[2022.09.28-07.35.01:035][141]LogLoad: Game class is 'BP_RoomGameMode_C'
+[2022.09.28-07.35.01:037][141]LogWorld: Bringing World /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01.Arena01 up for play (max tick rate 60) at 2022.09.28-15.35.01
+[2022.09.28-07.35.01:038][141]LogWorld: Bringing up level for play took: 0.001478
+[2022.09.28-07.35.01:038][141]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2022.09.28-07.35.01:040][141]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-07.35.01:040][141]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.09.28-07.35.01:040][141]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-07.35.01:043][141]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1218.521 Y=-19.751 Z=140.000] for [BP_Target_C]
+[2022.09.28-07.35.01:057][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.35.01:059][141]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.09.28-07.35.01:059][141]PIE: 登陆的服务器
+[2022.09.28-07.35.01:060][141]PIE: PIE总开始时间：0.319秒。
+[2022.09.28-07.35.02:826][235]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=33.59 Y=11.30 Z=0.00 Location: X=-530.48 Y=110.72 Z=170.81 Normal: X=-0.27 Y=0.96 Z=0.00 PenetrationDepth:0.516 Actor:BP_AI2_C_1 Component:CharacterMesh0 BoneName:lowerarm_r (0 other events since notify)
+[2022.09.28-07.35.03:426][271]LogCharacterMovement: BP_AI2_C_3 is stuck and failed to move! Velocity: X=11.82 Y=32.04 Z=0.00 Location: X=-479.22 Y=60.88 Z=170.96 Normal: X=0.39 Y=0.92 Z=0.00 PenetrationDepth:3.427 Actor:BP_AI2_C_4 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2022.09.28-07.35.03:826][295]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=33.59 Y=11.30 Z=0.00 Location: X=-530.47 Y=110.72 Z=170.81 Normal: X=-0.27 Y=0.96 Z=0.00 PenetrationDepth:0.517 Actor:BP_AI2_C_1 Component:CharacterMesh0 BoneName:lowerarm_r (4 other events since notify)
+[2022.09.28-07.35.04:804][353]LogCharacterMovement: BP_AI2_C_3 is stuck and failed to move! Velocity: X=149.53 Y=371.00 Z=0.00 Location: X=-484.51 Y=54.37 Z=170.96 Normal: X=0.88 Y=-0.47 Z=0.00 PenetrationDepth:1.433 Actor:BP_AI2_C_4 Component:CharacterMesh0 BoneName:hand_l (11 other events since notify)
+[2022.09.28-07.35.04:839][355]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=65.50 Y=23.16 Z=0.00 Location: X=-530.49 Y=110.73 Z=170.81 Normal: X=-0.30 Y=0.95 Z=0.00 PenetrationDepth:0.827 Actor:BP_AI2_C_1 Component:CharacterMesh0 BoneName:lowerarm_r (23 other events since notify)
+[2022.09.28-07.35.05:807][413]LogCharacterMovement: BP_AI2_C_3 is stuck and failed to move! Velocity: X=152.13 Y=369.94 Z=0.00 Location: X=-484.97 Y=54.96 Z=170.96 Normal: X=0.89 Y=-0.45 Z=0.00 PenetrationDepth:2.447 Actor:BP_AI2_C_4 Component:CharacterMesh0 BoneName:hand_l (7 other events since notify)
+[2022.09.28-07.35.05:841][415]LogCharacterMovement: BP_AI2_C_5 is stuck and failed to move! Velocity: X=65.56 Y=23.15 Z=0.00 Location: X=-530.48 Y=110.72 Z=170.81 Normal: X=-0.32 Y=0.95 Z=0.00 PenetrationDepth:0.996 Actor:BP_AI2_C_1 Component:CharacterMesh0 BoneName:lowerarm_r (25 other events since notify)
+[2022.09.28-07.35.12:749][827]LogBlueprintUserMessages: [Buff_Base_HPUP_C_0] HPUP
+[2022.09.28-07.35.19:460][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'PlayerScores' of length 0 in '/Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode_C:FindWinner'!
+[2022.09.28-07.35.33:386][ 43]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array ConnectedPlayers [-1/0]!
+[2022.09.28-07.35.33:386][ 43]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.09.28-07.35.33:386][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.35.33:386][ 43]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/UEDPIE_0_Arena01
+[2022.09.28-07.35.33:386][ 43]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.35.33:387][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.35.33:402][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.28-07.35.33:414][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-07.35.33:439][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.28-07.35.33:439][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.35.33:441][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.28-07.35.33:448][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-07.35.33:453][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.09.28-07.35.33:487][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2022.09.28-07.35.42:527][513]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2022.09.28-07.35.51:663][814]BlueprintLog: New page: 编译BP_RoomGameMode
+[2022.09.28-07.35.51:775][814]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.09.28-07.35.52:492][834]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_RoomGameMode556B777A4DE90E5CF6ADA7B2B3C1B9E9.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2022.09.28-07.35.52:513][834]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2022.09.28-07.35.52:513][834]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2022.09.28-07.35.57:226][  2]BlueprintLog: New page: 编译BP_RoomGameMode
+[2022.09.28-07.35.57:321][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.09.28-07.35.57:893][ 15]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_RoomGameModeCFDBDFCF400CD0058537E4A8FA4598CA.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2022.09.28-07.35.57:914][ 15]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2022.09.28-07.35.57:914][ 15]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2022.09.28-07.35.58:371][ 33]LogSlate: Window 'BP_RoomGameMode' being destroyed
+[2022.09.28-07.35.58:392][ 33]LogSlate: Window 'BP_RoomGameMode' being destroyed
+[2022.09.28-07.35.58:399][ 33]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-07.35.58:399][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
