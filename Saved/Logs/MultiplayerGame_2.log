@@ -4409,3 +4409,71 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.27-13.57.54:431][374]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena01_Auto6E0FE251441DEC73FB72F61B61056342D.tmp' to '../../../../../Game000/AIHomework/Saved/Autosaves/Game/MultiplayerGame/Maps/Arena01_Auto6.umap'
 [2022.09.27-13.57.54:435][374]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MultiplayerGame/Maps/Arena01' took 0.125
 [2022.09.27-13.57.54:435][374]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.125
+[2022.09.27-14.26.54:465][793]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Character/BP_BaseCharacter.BP_BaseCharacter
+[2022.09.27-14.26.59:358][852]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.26.59:360][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-14.27.02:109][904]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.27-14.27.02:109][904]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.27.02:109][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-14.27.04:577][957]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.27.04:577][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-14.27.06:059][982]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.27-14.27.06:059][982]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.27.06:059][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-14.27.08:548][ 48]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.27.08:548][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-14.27.09:474][ 62]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.27-14.27.09:474][ 62]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.27.09:474][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-14.39.04:241][ 23]LogSlate: Window 'BP_BaseCharacter' being destroyed
+[2022.09.27-14.39.04:255][ 23]LogSlate: Window 'BP_BaseCharacter' being destroyed
+[2022.09.27-14.39.04:261][ 23]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.27-14.39.04:261][ 23]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.04:261][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-14.39.05:600][ 50]LogUObjectHash: Compacting FUObjectHashTables data took  25.82ms
+[2022.09.27-14.39.09:006][ 50]LogSlate: Window '保存内容' being destroyed
+[2022.09.27-14.39.09:964][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Maps/Arena01" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.27-14.39.10:161][ 85]LogUObjectHash: Compacting FUObjectHashTables data took  17.29ms
+[2022.09.27-14.39.10:250][ 85]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena0116884C0646169A705ED68D899DA7E334.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01.umap'
+[2022.09.27-14.39.10:498][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Maps/Arena01_BuiltData" FILE="../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01_BuiltData.uasset" SILENT=true
+[2022.09.27-14.39.10:641][ 85]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena01_BuiltData9770BB274CB230AA3E593AB545B17F6D.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Maps/Arena01_BuiltData.uasset'
+[2022.09.27-14.39.10:716][ 85]AssetCheck: New page: 资产保存：多个资产
+[2022.09.27-14.39.10:716][ 85]LogContentValidation: Display: 正在验证World /Game/MultiplayerGame/Maps/Arena01.Arena01
+[2022.09.27-14.39.10:716][ 85]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/MultiplayerGame/Maps/Arena01_BuiltData.Arena01_BuiltData
+[2022.09.27-14.39.11:673][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.09.27-14.39.12:961][124]LogSlate: Window '保存内容' being destroyed
+[2022.09.27-14.39.13:024][124]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BTTask_BlueprintBase_NewA2E880544B8E907A9AD9ACA58054C25C.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Character/AI/Magic/BTTask_BlueprintBase_New.uasset'
+[2022.09.27-14.39.13:059][124]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MultiplayerGame/Blueprints/Character/AI/Magic/BTTask_BlueprintBase_New.
+[2022.09.27-14.39.13:095][124]AssetCheck: New page: 资产保存：BTTask_BlueprintBase_New
+[2022.09.27-14.39.13:095][124]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Character/AI/Magic/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2022.09.27-14.39.13:749][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.09.27-14.39.13:795][149]LogSlate: Window 'MultiplayerGame - 虚幻编辑器' being destroyed
+[2022.09.27-14.39.14:739][150]Cmd: QUIT_EDITOR
+[2022.09.27-14.39.14:740][150]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.09.27-14.39.14:751][150]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.09.27-14.39.15:507][150]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.09.27-14.39.15:507][150]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.09.27-14.39.15:507][150]LogAudio: Display: Audio Device unregistered from world 'Arena01'.
+[2022.09.27-14.39.15:510][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.27-14.39.15:516][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.27-14.39.15:634][150]LogAudio: Display: Audio Device Manager Shutdown
+[2022.09.27-14.39.15:640][150]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2022.09.27-14.39.15:669][150]LogExit: Preparing to exit.
+[2022.09.27-14.39.16:491][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.09.27-14.39.16:952][150]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.16:956][150]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.16:959][150]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.16:963][150]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.16:968][150]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.16:972][150]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.16:977][150]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.16:980][150]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.16:984][150]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.16:987][150]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.16:990][150]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.16:993][150]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.16:997][150]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.18:102][150]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-14.39.18:111][150]LogExit: Editor shut down
+[2022.09.27-14.39.18:134][150]LogExit: Transaction tracking system shut down
+[2022.09.27-14.39.18:225][150]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
