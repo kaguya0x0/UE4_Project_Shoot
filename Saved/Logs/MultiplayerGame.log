@@ -3258,3 +3258,49 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.28-02.45.39:635][806]LogSlate: Window 'Buff_Attack_UP' being destroyed
 [2022.09.28-02.45.39:671][806]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
 [2022.09.28-02.45.39:671][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-02.52.14:910][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.09.28-02.52.14:977][  3]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena01_Auto4F494D6B946F120CCFFDC4B8E2EEF422D.tmp' to '../../../../../Game000/AIHomework/Saved/Autosaves/Game/MultiplayerGame/Maps/Arena01_Auto4.umap'
+[2022.09.28-02.52.14:980][  3]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MultiplayerGame/Maps/Arena01' took 0.121
+[2022.09.28-02.52.14:980][  3]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.121
+[2022.09.28-02.52.14:981][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Attack_UP] ([2] browsable assets)...
+[2022.09.28-02.52.14:981][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Attack_UP]
+[2022.09.28-02.52.14:996][  3]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Buff_Attack_UP_Auto4EB58E0DC487E68D3CF4394B2012FDCEA.tmp' to '../../../../../Game000/AIHomework/Saved/Autosaves/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Attack_UP_Auto4.uasset'
+[2022.09.28-02.52.14:998][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_HPUP] ([4] browsable assets)...
+[2022.09.28-02.52.14:998][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_HPUP]
+[2022.09.28-02.52.15:012][  3]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Buff_Base_HPUP_Auto4A3473F5D45A8489FFA122EADB74A86B4.tmp' to '../../../../../Game000/AIHomework/Saved/Autosaves/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_HPUP_Auto4.uasset'
+[2022.09.28-02.52.15:013][  3]LogFileHelpers: Auto-saving content packages took 0.033
+[2022.09.28-03.13.39:123][421]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base.Buff_Base
+[2022.09.28-03.13.43:184][547]BlueprintLog: New page: 编译Buff_Base
+[2022.09.28-03.13.43:285][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.09.28-03.13.43:811][561]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Buff_BaseAA4534BD4DF003100BD2A7AD193B417B.tmp' to '../../../../../Game000/AIHomework/Content/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base.uasset'
+[2022.09.28-03.13.43:841][561]AssetCheck: New page: 资产保存：Buff_Base
+[2022.09.28-03.13.43:841][561]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base.Buff_Base
+[2022.09.28-03.13.45:956][643]LogSlate: Window 'Buff_Base' being destroyed
+[2022.09.28-03.13.45:976][643]LogSlate: Window 'Buff_Base' being destroyed
+[2022.09.28-03.13.45:992][643]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2022.09.28-03.13.45:992][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.28-03.14.15:876][912]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2022.09.28-03.14.15:941][912]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Arena01_Auto536FF92D147D9460D5729229763EB90E7.tmp' to '../../../../../Game000/AIHomework/Saved/Autosaves/Game/MultiplayerGame/Maps/Arena01_Auto5.umap'
+[2022.09.28-03.14.15:947][912]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MultiplayerGame/Maps/Arena01' took 0.129
+[2022.09.28-03.14.15:947][912]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.129
+[2022.09.28-03.14.15:950][912]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Attack_UP] ([2] browsable assets)...
+[2022.09.28-03.14.15:989][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Attack_UP.Buff_Attack_UP]
+[2022.09.28-03.14.15:989][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Attack_UP]
+[2022.09.28-03.14.16:041][912]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Buff_Attack_UP_Auto564B3C1A24238DF13D055BBBA6554CE60.tmp' to '../../../../../Game000/AIHomework/Saved/Autosaves/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Attack_UP_Auto5.uasset'
+[2022.09.28-03.14.16:043][912]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_DefenfUP] ([2] browsable assets)...
+[2022.09.28-03.14.16:080][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_DefenfUP.Buff_Base_DefenfUP]
+[2022.09.28-03.14.16:080][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_DefenfUP]
+[2022.09.28-03.14.16:113][912]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Buff_Base_DefenfUP_Auto518FCF8D847AB24CB2E0E2484897C809E.tmp' to '../../../../../Game000/AIHomework/Saved/Autosaves/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_DefenfUP_Auto5.uasset'
+[2022.09.28-03.14.16:117][912]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_HPUP] ([4] browsable assets)...
+[2022.09.28-03.14.16:157][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_HPUP.Buff_Base_HPUP]
+[2022.09.28-03.14.16:196][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_HPUP.Buff_Base_HPUP]
+[2022.09.28-03.14.16:196][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_HPUP]
+[2022.09.28-03.14.16:238][912]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/Buff_Base_HPUP_Auto5DE7B3781416D760B656E4C8C5E1D68E8.tmp' to '../../../../../Game000/AIHomework/Saved/Autosaves/Game/MultiplayerGame/Blueprints/Gameplay/Buff/Buff_Base_HPUP_Auto5.uasset'
+[2022.09.28-03.14.16:241][912]LogFileHelpers: Auto-saving content packages took 0.295
+[2022.09.28-03.29.21:062][ 13]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Character/BP_BaseCharacter.BP_BaseCharacter
+[2022.09.28-03.30.55:857][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2022.09.28-03.30.55:881][134]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MultiplayerGame/Maps/Arena01' took 0.120
+[2022.09.28-03.30.55:884][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MultiplayerGame/Blueprints/Character/BP_BaseCharacter] ([2] browsable assets)...
+[2022.09.28-03.30.55:884][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiplayerGame/Blueprints/Character/BP_BaseCharacter]
+[2022.09.28-03.30.56:055][134]LogSavePackage: Moving '../../../../../Game000/AIHomework/Saved/BP_BaseCharacter_Auto60A1A70D14BED24B6BBA9C1A1F330AAA4.tmp' to '../../../../../Game000/AIHomework/Saved/Autosaves/Game/MultiplayerGame/Blueprints/Character/BP_BaseCharacter_Auto6.uasset'
+[2022.09.28-03.30.56:061][134]LogFileHelpers: Auto-saving content packages took 0.179
